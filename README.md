@@ -1,6 +1,6 @@
 # Klassifikation von Satire/Fake News
 
-## Modul: Machine Learning bei Prof. Dr. Andreas Heß
+## Modul: Machine Learning bei Andreas Heß
 
 ### Autor: Mirco Jablonski
 
