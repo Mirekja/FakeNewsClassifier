@@ -1,6 +1,6 @@
 # Projekt: Klassifikation von Satire/ Fake News
-# im Modul: Machine Learning bei Prof. Dr. Andreas Heß
-# Author des Codes: Mirco Jablonski, 765241
+# im Modul: Machine Learning bei Andreas Heß
+# Author des Codes: Mirco Jablonski
 # Quellen: https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning, https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python
 
 import pandas as pd
@@ -88,8 +88,8 @@ class NewsClassifier:
 
 def train_in_steps(classifier, steps, X_test, y_test):
     for step in steps:
-        fake_news_path = f'{step}%/FNT_{step}'
-        true_news_path = f'{step}%/TNT_{step}'
+        fake_news_path = f'Trainingsdaten/{step}%/FNT_{step}'
+        true_news_path = f'Trainingsdaten{step}%/TNT_{step}'
         X_train_new, _, y_train_new, _ = load_data(fake_news_path, true_news_path)
 
         if not hasattr(classifier, 'X_train') or not hasattr(classifier, 'y_train'):
@@ -104,9 +104,6 @@ def train_in_steps(classifier, steps, X_test, y_test):
         step_save_path = f'{step}%'
         if not os.path.exists(step_save_path):
             os.makedirs(step_save_path)
-
-        classifier_path = os.path.join(step_save_path, f'trained_classifier_{step}v5.pkl')
-        joblib.dump(classifier, classifier_path)
 
         # Auswertung des Klassifikators nach jedem Schritt
         accuracy, precision, recall, f1, cm = classifier.evaluate(X_test, y_test)
@@ -211,8 +208,8 @@ def plot_metrics(accuracy, precision, recall, f1):
 
 def main():
     # Pfade zu den Fake- und True-News-Datensätzen
-    fake_news_path = '10%/FNT_10'
-    true_news_path = '10%/TNT_10'
+    fake_news_path = 'Trainingsdaten/10%/FNT_10'
+    true_news_path = 'Trainingsdaten/10%/TNT_10'
 
     # Laden der Trainingsdaten und Trainieren des Klassifikators
     X_train, X_test, y_train, y_test = load_data(fake_news_path, true_news_path)
