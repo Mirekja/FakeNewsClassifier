@@ -69,11 +69,14 @@ Die Leistung des Modells wird mit den Metriken `accuracy`, `precision`, `recall`
 Um das Skript auszuführen, stellen Sie sicher, dass die Ordnerstruktur korrekt ist.
 Die Ordnerstruktur sollte wie folgt sein:
 
+```plaintext
 FakeNewsClassifier
 ├── Trainingsdaten
 │   ├── Prozentordner
-│   │   ├── FNT_{%}
+        ├── FNT_{%}
         └── TNT_{%}
+```
+
 
 Führen Sie dann das Skript mit:
 
