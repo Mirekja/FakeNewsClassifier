@@ -1,8 +1,8 @@
 # Klassifikation von Satire/Fake News
 
-## Modul: Machine Learning bei Prof. Dr. Andreas Heß
+## Modul: Machine Learning bei Andreas Heß
 
-### Autor: Mirco Jablonski, 765241
+### Autor: Mirco Jablonski
 
 ### Quellen:
 - [Scikit-Learn Cheat Sheet](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
@@ -23,7 +23,7 @@
 ---
 
 ## Überblick
-Dieses Projekt zielt darauf ab, Satire/Fake News von echten Nachrichten zu unterscheiden. Dies wird durch die Implementierung eines Textklassifikators erreicht, der mit verschiedenen Machine Learning Algorithmen trainiert wird. Der Code beinhaltet die Vorverarbeitung der Daten, das Training des Modells, die Bewertung der Ergebnisse und die Visualisierung der Leistung.
+Dieses Projekt ist im Rahmen des Bachelormoduls "Machine Learning" im Studiengang Information Science entstanden und zielt darauf ab, Satire/Fake News von echten Nachrichten zu unterscheiden. Dies wird durch die Implementierung eines Textklassifikators erreicht, der mit verschiedenen Machine Learning Algorithmen trainiert wird. Der Code beinhaltet die Vorverarbeitung der Daten, das Training des Modells, die Bewertung der Ergebnisse und die Visualisierung der Leistung.
 
 ## Anforderungen
 - Python 3.x
