@@ -2,7 +2,7 @@
 
 ## Modul: Machine Learning bei Prof. Dr. Andreas Heß
 
-### Autor: Mirco Jablonski, 765241
+### Autor: Mirco Jablonski
 
 ### Quellen:
 - [Scikit-Learn Cheat Sheet](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
