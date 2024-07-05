@@ -80,7 +80,7 @@ Die Ordnerstruktur sollte wie folgt sein:
 Führen Sie dann das Skript mit:
 
 ```bash
-python <name_des_scripts>.py
+python TK_News.py
 ```
 
 ### Hauptfunktion
