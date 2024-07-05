@@ -101,7 +101,7 @@ Die `main`-Funktion koordiniert die zentralen Aufgaben des Programms:
    - Die Trainingsfortschritte werden in Schritten von 10% bis 100% überprüft und bewertet.
 
 4. **Speichern der Trainingsdaten als ARFF:**
-   - Die Trainingsdaten werden in das ARFF-Format konvertiert gespeichert.
+   - Die Trainingsdaten werden in das ARFF-Format konvertiert und gespeichert.
 
 5. **Evaluierung und Visualisierung der Ergebnisse:**
    - Die Leistung des trainierten Modells wird mit den Testdaten bewertet.
