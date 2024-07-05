@@ -72,7 +72,7 @@ Die Ordnerstruktur sollte wie folgt sein:
 ```plaintext
 FakeNewsClassifier
 ├── Trainingsdaten
-│   ├── Prozentordner
+    ├── Prozentordner
         ├── FNT_{%}
         └── TNT_{%}
 ```
