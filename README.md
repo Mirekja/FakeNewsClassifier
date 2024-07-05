@@ -23,7 +23,7 @@
 ---
 
 ## Überblick
-Dieses Projekt zielt darauf ab, Satire/Fake News von echten Nachrichten zu unterscheiden. Dies wird durch die Implementierung eines Textklassifikators erreicht, der mit verschiedenen Machine Learning Algorithmen trainiert wird. Der Code beinhaltet die Vorverarbeitung der Daten, das Training des Modells, die Bewertung der Ergebnisse und die Visualisierung der Leistung.
+Dieses Projekt ist im Rahmen des Bachelormoduls "Machine Learning" im Studiengang Information Science entstanden und zielt darauf ab, Satire/Fake News von echten Nachrichten zu unterscheiden. Dies wird durch die Implementierung eines Textklassifikators erreicht, der mit verschiedenen Machine Learning Algorithmen trainiert wird. Der Code beinhaltet die Vorverarbeitung der Daten, das Training des Modells, die Bewertung der Ergebnisse und die Visualisierung der Leistung.
 
 ## Anforderungen
 - Python 3.x
