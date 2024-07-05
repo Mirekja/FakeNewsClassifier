@@ -69,7 +69,15 @@ Die Leistung des Modells wird mit den Metriken `accuracy`, `precision`, `recall`
 - **Metriken:** `accuracy`, `precision`, `recall`, und `f1_score` werden als Balkendiagramme dargestellt.
 
 ## Ausführen des Skripts
-Um das Skript auszuführen, stellen Sie sicher, dass die Daten korrekt strukturiert und die Pfade in den Variablen `fake_news_path` und `true_news_path` angepasst sind. Führen Sie dann das Skript mit:
+Um das Skript auszuführen, stellen Sie sicher, dass die Ordnerstruktur korrekt ist.
+Die Ordnerstruktur sollte wie folgt sein:
+
+- **Trainingsdaten**
+  - **Prozentordner**
+    - **FNT_{%}**
+    - **TNT_{%}**
+
+Führen Sie dann das Skript mit:
 
 ```bash
 python <name_des_scripts>.py
