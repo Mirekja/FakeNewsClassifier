@@ -97,11 +97,11 @@ Die `main`-Funktion koordiniert die zentralen Aufgaben des Programms:
    - Das Modell wird mit den Trainingsdaten mithilfe der `train`-Methode trainiert.
 
 3. **Schrittweises Training mit Zwischenspeicherung:**
-   - Der Klassifikator wird in mehreren Schritten trainiert, wobei das Modell nach jedem Schritt gespeichert wird.
+   - Der Klassifikator wird in mehreren Schritten trainiert.
    - Die Trainingsfortschritte werden in Schritten von 10% bis 100% überprüft und bewertet.
 
 4. **Speichern der Trainingsdaten als ARFF:**
-   - Die Trainingsdaten werden in das ARFF-Format konvertiert und in einer Datei gespeichert.
+   - Die Trainingsdaten werden in das ARFF-Format konvertiert gespeichert.
 
 5. **Evaluierung und Visualisierung der Ergebnisse:**
    - Die Leistung des trainierten Modells wird mit den Testdaten bewertet.
@@ -109,9 +109,7 @@ Die `main`-Funktion koordiniert die zentralen Aufgaben des Programms:
    - Eine Konfusionsmatrix wird visualisiert, um die Ergebnisse der Klassifikation darzustellen.
    - Metriken wie `accuracy`, `precision`, `recall` und `f1_score` werden als Balkendiagramme visualisiert, um die Leistung des Modells besser zu verstehen.
 
-Die `main`-Funktion ist der zentrale Einstiegspunkt des Skripts und koordiniert alle Schritte vom Laden der Daten bis zur Auswertung der Klassifikationsergebnisse.
 ___
 ### Quellen:
 - [Scikit-Learn Cheat Sheet](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
 - [Matplotlib Cheat Sheet](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
-
