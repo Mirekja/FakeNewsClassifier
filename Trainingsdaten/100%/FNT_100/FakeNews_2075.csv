@@ -1,0 +1,101 @@
+title;text
+		google.maps.event.addListener(marker1, 'click', function(){
+			showpin(1,'');
+		});
+		infowindow1 = new google.maps.InfoWindow();
+"		infowindow1.setContent(""""<div class='geoInfoWindow'><h3>Unfall</h3><img title='' alt='' src=''><p></p><p class='infoWindowTitle'></p><p class='infoWindowTitle'></p></div>"""");"
+		
+		return false;
+}//end init
+
+function showpin(num, group){
+	initialize_mapggr9lv();
+  
+	
+		if(num==1 && group=='')
+			infowindow1.open(map_mapggr9lv, marker1);
+
+	}
+
+	var infowindow1
+	= new google.maps.InfoWindow();
+	var marker1
+	= new google.maps.Marker();
+	var image1
+	= new google.maps.MarkerImage();
+
+
+
+Wir bitten um Ihr Verständnis," dass zu diesem Artikel keine Kommentare erstellt werden können."""
+"Schwer betrunkener Alko-Lenker rief selbst die Polizei;""Ein 51-Jähriger Ungar kam in der Nach auf Mittwoch auf der L215 zwischen Manning und Ziprein in der Südoststeiermark mit seinem Pkw von der Straße ab. Der Mann blieb bei dem Unfall unverletzt. Er alarmierte aber selbst die Polizei.Dieser Faschingsdienstags-Ausflug hat sich für einen 51-jährigen Ungarn ausgezahlt. Der Mann hatte zu tief ins Glas geschaut und sich dann in der Nacht auf Mittwoch noch selbst hinters Steuer seines Autos gesetzt. Das blieb nicht ohne Folgen.Der in der Südoststeiermark lebende Ungar fuhr schwer alkoholisiert mit seinem Pkw auf der L215 von Manning (Gemeinde Pirching am Traubenberg) kommend in Richtung Ziprein (Gemeinde Kirchbach). Gegen Mitternacht passierte dann in einem Waldstück das Malheur. Der Wagen des Ungarn kam von der Straße ab und blieb zwischen Büschen stecken. "
+
+
+Verkehrsunfall: Alk-Lenker rief selbst die Polizei
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+
+
+FF Ziprein
+
+
+
+
+1/8
+

@@ -1,0 +1,101 @@
+title;text
+
+
+
+
+
+            @media screen and (max-width: 699px){
+                .diashow-pseudo-enlarge{
+                    display: none;
+                }
+            }
+        
+
+
+
+
+Er war immer mit dabei: Pete Souza ist Chef-Fotograf im Weißen Haus und hat US-Präsident Barack Obama über seine achtjährige Amtszeit begleitet. Dabei hat er historische Momente abgelichtet...... die Momente, die einen zum Schmunzeln bringen...... und die intimen Momente, die uns die Obamas so sympathisch machten.Pete Souza ist portugiesischer Abstammung und Chef-Fotograf des Weißen Hauses sowie der US-Präsidenten Ronald Reagan und Barack Obama.  Souza begleitete Barack Obama fotodokumentarisch bereits seit 2005," als dieser im Januar US-Senator für den Bundesstaat Illinois wurde. Mit der Wahl Obamas zum Präsidenten wurde er zum Chef-Fotografen des Weißen Hauses ernannt (Wikipedia).Klicken Sie sich durch die besten Fotos aus den Obama-Jahren im Weißen Haus...Ich vermisse......ihn und seinen lockeren Humor."""
+Vier Tote bei schwerem Unfall auf Autobahn;Großeinsatz auf der Autobahn A5 in Deutschland: Vier Menschen konnten nur mehr tot geborgen werden. Auf der Gegenfahrbahn gab es wegen der Schaulustigen weitere Unfälle.Bei einem schweren Unfall sind auf der deutschen Autobahn A5 in Baden-Württemberg am Montag vier Menschen ums Leben gekommen. Eine schwer verletzte Frau konnte aus einem Auto geborgen und mit dem Rettungshubschrauber in eine Klinik geflogen werden, wie die Polizei in Mannheim mitteilte. Demnach schob ein Lastwagen zwei Autos unter einen anderen Laster, der auf der rechten Spur halten musste.Beide Lastwagenfahrer blieben demnach unverletzt. Der Unfall ereignete sich demnach zwischen Kronau und dem Autobahnkreuz Walldorf südlich von Heidelberg. Feuerwehr und Rettungsdienste starteten einen Großeinsatz, die Autobahn war wegen der Rettungsarbeiten einseitig gesperrt.Nach ersten Erkenntnissen der Beamten hatte der Fahrer eines Lastwagens wegen der Verkehrssituation halten müssen. Hinter ihm stoppten zwei Autos. Diese wurden von einem nachfolgenden Lastwagen erfasst, der nicht mehr rechtzeitig bremsen konnte. Er schob die Autos unter den ersten Laster.Bei weiteren Unfällen auf der Gegenfahrbahn, die durch Schaulustige verursacht wurden, zählte die Polizei weitere drei Verletzte. Demnach stießen dort sieben Fahrzeuge bei drei Auffahrunfällen zusammen. Zwei von drei Fahrstreifen waren blockiert, es gab lange Rückstaus.UnfallFür mich sind LKW Fahrer potenzielle Mörder.Geschwindigkeit,Überholen,Abstand sind absolute Fremdwörter für diese Fahrer.Das sie unter erheblichen Druck stehen,kann ich verstehen,aber nicht zu Lasten unschuldiger Autofahrer.Falls einer anderer Meinung ist sollte er beim überholen eines LKW`s schauen was der Fahrer macht.Telefonieren,Kaffee kochen,Zeitung oder Frachtpapiere lesen oder sonst noch etwas.Traurig aber leider war.
+"Wirbelsturm ""Gita"" erreichte Tonga: Erste Schäden;""Im Vorfeld warnten Behörden vor möglicherweise katastrophalen Folgen. Erste Schäden wurden gemeldet.Mit Windstößen von mehr als 200 Kilometern pro Stunde zieht Sturm """"Gita"""" über den Inselstaat Tonga im Südpazifik. Das Auge des Sturms der zweithöchsten Kategorie vier traf die Hauptinsel Tongatapu um Mitternacht (Ortszeit) am Montag", wie das US-Taifun-Warnzentrum (JTCW) meldete. Es könnte der stärkste Sturm in der Geschichte des Landes sein, sagte der Polizeichef des Inselstaats.Meteorologen warnen, dass der Sturm am frühen Dienstag weiter an Stärke zulegen könnte. Nach ersten Berichten von Mitarbeitern des Roten Kreuzes wurden auf Tongatapu mehrere Häuser zerstört, meldete Radio New Zealand. Das volle Ausmaß der Schäden wird allerdings erst bei Tagesanbruch sichtbar sein. Auf Twitter teilten Bewohner Bilder von Überschwemmungen und Starkregen.Der Sturm erreichte Tongatapu im Dunkeln, die Regierung hatte vorsorgliche den Strom abschalten lassen und den Notstand ausgerufen. Die Polizei verhängte zudem eine Ausgangssperre bis Dienstagmorgen und rief die Bewohner auf, sich von den Küstengebieten fernzuhalten. Die Katastrophenschutzbehörde warnte," die Schäden könnten """"sehr"," sehr schlimm"""" werden.Tonga besteht aus 45 bewohnten und mehr als 120 unbewohnten Inseln. Auf Tongatapu leben mehr als 70.000 Menschen. Die neuesten Vorhersagen stammen von der Wetterstation auf Fiji"," wohin der tropische Wirbelsturm nun weiterzieht. """"Gita"""" hatte die Messstation auf Tonga beschädigt. Auch Vanuatu und Neukaledonien bereiten sich auf """"Gita"""" vor."
+#map_canvas_mapnYe7cy {
+	height: 100%
+}
+
+
+
+
+
+var map_mapnYe7cy;
+function initialize_mapnYe7cy() {
+"	 //alert(""""initializing:mapnYe7cy"""");"
+	
+    var latlng = new google.maps.LatLng(48.199072, 16.397415);
+    var myOptions = {
+      zoom: 8,
+      center: latlng,
+	  scrollwheel: false,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+"    map_mapnYe7cy = new google.maps.Map(document.getElementById(""""map_canvas_mapnYe7cy"""")",
+        myOptions);
+    
+		image1 = new google.maps.MarkerImage('/portal/fragments/geodata/icons/presse5.png',
+		new google.maps.Size(37, 46),
+		// The origin for this image is 0,0.
+		new google.maps.Point(0,0),
+		// The anchor for this image is the base of the flagpole at 0,32.
+		new google.maps.Point(18,23));
+		var myLatLng = new google.maps.LatLng(-21.178986, -175.198242);
+		marker1 = new google.maps.Marker({
+			  position: myLatLng,
+			  map: map_mapnYe7cy,
+			  icon: image1,
+			  clickable: true,
+			  zIndex: 1
+	  	});
+		google.maps.event.addListener(marker1, 'click', function(){
+			showpin(1,'');
+		});
+		infowindow1 = new google.maps.InfoWindow();
+"		infowindow1.setContent(""""<div class='geoInfoWindow'><h3>tonga</h3><img title='' alt='' src=''><p></p><p class='infoWindowTitle'></p><p class='infoWindowTitle'></p></div>"""");"
+		
+		return false;
+}//end init
+
+function showpin(num, group){
+	initialize_mapnYe7cy();
+  
+	
+		if(num==1 && group=='')
+			infowindow1.open(map_mapnYe7cy, marker1);
+
+	}
+
+	var infowindow1
+	= new google.maps.InfoWindow();
+	var marker1
+	= new google.maps.Marker();
+	var image1
+"	= new google.maps.MarkerImage();"""
+Zwei Tote bei Hubschrauber-Bruchlandung;Der Helikopter war auf einem Rettungsflug, die beiden Piloten wurden getötet.Bei der Bruchlandung eines russischen Hubschraubers auf einem Rettungsflug sind die beiden Piloten getötet worden. Vier Passagiere, darunter eine kranke Frau, überlebten den Unfall in Sibirien schwer verletzt, wie die Agentur Tass am Montag meldete.Der Helikopter vom Typ Mi-8 sollte die Kranke von einer Wetterstation in die Stadt Streschewoj fliegen, die etwa 2400 Kilometer östlich von Moskau liegt. Die Maschine brannte völlig aus. Rettungsmannschaften brachten die Verletzten mit einem anderen Hubschrauber ins Krankenhaus von Streschewoj. Zur Ursache der Bruchlandung gab es keine Angaben.Der Transporthubschrauber Mi-8, von dem seit 1964 etwa 12.000 Stück gebaut wurden, gilt als Arbeitspferd der Helikopter-Fliegerei in Russland. Bei sechs schweren Unfällen seit 2015 sind nach Angaben von Tass 59 Menschen getötet worden.
+"Wegen ""Porno-Tänzen"": Touristen mussten Kambodscha verlassen;""Insgesamt zehn Urlauber wurden nach einer privaten Party verhaftet.Wegen angeblicher obszöner Gesten haben sieben Rucksacktouristen Kambodscha verlassen müssen und sind in ihre Heimatländer zurückgekehrt. Das berichteten lokale Medien am Montag. Sie waren Ende Jänner nach einer Privatparty in der Nähe der berühmten Tempelanlage Angkor Wat festgenommen und angeklagt worden.Jetzt wurden sie gegen Kaution freigelassen und vom Gericht des Landes verwiesen. """"Erstens dürfen sie nicht in Kambodscha bleiben und zweitens dürfen sie keiner Aktivität mehr nachgehen"," die zu öffentlicher Unruhe führen könnte"""""," sagte ein Anwalt der Angeklagten der Zeitung """"The Phnom Penh Post"""".Insgesamt zehn Urlaubern - fünf Briten", zwei Kanadierinnen und je ein Mann aus Norwegen, den Niederlanden und Neuseeland - wurde vorgeworfen," bei einer privaten Party Ende Jänner """"pornografische Tänze"""" aufgeführt zu haben. Drei der zehn Angeklagten bleiben vorerst noch in Untersuchungshaft", sie sollen die Party organisiert haben. Sie stammen aus Norwegen, Großbritannien und den Niederlanden. Foto © APIn Kambodscha werden immer wieder Touristen, die zu viel nackte Haut zeigen, von den Behörden verfolgt. Im Jahr 2015 waren fünf Angkor-Wat-Touristen des Landes verwiesen worden," weil sie Nacktfotos vor der Tempelanlage gemacht hatten. Seit diesem Vorfall ist knappe Kleidung dort verboten."""
+Kindergeburtstag endete in Schlägerei;Drei Erwachsene und vier Kinder wurden leicht verletzt. Eine Kindergeburtstagsfeier in Nordhessen hat am Samstag in einer Schlägerei geendet. Wie die Polizei am Montag mitteilte, wurden mindestens drei Erwachsene und vier Kinder leicht verletzt. Mehrere Betroffene hätten daraufhin die örtliche Polizeistation in Schwalmstadt aufgesucht und Strafanzeige erstattet. Der Rettungsdienst versorgte die Verletzten.Ursache war ein Streit, der wahrscheinlich unter zwei Gruppen bulgarischer Herkunft ausgetragen worden sei. Worin die Auseinandersetzung bestand blieb aufgrund von Sprachproblemen vorerst unklar.
+"Mutter nach Tod von kleiner Tochter angeklagt;""Eine Deutsche muss sich nach dem Tod ihrer einjährigen Tochter in der Schweiz wegen vorsätzlicher Tötung vor Gericht verantworten. Die Staatsanwaltschaft St. Gallen klagte die 35-jährige Mutter und den 54-jährigen Schweizer Vater nach zweieinhalb Jahren Ermittlungen an.Die Leiche des Mädchens war im Sommer 2015 bei einer Hausdurchsuchung im Keller gefunden worden. Das Kind war schon einige Zeit tot", wie die Polizei damals berichtete. Sozialarbeiter hatten die Beamten alarmiert, weil sie das Mädchen bei einem Hausbesuch nicht vorgefunden hatten.Die Eltern stünden im Verdacht, aufgrund ihres Drogenkonsums die elterlichen Sorgfaltspflichten verletzt zu haben, so die Staatsanwaltschaft. Sie hätten das Kind nicht richtig ernährt und medizinisch versorgen lassen. Es sei durch die Vernachlässigung gestorben. Die Staatsanwaltschaft beantragte zehneinhalb Jahre Haft für die Mutter," acht Jahre für den Vater.""""Meine Mandantin ist entsetzt""""", sagte die Anwältin der Angeklagten, Monika Brenner. Sie weise die Schuld am Tod ihrer Tochter von sich. Eine Erklärung für den Tod des Mädchens habe sie aber nicht. Brenner rechnete nicht damit, dass ein Prozess vor Ende des Jahres beginnt. Die Deutsche lebe seit vielen Jahren in der Schweiz," sagte die Anwältin."""
+"Flugzeugabsturz nahe Moskau: Kollision mit Helikopter?;""Beim Absturz der Passagiermaschine kamen 71 Menschen ums Leben. Eine russische Nachrichtenagentur berichtet nun", dass es in der Luft möglicherweise zu einem Zusammenstoß mit einem Helikopter gekommen sei.Unter widrigen Wetterbedingungen sind am Montag die Untersuchungen zu dem Flugzeugabsturz mit 71 Toten nahe Moskau fortgesetzt worden. Die Einsatzkräfte fanden nahe der Absturzstelle zwei Flugschreiber. Einer habe zwar leichte Schäden, teilte der Zivilschutz des Moskauer Gebietes am Montag mit. Die Ermittler könnten die Daten aber auswerten, hieß es der Agentur Interfax zufolge. Heftiger Schneefall behinderte die Untersuchungen zu dem Flugzeugabsturz bei Moskau. Die Bergungsarbeiten sollen dennoch in den kommenden sieben Tagen weitgehend abgeschlossen sein, wie Katastrophenschutzminister Wladimir Putschkow an der Absturzstelle sagte. Die hohe Schneedecke erschwerte die Arbeit der Ermittler erheblich.Die Maschine war am Sonntag kurz nach dem Start in Moskau vom Hauptstadt-Flughafen Domodedowo vom Radar verschwunden und südöstlich von Moskau zerschellt. Keiner der Insassen der Antonow-148 überlebte den Absturz.Unter den 71 Insassen, die beim Flugzeugabsturz in einem Moskauer Vorort am Sonntag ums Leben gekommen waren, waren laut dem russischen Katastrophenschutzministerium zwei Ausländer. Bei diesen handle es sich um einen Schweizer und einen Mann aus Aserbaidschan. Der Name des Schweizers steht auch auf der Passagierliste, die die Airline Saratow am Sonntag auf ihrer Webseite veröffentlicht hatte. Das Schweizer Außenministerium konnte die Angaben zunächst nicht bestätigten.Das russische Ermittlungskomitee nannte menschliches Versagen, schlechtes Wetter oder einen technischen Defekt als mögliche Unglücksursachen. Die Möglichkeit eines Terroranschlags wurde nicht erwähnt. Russland verzeichnet seit Tagen Rekordschneefälle, und zum Unglückszeitpunkt soll schlechte Sicht geherrscht haben.Aus der Fluggesellschaft Saratow Airlines verlautete, die Maschine sei vor dem Start überprüft worden, es habe keine Unregelmäßigkeiten gegeben. Das Flugzeug habe erst im Jänner einen sogenannten C-Check durchlaufen, bei dem Triebwerke und Struktur der Maschine in einem langwierigen, etwa zweiwöchigen Verfahren besonders genau überprüft werden.Die russische Nachrichtenagentur Interfax berichtet, dass es in der Luft möglicherweise zu einer Kollision mit einem Helikopter gekommen sei, die Fluggesellschaft dementierte diese Spekulationen. Ein Vertreter des Katastrophenschutzbehörde sagte, es sei kein Trümmerteil eines Hubschraubers gefunden worden. Mittlerweile wurde auch die Blackbox gefunden," der Flugdatenschreiber soll nun ausgewertet werden. """"Russia Today"""" berichtet unter Berufung auf die Flugaufsicht", der Pilot habe kurz bevor der Kontakt abriss ein technisches Problem gemeldet.Der Aufprall muss jedenfalls heftig gewesen sein. Das Staatsfernsehen zeigte wackelige Bilder von kleinen und großen Trümmerteilen. Sie lagen über weite Strecken im tiefen Schnee auf einer Ebene verteilt. Die Umgebung sei unbewohnt," hieß es. """"Das Flugzeug muss aus großer Höhe abgestürzt sein""""", kommentierte ein Nachrichtensprecher die Bilder, die der Sender zugespielt bekommen hatte.
+
+
+Ursache noch unklar: Flugzeugabsturz in der Nähe von Moskau
+
+
+
+
+
+
+Nach dem Absturz eines russischen Passagierflugzeugs mit 71 Menschen an Bord in der Nähe von Moskau gehen die Arbeiten zur Bergung der Toten bei Eis und Schnee weiter.(c) AP
+
+
+
+
+
+
+Die Maschine vom Typ An-148 der Fluggesellschaft Saratow Airlines war vier Minuten nach dem Start vom Hauptstadt-Flughafen Domodedowo vom Radar verschwunden.AFP/APA

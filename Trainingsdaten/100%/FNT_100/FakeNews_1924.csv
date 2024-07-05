@@ -1,0 +1,101 @@
+title;text
+"Militärmaschine ist in Südwestchina abgestürzt;""Ein chinesisches Militärflugzeug ist auf einem"
+
+"Trainingsflug in Südwestchina abgestürzt.Agentur Archive - document view Das berichtete ChinasLuftwaffe am Montag. Die Zahl der Insassen wurde nicht genannt. """"Eswerden Opfer befürchtet""""", hieß es im Staatsfernsehen. Das Unglückpassierte am Nachmittag Ortszeit im Kreis Suiyang in der ProvinzGuizhou.Die Rettungs- und Bergungsarbeiten seien angelaufen, berichtetedie Luftwaffe. In Videos und Fotos im Internet, deren Herkunft nichtverifiziert werden konnten, war zu sehen, dass das Flugzeug beimAufprall auf die Erde in viele Einzelteile zerbrochen und in Flammenaufgegangen war. Die Trümmer waren weit verteilt. Es schien eingrößeres Flugzeug gewesen zu sein.
+#map_canvas_mapsrwz04 {
+	height: 100%
+}
+
+
+
+
+
+var map_mapsrwz04;
+function initialize_mapsrwz04() {
+"	 //alert(""""initializing:mapsrwz04"""");"
+	
+    var latlng = new google.maps.LatLng(26.8628888, 104.28624650000006);
+    var myOptions = {
+      zoom: 5,
+      center: latlng,
+	  scrollwheel: false,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+"    map_mapsrwz04 = new google.maps.Map(document.getElementById(""""map_canvas_mapsrwz04"""")",
+        myOptions);
+    
+		image1 = new google.maps.MarkerImage('/portal/fragments/geodata/icons/presse9.png',
+		new google.maps.Size(37, 46),
+		// The origin for this image is 0,0.
+		new google.maps.Point(0,0),
+		// The anchor for this image is the base of the flagpole at 0,32.
+		new google.maps.Point(18,23));
+		var myLatLng = new google.maps.LatLng(26.8628888, 104.28624650000006);
+		marker1 = new google.maps.Marker({
+			  position: myLatLng,
+			  map: map_mapsrwz04,
+			  icon: image1,
+			  clickable: true,
+			  zIndex: 1
+	  	});
+		google.maps.event.addListener(marker1, 'click', function(){
+			showpin(1,'');
+		});
+		infowindow1 = new google.maps.InfoWindow();
+"		infowindow1.setContent(""""<div class='geoInfoWindow'><h3>Qingyuan</h3><img title='' alt='' src=''><p></p><p class='infoWindowTitle'></p><p class='infoWindowTitle'></p></div>"""");"
+		
+		return false;
+}//end init
+
+function showpin(num, group){
+	initialize_mapsrwz04();
+  
+	
+		if(num==1 && group=='')
+			infowindow1.open(map_mapsrwz04, marker1);
+
+	}
+
+	var infowindow1
+	= new google.maps.InfoWindow();
+	var marker1
+	= new google.maps.Marker();
+	var image1
+	= new google.maps.MarkerImage();
+
+
+
+In einem Video war zu sehen, wie das Flugzeug mit lautem Krach inniedriger Höhe flog, bevor es abstürzte. Am Absturzort stieg eineRauchsäule auf, die kilometerweit zu sehen war. Die Umstände desUnglücks waren unklar.Viele Bewohner des nahe gelegenen Dorfes Qingyuan seien an dieUnfallstelle geeilt," berichtete die Zeitung """"Xinjingbao"""". In einemVideo waren rauchende Einzelteile zu sehen"," zwischen denen dieMenschen umherzogen. Zahlreiche Feuerwehrwagen eilten zumAbsturzort."""
+44 Tonnen Schokolade gestohlen;Die Ladung hatte laut Polizei einen Wert von rund 400.000 Euro.Unbekannte Täter haben in Freiburg im deutschen Bundesland Baden-Württemberg 44 Tonnen Schokolade gestohlen. In der Nacht auf Samstag entwendeten sie in einem Gewerbepark zwei Lastwagenanhänger mit jeweils 33 Paletten. Die Ladung hatte laut Polizei einen Wert von rund 400.000 Euro.Ein Anhänger tauchte später mitsamt der Schokolade wieder auf, von der anderen Hälfte der süßen Beute fehlte zunächst jede Spur. Den einen Anhänger entdeckten die Ermittler kurz nach der Tat an einer Autobahnraststätte. Der Fahrer flüchtete zu Fuß und konnte zunächst nicht gefasst werden. Sein Diebesgut musste er allerdings zurücklassen. Die Schokolade war noch komplett vorhanden.Den zweiten Anhänger fand die Polizei in einem Industriegebiet in Lahr. In diesem Fall fehlten aber die 22 Tonnen Schokolade.
+"Zahl sexueller Übergriffe in Öffis gestiegen;""Die Zahl sexueller Übergriffe in den Berliner öffentlichen Verkehrsmitteln ist einem Medienbericht zufolge deutlich gestiegen. Wie die Berliner Zeitung """"B.Z."""" am Montag unter Berufung auf einen Polizeisprecher berichtete", nahm die Polizei im vergangenen Jahr 295 Anzeigen wegen sexueller Delikte in Bussen, Straßenbahnen und U-Bahnen auf.Dies ist demnach beinahe eine Verdoppelung im Vergleich zu 2016 mit damals 156 angezeigten Übergriffen. Die Ziffer für das vergangenen Jahr liegt dabei möglicherweise noch höher: Nicht alle Anzeigen zu Übergriffen gehen dem Bericht zufolge über den Tisch der Landespolizei," sondern zuweilen von der Bundespolizei direkt an die Staatsanwaltschaft.Der deutliche Anstieg erklärt sich laut """"B.Z."""" möglicherweise auch durch eine Reform des Sexualstrafrechts vom November 2016"," wonach auch verbale Attacken als Sexualdelikte erfasst werden können. Allerdings deuten die Zahlen dennoch auf einen Trend hin: Schon 2016 war die Zahl der Sexualdelikte in Berlins öffentlichen Verkehrsmitteln ausweislich der polizeilichen Kriminalstatistik um 35 Prozent gestiegen."""
+"Mit Hahn auf Beifahrersitz unterwegs;""Das Tier war ordnungsgemäß angeschnallt gewesen", daher lag kein Verstoß vor. Auf der Rückbank hatten zudem noch zwei Schäferhunde - ebenfalls gesichert - Platz genommen.Mit einem ausgewachsenen Hahn auf dem Beifahrersitz ist eine Frau in der Pfalz in Deutschland in eine Polizeikontrolle geraten. Das Tier sei ordnungsgemäß angeschnallt gewesen, daher liege kein Verstoß vor, sagte der Sprecher der Autobahnpolizei am Montag. Auf der Rückbank hatten zudem noch zwei Schäferhunde - ebenfalls gesichert - Platz genommen.Die 30-Jährige aus den Niederlanden erklärte den Beamten," sie sei zum Sonntagsausflug unterwegs und verreise nie ohne ihre Haustiere. Die Beamten hatten das Auto am Sonntag auf dem Parkplatz """"Auf dem Hahnen"""" an der Autobahn 61 bei Frankenthal kontrolliert.""""So etwas hatten wir noch nie"""""," sagte der Polizeisprecher. Die Frau durfte nach einem kurzen Gespräch weiterfahren - aber erst nachdem sich die Polizisten mit dem Hahn abgelichtet hatten und das Foto anschließend ihren Kollegen mit den Worten """"Das ist mal ne echte Hühnerstreife..."""" präsentierten. Oh Gott...was ist an dieser Nachricht so berichtenswert?"""
+"Venedig will Zugang zu Markusplatz regeln;""Am kommenden Wochenende sollen gleichzeitig nicht mehr als 25.000 Besucher Zugang zum Markusplatz haben.Venedig bereitet sich auf einen Massenansturm von Touristen am bevorstehenden Karneval-Wochenende vor und will den Zugang zu den beliebtesten Plätzen des Stadtkerns regeln. So sollen am kommenden Wochenende gleichzeitig nicht mehr als 25.000 Besucher Zugang zum Markusplatz haben", berichtete Präfekt Carlo Boffi. Touristen sollen über Sperren Zutritt erhalten.Um eine allzu große Konzentration von Menschen auf dem Markusplatz zu vermeiden, sind Events und Künstleraufführungen auf anderen historischen Plätzen geplant, kündigte Boffi an. Vom 3. bis zum 13. Februar wird der Markusplatz unter der Leitung des Bühnenbildners des Theaters La Fenice, Massimo Checchetto, in einen großen Zirkus umgewandelt. Rund 300 Künstler werden bei mehreren Events auftreten, die dieses Jahr der Zirkuskunst gewidmet sind.
+
+
+Venedig: Masken-Show am Canal Grande
+
+
+
+
+
+
+Venedig bereitet sich auf einen Massenansturm von Touristen am bevorstehenden Karneval-Wochenende vor und will den Zugang zu den beliebtesten Plätzen des Stadtkerns regeln. AFP
+
+
+
+
+
+
+So sollen am kommenden Wochenende gleichzeitig nicht mehr als 25.000 Besucher Zugang zum Markusplatz haben, berichtete Präfekt Carlo Boffi. AFP
+
+
+
+
+
+
+Touristen sollen über Sperren Zutritt erhalten.AFP
+
+
+
+
+
