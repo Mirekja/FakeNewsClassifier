@@ -4,9 +4,6 @@
 
 ### Autor: Mirco Jablonski
 
-### Quellen:
-- [Scikit-Learn Cheat Sheet](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
-- [Matplotlib Cheat Sheet](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 
 ---
 
@@ -83,7 +80,7 @@ Führen Sie dann das Skript mit:
 python TK_News.py
 ```
 
-### Hauptfunktion
+## Hauptfunktion
 
 Die `main`-Funktion koordiniert die zentralen Aufgaben des Programms:
 
@@ -109,3 +106,8 @@ Die `main`-Funktion koordiniert die zentralen Aufgaben des Programms:
    - Metriken wie `accuracy`, `precision`, `recall` und `f1_score` werden als Balkendiagramme visualisiert, um die Leistung des Modells besser zu verstehen.
 
 Die `main`-Funktion ist der zentrale Einstiegspunkt des Skripts und koordiniert alle Schritte vom Laden der Daten bis zur Auswertung der Klassifikationsergebnisse.
+___
+### Quellen:
+- [Scikit-Learn Cheat Sheet](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
+- [Matplotlib Cheat Sheet](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
+
