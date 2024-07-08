@@ -36,6 +36,9 @@ class NewsClassifier:
         preprocessed_stop_words = [self._preprocess_word(word) for word in custom_stop_words]
         stop_words = stopwords.words('german') + preprocessed_stop_words
         self.vectorizer = TfidfVectorizer(stop_words=stop_words, ngram_range=(1, 3))
+        """
+        Bitte die gewünschten Algorithmus einkommentieren und die unerwünschten auskommentieren
+        """
         #self.clf = MultinomialNB()  # Naive Bayes
         self.clf = svm.SVC(kernel='linear')  # SVM
         #self.clf = LinearSVC()  # SVC
@@ -135,7 +138,7 @@ def load_csv(folder_path, label):
                     df_list.append({'text': text, 'label': label})
     return pd.DataFrame(df_list)
 
-# ARFF-Konvertierung und Speicherung
+# ARFF-Konvertierung und Speicherung todo: Weka nimmt SVC/(SVM) arff nicht
 def save_as_arff(df, file_name):
     arff_dict = {
         'description': 'News Dataset',
