@@ -37,7 +37,7 @@ class NewsClassifier:
         stop_words = stopwords.words('german') + preprocessed_stop_words
         self.vectorizer = TfidfVectorizer(stop_words=stop_words, ngram_range=(1, 3))
         """
-        Bitte die gewünschten Algorithmus einkommentieren und die unerwünschten auskommentieren
+        Bitte den gewünschten Algorithmus einkommentieren und die unerwünschten auskommentieren
         """
         #self.clf = MultinomialNB()  # Naive Bayes
         self.clf = svm.SVC(kernel='linear')  # SVM
