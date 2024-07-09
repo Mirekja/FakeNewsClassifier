@@ -1,12 +1,6 @@
-# Projekt: Klassifikation von Satire/ Fake News
-# im Modul: Machine Learning bei Andreas Heß
-# Author des Codes: Mirco Jablonski
-# Quellen: https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning, https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python
-
 import pandas as pd
 import os
 import csv
-import joblib
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
@@ -17,8 +11,6 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from nltk.tokenize import word_tokenize
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
 import re
-import arff
-import numpy as np
 import matplotlib.pyplot as plt
 import nltk
 
@@ -31,17 +23,21 @@ nltk.download('wordnet')
 custom_stop_words = ['postellion', 'anzeige', 'anzeig', 'titletext']
 
 class NewsClassifier:
-    def __init__(self):
+    def __init__(self, classifier_type='naive_bayes'):
         # Kombinierte Liste von Stop-Wörtern
         preprocessed_stop_words = [self._preprocess_word(word) for word in custom_stop_words]
         stop_words = stopwords.words('german') + preprocessed_stop_words
         self.vectorizer = TfidfVectorizer(stop_words=stop_words, ngram_range=(1, 3))
-        """
-        Bitte den gewünschten Algorithmus einkommentieren und die unerwünschten auskommentieren
-        """
-        #self.clf = MultinomialNB()  # Naive Bayes
-        self.clf = svm.SVC(kernel='linear')  # SVM
-        #self.clf = LinearSVC()  # SVC
+
+        # Initialisierung des Klassifikators
+        if classifier_type == 'naive_bayes':
+            self.clf = MultinomialNB()
+        elif classifier_type == 'svm':
+            self.clf = svm.SVC(kernel='linear')
+        elif classifier_type == 'linear_svc':
+            self.clf = LinearSVC()
+        else:
+            raise ValueError("Unsupported classifier type")
 
     def _preprocess_word(self, word):
         # Tokenisierung/Normalisierung von Stop-Wörtern
@@ -92,7 +88,7 @@ class NewsClassifier:
 def train_in_steps(classifier, steps, X_test, y_test):
     for step in steps:
         fake_news_path = f'Trainingsdaten/{step}%/FNT_{step}'
-        true_news_path = f'Trainingsdaten{step}%/TNT_{step}'
+        true_news_path = f'Trainingsdaten/{step}%/TNT_{step}'
         X_train_new, _, y_train_new, _ = load_data(fake_news_path, true_news_path)
 
         if not hasattr(classifier, 'X_train') or not hasattr(classifier, 'y_train'):
@@ -117,6 +113,9 @@ def train_in_steps(classifier, steps, X_test, y_test):
         print('Confusion Matrix after update:')
         print(cm)
 
+    # Nach dem Training mit 100% Daten speichern
+    save_as_csv(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.csv')
+
 def load_data(fake_news_path, true_news_path):
     fake_news = load_csv(fake_news_path, 0)
     true_news = load_csv(true_news_path, 1)
@@ -128,71 +127,60 @@ def load_csv(folder_path, label):
     files = [os.path.join(folder_path, f) for f in os.listdir(folder_path) if f.endswith('.csv')]
     df_list = []
     classifier = NewsClassifier()  # Instanz der NewsClassifier-Klasse erstellen
+
     for file in files:
-        with open(file, 'r', encoding='utf-8') as csv_file:
-            reader = csv.reader(csv_file)
-            for row in reader:
-                if len(row) > 0:  # Überprüfe, ob die Zeile nicht leer ist
-                    text = row[0]  # Text aus der ersten Spalte extrahieren
-                    text = classifier._preprocess_text(text)  # Text vorverarbeiten
-                    df_list.append({'text': text, 'label': label})
+        for encoding in ['utf-8', 'iso-8859-1', 'latin1']:
+            try:
+                with open(file, 'r', encoding=encoding) as csv_file:
+                    content = csv_file.read().replace('\0', '')  # Nullzeichen entfernen
+                    reader = csv.reader(content.splitlines())
+                    for row in reader:
+                        if len(row) > 0:  # Überprüfe, ob die Zeile nicht leer ist
+                            text = row[0]  # Text aus der ersten Spalte extrahieren
+                            text = classifier._preprocess_text(text)  # Text vorverarbeiten
+                            df_list.append({'text': text, 'label': label})
+                break  # Wenn das Lesen erfolgreich war, brechen wir die Schleife ab
+            except (UnicodeDecodeError, csv.Error):
+                continue  # Wenn ein Fehler auftritt, probieren wir das nächste Encoding
+
     return pd.DataFrame(df_list)
 
-# ARFF-Konvertierung und Speicherung todo: Weka nimmt SVC/(SVM) arff nicht
-def save_as_arff(df, file_name):
-    arff_dict = {
-        'description': 'News Dataset',
-        'relation': 'news',
-        'attributes': [('text', 'STRING'), ('label', ['0', '1'])],
-        'data': df.values.tolist()
-    }
+def save_as_csv(df, file_name):
+    df.to_csv(file_name, index=False, quoting=csv.QUOTE_ALL)
 
-    arff_content = arff.dumps(arff_dict)
+def main():
+    # Benutzer nach dem gewünschten Klassifikator fragen
+    classifier_type = input("Wählen Sie den Klassifikator (naive_bayes, svm, linear_svc): ").strip().lower()
+    if classifier_type not in ['naive_bayes', 'svm', 'linear_svc']:
+        print("Ungültige Auswahl. Bitte wählen Sie zwischen 'naive_bayes', 'svm' oder 'linear_svc'.")
+        return
 
-    with open(file_name, 'w') as f:
-        f.write(arff_content)
+    # Pfade zu den Fake- und True-News-Datensätzen
+    fake_news_path = 'Trainingsdaten/10%/FNT_10'
+    true_news_path = 'Trainingsdaten/10%/TNT_10'
 
-# Interpretation für Konfusionsmatrix-Werte
-def interpret_and_plot_confusion_matrix(cm, classes,
-                                        normalize=False,
-                                        title='Confusion matrix',
-                                        cmap=plt.cm.Blues):
+    # Laden der Trainingsdaten und Trainieren des Klassifikators
+    X_train, X_test, y_train, y_test = load_data(fake_news_path, true_news_path)
+    classifier = NewsClassifier(classifier_type=classifier_type)
+    classifier.train(X_train, y_train)
 
-    # Diese Funktion interpretiert die Konfusionsmatrix und gibt sie als Heatmap aus.
+    # Training in Schritten
+    training_steps = [10, 20, 25, 35, 50, 70, 75, 85, 100]
+    train_in_steps(classifier, training_steps, X_test, y_test)
 
-    plt.figure(figsize=(8, 6))
-    plt.subplot(1, 2, 1)
-    plt.imshow(cm, interpolation='nearest', cmap=cmap)
-    plt.title(title)
-    plt.colorbar()
-    tick_marks = np.arange(len(classes))
-    plt.xticks(tick_marks, classes, rotation=45)
-    plt.yticks(tick_marks, classes)
+    save_as_csv(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.csv')
 
-    fmt = '.2f' if normalize else 'd'
-    thresh = cm.max() / 2.
-    for i in range(cm.shape[0]):
-        for j in range(cm.shape[1]):
-            plt.text(j, i, format(cm[i, j], fmt),
-                     ha="center", va="center",
-                     color="white" if cm[i, j] > thresh else "black")
+    # Evaluierung des Klassifikators
+    accuracy, precision, recall, f1, cm = classifier.evaluate(X_test, y_test)
+    print(f'Final Accuracy: {accuracy}')
+    print(f'Final Precision: {precision}')
+    print(f'Final Recall: {recall}')
+    print(f'Final F1 Score: {f1}')
+    print('Confusion Matrix:')
+    print(cm)
 
-    plt.ylabel('True label')
-    plt.xlabel('Predicted label')
-    plt.tight_layout()
-
-    interpretations = {
-        'true_positive': f" {cm[0, 0]}",
-        'false_positive': f"{cm[0, 1]}",
-        'false_negative': f"{cm[1, 0]}",
-        'true_negative': f"{cm[1, 1]}"
-    }
-
-    plt.subplot(1, 2, 2)
-    plt.axis('off')
-    plt.text(0, 0.5, '\n'.join([f"{key}: {value}" for key, value in interpretations.items()]),
-             verticalalignment='center', horizontalalignment='left', fontsize=12)
-    plt.show()
+    # Visualisierung der Evaluierungsmetriken
+    plot_metrics(accuracy, precision, recall, f1)
 
 def plot_metrics(accuracy, precision, recall, f1):
     metrics = {'Accuracy': accuracy, 'Precision': precision, 'Recall': recall, 'F1 Score': f1}
@@ -208,38 +196,6 @@ def plot_metrics(accuracy, precision, recall, f1):
     for i, v in enumerate(values):
         plt.text(i, v + 0.01, f'{v:.2f}', ha='center')
     plt.show()
-
-def main():
-    # Pfade zu den Fake- und True-News-Datensätzen
-    fake_news_path = 'Trainingsdaten/10%/FNT_10'
-    true_news_path = 'Trainingsdaten/10%/TNT_10'
-
-    # Laden der Trainingsdaten und Trainieren des Klassifikators
-    X_train, X_test, y_train, y_test = load_data(fake_news_path, true_news_path)
-    classifier = NewsClassifier()
-    classifier.train(X_train, y_train)
-
-    # Training in Schritten
-    training_steps = [10, 20, 25, 35, 50, 70, 75, 85, 100]
-    train_in_steps(classifier, training_steps, X_test, y_test)
-
-    # Erstellen eines DataFrames mit Trainingsdaten
-    train_df = pd.DataFrame({'text': X_train, 'label': y_train})
-
-    # Speichern als ARFF
-    save_as_arff(train_df, 'train_data.arff')
-
-    # Evaluierung des Klassifikators
-    accuracy, precision, recall, f1, cm = classifier.evaluate(X_test, y_test)
-    print(f'Accuracy: {accuracy}')
-    print(f'Precision: {precision}')
-    print(f'Recall: {recall}')
-    print(f'F1 Score: {f1}')
-    print('Confusion Matrix:')
-    print(cm)
-
-    # Visualisierung der Evaluierungsmetriken
-    plot_metrics(accuracy, precision, recall, f1)
 
 if __name__ == "__main__":
     main()
