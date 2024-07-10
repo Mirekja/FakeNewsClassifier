@@ -151,15 +151,29 @@ def load_csv(folder_path, label):
 def save_as_arff(df, file_name):
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write('@relation news\n\n')
-        f.write('@attribute text string\n')
+        f.write('@attribute text {')
+
+        # Einmalige Textwerte sammeln, um Duplikate zu vermeiden
+        unique_texts = df['text'].unique()
+
+        # Schreibe die Werte für das 'text' Attribut
+        first_row = True
+        for text in unique_texts:
+            if not first_row:
+                f.write(',')
+            first_row = False
+            text = text.replace("'", "\\'") if pd.notnull(text) else ''
+            f.write(f"'{text}'")
+
+        f.write('}\n')
         f.write('@attribute label {0, 1}\n')
         f.write('@data\n')
 
+        # Schreibe die Datenzeilen
         for index, row in df.iterrows():
-            text = row['text'].replace(',', '\\,') if pd.notnull(row['text']) else ''  # Kommas im Text ersetzen
+            text = row['text'].replace("'", "\\'") if pd.notnull(row['text']) else ''
             label = row['label']
-
-            f.write(f"'{text}', {label}")
+            f.write(f"'{text}', {label}\n")
 
 
 def main():
