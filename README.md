@@ -1,3 +1,4 @@
+# Readme unvollständig!
 # Klassifikation von Satire/Fake News
 
 ## Modul: Machine Learning bei Andreas Heß
