@@ -1,18 +1,19 @@
 import pandas as pd
 import os
 import csv
+import re
+import matplotlib.pyplot as plt
+import nltk
 from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import SnowballStemmer, WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import svm
 from sklearn.svm import LinearSVC
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
-from nltk.tokenize import word_tokenize
-from nltk.stem import SnowballStemmer, WordNetLemmatizer
-import re
-import matplotlib.pyplot as plt
-import nltk
+import arff  # Install with pip if not already installed: pip install liac-arff
 
 # NLTK-Daten herunterladen
 nltk.download('stopwords')
@@ -87,8 +88,8 @@ class NewsClassifier:
 
 def train_in_steps(classifier, steps, X_test, y_test):
     for step in steps:
-        fake_news_path = f'Trainingsdaten/{step}%/FNT_{step}'
-        true_news_path = f'Trainingsdaten/{step}%/TNT_{step}'
+        fake_news_path = f'Trainingsdaten/FN_Data/{step}%'
+        true_news_path = f'Trainingsdaten/TN_Data/{step}%'
         X_train_new, _, y_train_new, _ = load_data(fake_news_path, true_news_path)
 
         if not hasattr(classifier, 'X_train') or not hasattr(classifier, 'y_train'):
@@ -113,8 +114,8 @@ def train_in_steps(classifier, steps, X_test, y_test):
         print('Confusion Matrix after update:')
         print(cm)
 
-    # Nach dem Training mit 100% Daten speichern
-    save_as_csv(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.csv')
+    # Nach dem Training mit 100% Daten speichern als ARFF
+    save_as_arff(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.arff')
 
 def load_data(fake_news_path, true_news_path):
     fake_news = load_csv(fake_news_path, 0)
@@ -145,8 +146,35 @@ def load_csv(folder_path, label):
 
     return pd.DataFrame(df_list)
 
-def save_as_csv(df, file_name):
-    df.to_csv(file_name, index=False, quoting=csv.QUOTE_ALL)
+
+# ARFF-Konvertierung
+def save_as_arff(df, file_name):
+    with open(file_name, 'w', encoding='utf-8') as f:
+        f.write('@relation news\n\n')
+        f.write('@attribute text {')
+
+        # Einmalige Textwerte sammeln, um Duplikate zu vermeiden
+        unique_texts = df['text'].unique()
+
+        # Schreibe die Werte für das 'text' Attribut
+        first_row = True
+        for text in unique_texts:
+            if not first_row:
+                f.write(',')
+            first_row = False
+            text = text.replace("'", "\\'") if pd.notnull(text) else ''
+            f.write(f"'{text}'")
+
+        f.write('}\n')
+        f.write('@attribute label {0, 1}\n')
+        f.write('@data\n')
+
+        # Schreibe die Datenzeilen
+        for index, row in df.iterrows():
+            text = row['text'].replace("'", "\\'") if pd.notnull(row['text']) else ''
+            label = row['label']
+            f.write(f"'{text}', {label}\n")
+
 
 def main():
     # Benutzer nach dem gewünschten Klassifikator fragen
@@ -156,8 +184,8 @@ def main():
         return
 
     # Pfade zu den Fake- und True-News-Datensätzen
-    fake_news_path = 'Trainingsdaten/10%/FNT_10'
-    true_news_path = 'Trainingsdaten/10%/TNT_10'
+    fake_news_path = 'Trainingsdaten/FN_Data/10%'
+    true_news_path = 'Trainingsdaten/TN_Data/10%'
 
     # Laden der Trainingsdaten und Trainieren des Klassifikators
     X_train, X_test, y_train, y_test = load_data(fake_news_path, true_news_path)
@@ -165,10 +193,11 @@ def main():
     classifier.train(X_train, y_train)
 
     # Training in Schritten
-    training_steps = [10, 20, 25, 35, 50, 70, 75, 85, 100]
+    training_steps = [10, 35, 100]
     train_in_steps(classifier, training_steps, X_test, y_test)
 
-    save_as_csv(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.csv')
+    # Speichern der Trainingsdaten als ARFF
+    save_as_arff(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.arff')
 
     # Evaluierung des Klassifikators
     accuracy, precision, recall, f1, cm = classifier.evaluate(X_test, y_test)
@@ -179,23 +208,39 @@ def main():
     print('Confusion Matrix:')
     print(cm)
 
-    # Visualisierung der Evaluierungsmetriken
-    plot_metrics(accuracy, precision, recall, f1)
 
-def plot_metrics(accuracy, precision, recall, f1):
-    metrics = {'Accuracy': accuracy, 'Precision': precision, 'Recall': recall, 'F1 Score': f1}
-    names = list(metrics.keys())
-    values = list(metrics.values())
+def main():
+    # Benutzer nach dem gewünschten Klassifikator fragen
+    classifier_type = input("Wählen Sie den Klassifikator (naive_bayes, svm, linear_svc): ").strip().lower()
+    if classifier_type not in ['naive_bayes', 'svm', 'linear_svc']:
+        print("Ungültige Auswahl. Bitte wählen Sie zwischen 'naive_bayes', 'svm' oder 'linear_svc'.")
+        return
 
-    plt.figure(figsize=(10, 5))
-    plt.bar(names, values, color=['blue', 'orange', 'green', 'red'])
-    plt.xlabel('Metrics')
-    plt.ylabel('Scores')
-    plt.title('Evaluation Metrics')
-    plt.ylim([0, 1])
-    for i, v in enumerate(values):
-        plt.text(i, v + 0.01, f'{v:.2f}', ha='center')
-    plt.show()
+    # Pfade zu den Fake- und True-News-Datensätzen
+    fake_news_path = 'Trainingsdaten/FN_Data/10%'
+    true_news_path = 'Trainingsdaten/TN_Data/10%'
+
+    # Laden der Trainingsdaten und Trainieren des Klassifikators
+    X_train, X_test, y_train, y_test = load_data(fake_news_path, true_news_path)
+    classifier = NewsClassifier(classifier_type=classifier_type)
+    classifier.train(X_train, y_train)
+
+    # Training in Schritten
+    training_steps = [10, 35, 100]
+    train_in_steps(classifier, training_steps, X_test, y_test)
+
+    # Speichern der Trainingsdaten als ARFF
+    save_as_arff(pd.DataFrame({'text': classifier.X_train, 'label': classifier.y_train}), 'Classifier/train_data.arff')
+
+    # Evaluierung des Klassifikators
+    accuracy, precision, recall, f1, cm = classifier.evaluate(X_test, y_test)
+    print(f'Final Accuracy: {accuracy}')
+    print(f'Final Precision: {precision}')
+    print(f'Final Recall: {recall}')
+    print(f'Final F1 Score: {f1}')
+    print('Confusion Matrix:')
+    print(cm)
+
 
 if __name__ == "__main__":
     main()
