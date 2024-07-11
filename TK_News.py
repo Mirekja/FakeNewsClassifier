@@ -6,7 +6,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import svm
 from sklearn.svm import LinearSVC
@@ -26,7 +26,7 @@ class NewsClassifier:
         # Kombinierte Liste von Stop-Wörtern
         preprocessed_stop_words = [self._preprocess_word(word) for word in custom_stop_words]
         stop_words = stopwords.words('german') + preprocessed_stop_words
-        self.vectorizer = CountVectorizer(stop_words=stop_words, ngram_range=(1, 3))
+        self.vectorizer = TfidfVectorizer(stop_words=stop_words, ngram_range=(1, 3))
 
         # Initialisierung des Klassifikators
         if classifier_type == 'naive_bayes':
