@@ -21,7 +21,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 # Zusätzliche Stop-Wörter
-custom_stop_words = ['postellion', 'anzeige', 'anzeig', 'titletext']
+custom_stop_words = ['postillon', 'anzeige', 'anzeig', 'titletext']
 
 class NewsClassifier:
     def __init__(self, classifier_type='naive_bayes'):
