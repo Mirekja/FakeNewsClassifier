@@ -1,0 +1,666 @@
+title,text,author,published,tags,source
+Metall war gestern – die Roboter der Zukunft sind Weicheier,"Anzeige
+
+Manche von ihnen schuften klaglos in Fabriken vor sich hin, montieren, schweißen, kleben, schrauben, sortieren, bestücken, lagern. Andere drehen Filme und werden zu Stars, sei es der mülltonnenförmige R2-D2 aus „Star Wars“, die kühle Maria aus „Metropolis“ oder die imposanten Transformers. Doch egal, ob schicker Filmstar oder unförmiger Fabrikarbeiter – Roboter sind alle aus dem gleichen Stoff gemacht: Metall.
+
+Nicht ohne Grund: „Roboter wurden ursprünglich für die Industrie entwickelt“, sagt Cecilia Laschi vom Institut für Biorobotik der Scuola Superiore Sant’Anna in Pisa. „Sie mussten hart und stark sein, um Lasten zu heben und kontrolliert Aufgaben zu meistern.“ Ihre Stärke ist zugleich ihr Nachteil: Die schwerfälligen Metallklötze können Menschen gefährlich werden.
+
+Zudem: Große Lasten herumwuchten, das können sie gut, aber an filigraneren Aufgaben scheitern sie. Eier aus dem Karton in den Kühlschrank sortieren, die Spülmaschine ausräumen, Wäsche waschen – den Haushalt können harte Roboter nicht schmeißen. Schon gar nicht kann man den Grobmotorikern alte, pflegebedürftige Menschen überantworten, auch wenn Roboter immer wieder als Lösung der Versorgungslücke angepriesen werden.
+
+Soft-Robotiker lassen sich vom Tierreich inspirieren
+
+Anzeige
+
+Leichtere, feinfühligere, ungefährlichere Maschinen sind gefragt. Wissenschaftler haben vor einigen Jahren damit begonnen, weiche Roboter, sogenannte Soft Robots, zu konstruieren. Metallfreie Maschinen aus Silikon, Gummi, Kunststoffen, Stoff oder gar Sand. Sie werden auch nicht mehr zwangsläufig elektrisch und mit Motoren angetrieben, sondern durch Gase, Flüssigkeiten, chemische Substanzen.
+
+Cecilia Laschi und ihr Forschungsroboter „Octopus“ Quelle: Jennie Hills/Science Museum London
+
+Soft-Robotiker lassen sich gerne vom Tierreich inspirieren. Die italienische Forscherin Cecilia Laschi beispielsweise hat als Vorlage Kopffüßer gewählt. In Laschis Labor in Pisa stehen ihre Forschungsroboter „Octopus“ und PoseiDRONE, Hybride aus harten und weichen Elementen: Der „Kopf“ besteht aus einer harten Steuereinheit, die Tentakel aber sind aus Silikon, in die künstliche Muskeln aus Metalldrähten mit Formgedächtnis hineingewoben wurden.
+
+Unter Strom heizen sie auf und ziehen sich zusammen. Kappt man die Stromzufuhr, springen sie wie eine Feder in ihre ursprüngliche Form zurück. Durch geschickte Längs- und Queranordnung der Drähte können sich die Tentakel verkürzen, verlängern und in jede beliebige Richtung bewegen. Soft Robots bergen jedoch neue Herausforderungen: „Man kann sie nicht so steuern wie einen normalen Roboter“, sagt Laschi. „Traditionelle Roboter haben eine bestimmte Anzahl harter Glieder, die sich in begrenzten Freiheitsgraden um Gelenke drehen.“ Dadurch lassen sich ihre Bewegungen wunderbar berechnen. „Ein Tintenfisch aber hat gar keine harten Glieder und dadurch viel mehr Freiheitsgrade.“
+
+Lesen Sie auch Pflegeroboter „Ich würde mich im Intimbereich lieber von einem Roboter waschen lassen“
+
+Anzeige
+
+Überhaupt nicht gesteuert ist der Octobot, den Jennifer Lewis und ihre Kollegen von der Harvard University in Cambridge konstruiert haben. Der nur wenige Zentimeter große künstliche Tintenfisch besitzt gar keine harten Komponenten, nicht mal mehr eine Batterie. Angetrieben wird er von Wasserstoffperoxid. Die Chemikalie, die man vom Haare- oder Zähnebleichen her kennt, fließt aus zwei Reservoiren in seinem Kopf durch ein feines Netz in alle Glieder.
+
+Dort trifft sie auf Platinscheiben, die das Peroxid in Wasser und Sauerstoff spalten – das entstehende Gas treibt die Tentakel pneumatisch an. Die Abfolgen der Strömungen im Inneren des Octobot sind so konzipiert, dass er sich autonom nach Vorbild von echten Tintenfischen durchs Wasser bewegt. Sein Sprit reicht für etwa acht Minuten Bewegung.
+
+Soft Robots sind aber auch gar nicht dafür gemacht, dass sie gesteuert werden. Mit ihren weichen Körpern sollen sie flexibel und autonom in unkontrollierbaren Umgebungen und Situationen agieren können. Beispielsweise in Katastrophengebieten, im Dschungel, auf dem Meeresboden, auf fernen Planeten – oder eben auch im Haushalt.
+
+Der Octobot hat keine harten Teile mehr und wird chemisch angetrieben Quelle: picture alliance / dpa
+
+Anzeige
+
+Mit den weichen Maschinen kehren Soft-Robot-Konstrukteure eigentlich wieder zu den Ursprüngen zurück. Das Wort „Roboter“ entstammt dem visionären Science-Fiction-Drama „R.U.R.“ des tschechischen Schriftsteller Karel Čapek. Das 1920 veröffentlichte Theaterstück beschreibt die amerikanische Firma „Rossum’s Universal Robots“, die mit ihren Maschinen die ganze Welt mit billigen Arbeitskräften versorgt (das tschechische Wort „Robota“ bedeutet Frondienst oder Arbeit). Allerdings bestehen Rossum’s Universal Robots nicht aus Metall, sondern sind biochemisch erzeugt und menschenähnlich. Heute würde man sie Androiden nennen.
+
+Hart und weich müssen sie sein
+
+Die könnten natürlich perfekt eine Geschirrspülmaschine ausräumen oder unsere Alten pflegen. Sollen diesen Job wirklich einmal künstliche Tintenfische machen? „Die wahren Gewinner“, so Robotikforscher Dario Floreano, „werden jene Roboter sein, die hart sind, wenn man Kraft braucht, um bestimmte Aufgaben auszuführen, und die weich sein können, wenn es darum geht, mit der Umwelt zu interagieren.“ Floreano ist Direktor des Labors für Intelligente Systeme an der École Polytechnique Fédérale de Lausanne. „Man braucht keinen komplett weichen Soft Robot. Wichtig ist die richtige Kombination“, sagt Cecilia Laschi.
+
+
+
+
+
+Eines der wichtigsten Elemente dabei sind die Hände beziehungsweise die Greifer. Mit ihnen interagieren Roboter mit der Umwelt, weswegen Soft-Robotik-Forscher und -Unternehmen sich vorwiegend auf sie konzentrieren.
+
+Dario Floreano und seine Kollegen etwa haben einen Greifer aus zwei eineinhalb Gramm leichten Flossen gebaut, die aus einem dehnbaren Kunststoff bestehen. Im Inneren stecken biegsame, flache Elektroden. Legt man Strom an, klappen sich die Flossen um das Objekt und halten es mittels Elektroadhäsion. Ein Ei oder ein Blatt Papier zu heben ist kein Problem für den Greifer, er kann das 80-fache seines Gewichtes stemmen.
+
+Die künstliche Hand von Festo hat kein Skelett Quelle: © Festo SE & Co. KG, alle Rechte vorbehalten
+
+Die deutsche Firma Festo aus dem schwäbischen Esslingen hat einen ganzen Zoo an Soft-Robot-Greifern entwickelt: Der FlexShapeGripper aus Silikon funktioniert wie die Zunge eines Chamäleons: Er fährt blitzschnell aus, stülpt sich über das Objekt und saugt es an. Möglich ist das durch eine geschickte Konstruktion mehrerer luft- und wassergefüllter Kammern in seinem Inneren.
+
+Lesen Sie auch Mensch, Maschine, Sexualität Was Sexpuppen können
+
+#Der TentacleGripper wiederum nimmt sich Tintenfische zum Vorbild und ist eher für runde weiche Formen gedacht. Genau wie das natürliche Vorbild hat auch er Saugnäpfe. Festo scheut aber auch nicht die ultimative Herausforderung: die menschliche Hand nachzubilden.
+
+Anzeige
+
+BionicSoftHand sieht ähnlich aus, besitzt jedoch kein Skelett. Im Inneren der Finger sind Luftbälge, die von einer Textilhaut aus elastischen und festen Fasern umschlossen sind. Strömt Luft in die Kammern, krümmen sich die Finger, sind sie leer, bleiben die Finger gestreckt. Ihrem Vorbild steht Festos Hand jedenfalls in nichts nach: Sie kann weich zugreifen, aber auch fest, wenn es nötig ist. Und sie ist pflegeleichter: Fingernägel-Schneiden oder Handcreme braucht sie nicht.
+
+Quelle: WELT AM SONNTAG
+
+Dieser Text ist aus der WELT AM SONNTAG. Wir liefern sie Ihnen gerne regelmäßig nach Hause.",Jens Lubbadeh,1597219064,"Wissenschaft,Soft Robots",welt
+Corona-Krise halbiert den Gewinn der HHLA,"Eine verlässliche Prognose kann der Hafenlogistiker nicht abgeben. Konkurrent Eurogate will Kosten durch Umstrukturierung deutlich senken. Kooperationen sind weiter möglich.
+
+An den Kaikanten im Hamburger Hafen ist weit weniger los als sonst – das zeigt sich nun auch in den Ergebnissen der Logistiker
+
+Anzeige
+
+Der weltweite Konjunktureinbruch als Folge der Corona-Pandemie hat in der Bilanz des Hamburger Hafenlogistikkonzerns HHLA tiefe Spuren hinterlassen. Im ersten Halbjahr 2020 ging der Umsatz um 9,4 Prozent auf 628,4 Millionen Euro zurück, das operative Ergebnis (Ebit) sank um 51,5 Prozent auf 55,5 Millionen Euro, wie aus der am Mittwoch veröffentlichten Zwischenbilanz hervorging. Die Zahl der an den Terminals im Hamburger Hafen bewegten Container sank um zwölf Prozent auf rund 3,1 Millionen Stück.
+
+Durch Kostensenkungen und eine Zurückhaltung bei Investitionen habe der Konzern versucht, die Auswirkungen der Krise auf das Geschäft aufzufangen, erklärte Vorstandschefin Angela Titzrath. Sie gehe derzeit von einer „graduellen Erholung“ in der zweiten Jahreshälfte aus. Die Liquidität der HHLA ist nach Unternehmensangaben trotz Pandemiebelastungen „ausreichend“.
+
+Lesen Sie auch Halbjahresbilanzen Höhere Erträge sind in der Industrie auch in Corona-Zeiten möglich
+
+
+
+
+
+Anzeige
+
+
+
+
+
+Eine verlässliche Prognose sei nicht möglich, schränkte sie ein. Es sei jedoch davon auszugehen, dass Umsatz und Betriebsergebnis (Ebit) in der Hafenlogistik „stark unter Vorjahr“ liegen werden. Hauptursache seien deutliche Rückgänge im Containerumschlag und -transport. Wörtlich heißt es in einer Mitteilung: „Die Maßnahmen schränken vor allem die sozialen Kontakte zwischen den Menschen ein, um so eine Ansteckung zu vermeiden. Sowohl auf nationaler Ebene als auch im internationalen Verkehr führt dies zu einer Kontraktion der wirtschaftlichen Tätigkeit, deren Tiefe und zeitliche Dauer sich nicht verlässlich abschätzen lassen. Die Kontraktion erfasst durchgängig alle Wirtschaftsbereiche und somit auch den für die HHLA wichtigen internationalen Handel.“
+
+Lesen Sie auch Sondierungsgespräche Deutschlands Hafenwirtschaft steht vor einer Neuordnung
+
+
+
+
+
+Zu den Gesprächen über eine Kooperation mit dem Rivalen Eurogate äußerte sich Titzrath nicht, im Hintergrund sollen aber die Gespräche weiterlaufen. Das „Hamburger Abendblatt“ berichtete unterdessen, Eurogate habe seine Belegschaft in einer Videobotschaft auf eine grundlegende Restrukturierung des Konzerns vorbereitet. Dadurch sollten die jährlichen Kosten der deutschen Terminals bis 2024 dauerhaft um 84 Millionen Euro gesenkt werden. Die HHLA und die Eigentümer von Eurogate, Eurokai und BLG Logistics sprechen seit Ende Mai über eine engere Kooperation im deutschen Containergeschäft.",'Jörn Lauterbach',1597218942,"Hamburg,Hamburger Hafen",welt
+Ein Teil der Wakashio soll versenkt werden,,,1598000847,"Panorama,Havarierter Frachter",welt
+Engpässe bei Corona-Tests in Deutschland,"Über 17.000 unbearbeitete Proben stapelten sich noch, zudem fehle das Material für neue Tests: Das Robert-Koch-Institut warnt vor Kapazitätsproblemen in Deutschlands Laboren. Das Gesundheitsministerium widersprach umgehend.
+
+Verschiedene Wissenschaftler spekulieren, das Coronavirus könnte sich in seiner Gefährlichkeit abschwächen. Dafür gibt es aber noch keine Beweise, mahnen andere Virologen.
+
+Rückstau in Laboren
+
+Anzeige
+
+Die immens gestiegene Zahl von Corona-Tests in Deutschland führt nun offenbar zu Kapazitätsproblemen.
+
+In der Woche vom 10. bis 16. August hätten die teilnehmenden Labore einen Rückstau von 17.142 abzuarbeitenden Proben angegeben, heißt es im aktuellen „Epidemiologischen Bulletin“ des Robert-Koch-Instituts (RKI). 41 Labore hätten zudem Lieferschwierigkeiten für Reagenzien genannt.
+
+Die Probleme könnten zu Verzögerungen bei der Abklärung möglicher Sars-CoV-2-Infektionen führen – und damit auch bei der Einleitung von Schutzmaßnahmen durch die Gesundheitsämter. „Es erscheint deshalb geboten, den Einsatz der Tests im Hinblick auf den angestrebten Erkenntnisgewinn in Abhängigkeit freier Testkapazitäten zu priorisieren“, so das RKI.
+
+Anzeige
+
+Entwarnung gab hingegen die Bundesregierung. Es gebe ausreichende Corona-Testkapazitäten in Deutschland, sagte ein Sprecher des Bundesgesundheitsministeriums am Freitag in Berlin. Aktuell gebe es 875.000 Tests pro Woche, bei einer Kapazität von 1,2 Millionen, sagte er weiter. Die Auslastungsgrenze sei nicht erreicht, es geben auch keinen Engpass, ergänzte der Ministeriumssprecher.
+
+Lesen Sie auch Kekulé zum Kampf gegen Corona „Ein echter Game Changer. Das würde unser Verhältnis zu dieser Pandemie verändern“
+
+Die Zahl veranlasster Tests war zuletzt immens gestiegen, unter anderem wegen der Testpflicht für Reiserückkehrer aus Risikogebieten. Waren es nach RKI-Daten in der Kalenderwoche 31 vom 27. Juli bis 2. August noch rund 578.000, lag die Zahl zwei Wochen später schon bei mehr als 875.000. In der Woche vom 20. bis 26. April hatte die Zahl der Tests noch bei rund 364.000 gelegen.
+
+Labore kritisierten bereits Ausweitung der Tests
+
+Verbrauchsmaterialien und Reagenzien würden in den Laboren unter anderem wegen begrenzter Haltbarkeit nur für kurze Zeiträume bevorratet, hieß es vom RKI. Zudem bestehe bei einigen Produkten eine starke Abhängigkeit von einzelnen Herstellern.
+
+Anzeige
+
+Bei weiter steigender Testzahl und aufgrund von Lieferengpässen bei weltweit steigender Nachfrage könnten sich die freien Kapazitäten der Labore in den nächsten Wochen reduzieren.
+
+Beim Verband Akkreditierte Labore in der Medizin (ALM) war die massive Ausweitung der Corona-Testangebote schon früh auf Bedenken und Kritik gestoßen. Angesichts begrenzter Kapazitäten sei gezieltes statt anlassloses Testen nötig. Es komme nicht darauf an, jeden Politikerwunsch zu erfüllen, hatte der erste Vorsitzende Michael Müller vergangene Woche gesagt.
+
+Lesen Sie auch Coronavirus Die Angst vor dem Zytokinsturm nach dem Impfen
+
+Am Ende drohten Ressourcen für die Versorgung Erkrankter, in Kliniken und Pflegeheimen sowie bei der Aufdeckung von Infektionsketten zu fehlen. Der Verband hatte erklärt, dass bei Tests im medizinischen Umfeld eine Dauer bis zum Ergebnis von 24 bis 48 Stunden eingehalten werde, es werde priorisiert.
+
+Derzeit sind 250 Labore (Stand Kalenderwoche 33) für die RKI-Testlaborabfrage oder in einem der anderen übermittelnden Netzwerke registriert und übermitteln überwiegend wöchentlich. Da es Nachmeldungen zu Tests der vergangenen Wochen geben kann, können sich die ermittelten Zahlen nachträglich jeweils ändern.","'Curd Wunderlich', 'Carsten Dierig', 'Susanne Gaschke'",1598000744,"Deutschland,Rückstau in Laboren",welt
+Wenn Großstädter im Urlaub Bauer spielen,"Anzeige
+
+Landbewohner freuen sich, wenn Städter für ein paar Tage aufs Land fahren, um im Urlaub einmal Bauer zu spielen. Dann gibt es immer was zu lachen. Beste Unterhaltung. Neulich waren wir unterwegs auf dem Land bei Pferde-Uschi. Vier Erwachsene aus Berlin und Karlsruhe auf dem Drei-Seiten-Hof.
+
+In 48 Stunden bauten wir ein Weidetor. Kurvten mit dem Mähtraktor um den Hof. Legten ein Gemüsebeet mit dem Minibagger an. Zerhackten Brennnesseln für eine Dünger-Brühe. Wir standen gegen halb sechs in der Früh auf (geweckt von trompetenden Kranichen am Seeufer), schreckten aus dem Mittagsnickerchen hoch (Feuerwehrsirenen-Probealarm immer samstags kurz vor 14 Uhr).
+
+Abends zählten wir unsere Blessuren und Schrammen, Kratzer und Wehwehchen: vom Augenhornhautriss (Dornengestrüpp) bis zum blauen Daumennagel (misslungener Hammerschlag). Brennnessel-Quaddeln an den Knöcheln? „Land-Wellness“, lacht Pferde-Uschi.
+
+Bauern gefällt der Arbeitseifer der Urlauber
+
+Anzeige
+
+Mitmachbauernhöfe sind groß im Trend. Auf Portalen wie Bauernhofurlaub.de sowie Landreise.de oder auch Landsichten.de/mitmachhof kann man Tausende Höfe finden. Dort darf man nach Herzenslust Schweine füttern, Pferde striegeln, Gras mit der Sense sicheln, Ställe ausmisten oder auch Unkraut jäten. Inzwischen gibt es sogar einen Stellplatzführer nur für Bauernhöfe. Hier darf gecampt werden – gegen Gebühr. 675 Bauernhöfe machen mit.
+
+Lesen Sie auch Survivaltraining Wo Städter das Überleben in der Wildnis lernen
+
+Den Landwirten gefällt der Arbeitseifer der Urlauber, die dafür auch noch zahlen. Auf dem Hof gibt es immer was zu tun. Für das Recht, die Mistgabel zu schwingen, Äpfel für den Verkauf zu pflücken oder Weidezäune zu reparieren, zahlt der Gast – mit Übernachtung kostet das durchschnittlich ab 50 Euro pro Nacht, auch mal mit gemeinsamem Frühstück in aller Herrgottsfrühe. Wer will, bekommt – wie im Schwarzwald – ein „Ferienbauern-Diplom“ überreicht, sobald die Ernte eingeholt ist.
+
+Bei Pferde-Uschi gibt es zwar keine Urkunde, aber dafür hat sie praktisches Wissen vermittelt, das kaum ein Städter mehr kennt. So haben wir gelernt, Johanniskraut auf den Wiesen zu jäten, weil die Blüten für Pferde giftig sind.
+
+Anzeige
+
+Wir haben rote Goji-Beeren gefunden, das gehypte Superfood. Doch jeder Bauer fürchtet es unter dem Namen Gemeiner Bocksdorn oder auch Teufelszwirn, weil es wie Gestrüpp wuchert und als Neophyt heimische Pflanzen verdrängt. „Hilft höchstens gegen Würmer“, sagt Pferde-Uschi.
+
+Kostenlos Campen auf dem Bauernhof Ein neues Konzept ermöglicht Campern einen Stellplatz mitten auf einem Bauernhof. Kostenlos für 24 Stunden. Für Stadtmenschen eine einmalige Gelegenheit, das Landleben für sich zu entdecken. Quelle: Die Welt
+
+Dieser Text ist aus der WELT AM SONNTAG. Wir liefern sie Ihnen gerne regelmäßig nach Hause.",Kira Hanser,1598000700,"Deutschland,Landleben",welt
+Wie du durch richtiges Atmen dein Gehirn trainierst,"Wie du atmest, so denkst du: Forscher haben herausgefunden, dass bestimmte Gehirnleistungen von unserem Atemrhythmus abhängig sind, zum Beispiel das Erinnerungsvermögen.
+
+Anzeige
+
+Atmen gehört zum ersten, das wir tun, wenn wir das Licht der Welt erblicken. Und fortan werden wir damit nicht aufhören. Zumindest nicht bis zum letzten Atemzug. Atmen ist der Inbegriff von Leben. Dabei schenken wir dem Vorgang in unserem Alltag nur wenig Beachtung. Sollten wir aber!
+
+Eine Studie der amerikanischen Northwestern University hat gezeigt, dass Atmen sowohl unser Erinnerungsvermögen als auch die Fähigkeit, emotionale Einschätzungen zu treffen, beeinflusst.
+
+Hören wir uns also selbst ein paar Sekunden zu: Einatmen, ausatmen...
+
+Anzeige
+
+Die Wissenschaftler haben festgestellt, dass beim Einatmen ganz andere Hirnareale aktiviert werden als beim Ausatmen. Betroffen sind vor allem der Hippocampus – er beeinflusst unser Erinnerungsvermögen - und die Amygdala – sie beeinflusst unser Angstempfinden. Außerdem macht es einen Unterschied, ob wir durch die Nase oder den Mund atmen. Ihre Erkenntnisse haben die Forscher nun im „Journal of Neuroscience“ publiziert.
+
+Aufbau des Gehirns mit der Amygdala (pink) und dem Hippocampus (lila) Quelle: Getty Images/Universal Images Group
+
+Das Erinnerungsvermögen steigt, wenn wir einatmen
+
+In einem Experiment baten Wissenschaftler die Probanden, sich Bilder einzuprägen. Dabei fiel auf, dass sich die Probanden eher an Bilder erinnern konnten, die sie während des Einatmens betrachtet haben, als an Bilder, die sie sich beim Ausatmen versucht haben einzuprägen.
+
+Tipp für Jurastundenten und alle, die sich viel merken müssen: Beim Auswendiglernen einfach mal ganz bewusst einatmen.
+
+Quelle: Getty Images/Hero Images
+
+Manche Emotionen können wir schneller verarbeiten, wenn wir einatmen
+
+Anzeige
+
+In einem weiteren Experiment sollten die Probanden Bilder von Gesichtern entweder der Emotion ‚Angst‘ oder ‚Überraschung‘ zuordnen. Dabei konnten die Probanden nachweislich schneller Angst identifizieren. Der Effekt ist jedoch nicht eingetreten, wenn die Probanden durch den Mund statt durch die Nase eingeatmet haben, so die Forscher.
+
+Quelle: Getty Images/Moment Open
+
+Schnelles Einatmen kann Leben retten
+
+Hast du dich schon mal gefragt, warum wir in Gefahrensituationen schneller atmen? Womöglich besteht hier ein Zusammenhang mit den Ergebnissen der Untersuchung, wie die Hauptautorin der Studie anmerkt.
+
+Unser Körper reagiert auf Angst mit einer schnelleren Atmung, was einen positiven Effekt auf unsere Gehirnfunktion hat und in eine schnellere Reaktionszeit auf Gefahr in der Umgebung resultiert.
+
+Atmen ist also nicht nur für die Sauerstoffzufuhr überlebenswichtig, sondern birgt noch ganz andere Vorteile. Besonders, wenn wir durch die Nase einatmen. Also, immer schön Luft holen!",Eva Lopez,1598259720,"kmpkt,Neurowissenschaft",welt
+In welchen Wohnungen die meisten Spinnen hausen,,Roland Knauer,1598000400,"Wissenschaft,Ökologie",welt
+Diese Smartwatches sind Alternativen zur Apple Watch,"Vor kurzem stellte Apple die vierte Generation seiner Apple Watches vor. Wer auch gerne in die Welt der Smartwatches einsteigen will, aber lieber auf den Kosmos des kalifornischen Technikriesen verzichten möchte, hat eine ganze Reihe von Alternativen.
+
+Anzeige
+
+Eine Smartwatch ist ein kompakter Alleskönner: Sie misst den Puls, kann die Schlafgewohnheiten und Körperfunktionen überwachen, ist für Sportler ein extrem nützliches Tool – und kann auch etliche Funktionen des Smartphones übernehmen, vom Empfangen von Nachrichten bis zur Navigation über GPS-Dienste. Auch Musikhören über die Smartwatch gehört dazu.
+
+Apple Watch Alternative: Was dafür spricht
+
+Ein Grund, warum sich viele User gegen Apple-Modelle entscheiden, ist der relativ hohe Preis der Produkte. Smartwatches anderer Hersteller wie z.B. FitBit sind in vielen Fällen deutlich günstiger zu finden – und das mit flächendeckend ähnlichen Funktionen und ähnlich ansprechender Optik. Es gibt eine ganze Reihe von Betriebssystemen für Smartwatches.
+
+Anzeige Prime Day Jetzt bei Amazon stöbern und Schnäppchen sichern Am 13. & 14. Oktober ist Amazon Prime Day. Das bedeutet: Tausende Artikel sind teils stark reduziert. Einzelne Produkte gibt es jetzt schon zum Schnäppchenpreis.
+
+Wear OS: Das Betriebssystem für Android-Smartwatches
+
+Wear OS ist das Betriebssystem für all jene Smartwatch-Nutzer, die auf Googles Android setzen möchten. Einer der Hauptunterschiede zwischen Wear-OS-Modellen und Apple Watches ist, dass das Android-basierte System nicht zwingend Smartphone voraussetzt, Apple-Watch-Nutzer hingegen ein iPhone benötigen.
+
+Samsung-Smartwatch: Diese Alternativen laufen auf Tizen OS
+
+Anzeige
+
+Samsung setzt bei seinen neueren Smartwatch-Modellen hingegen nicht auf Wear OS, sondern auf das Betriebssystem Tizen OS. Zu den bekannten Samsung-Modellen gehört die Samsung Galaxy Watch* sowie die Galaxy Watch Active*.
+
+Letztere bietet unter anderem GPS, einen Pulsmesser, einen Höhenmesser und ein Barometer. Die Galaxy-Watch kommt ohne diese Features, bietet aber unter anderem die Möglichkeit, die Uhr als MP3-Player zu nutzen und mit GPS-Streckenaufzeichnung ihre Fitness zu überprüfen. Die Galaxy Watch Active ist hingegen für Sportler konzipiert.
+
+Optisch sehen die Modelle wie klassische Analoguhren auf, erst nach einem genaueren Blick entpuppen sie sich als digitale Smartwatches.
+
+Anzeige Smartwatch Samsung Galaxy Watch jetzt online kaufen
+
+Anzeige Smartwatch Samsung Galaxy Watch Active jetzt online kaufen
+
+FitBit OS
+
+Anzeige
+
+Ein weiteres Betriebssystem ist FitBit OS der Firma Fitbit, die sich vor allem auf Fitnesstracker spezialisiert. iPhone-Fans könnten eventuell an der Optik der FitBit Versa Gefallen finden, die Apple-Modellen ähnlich sieht. Die FitBit Versa* bietet eine kontinuierliche Herzfrequenzmessung, einen MP3-Player sowie diverse Fitness-Apps – und das bei einer Akkulaufzeit von vier Tagen.
+
+Anzeige Smartwatch Fitbit Versa jetzt online kaufen
+
+Lesen Sie auch Kabellose In-Ear-Kopfhörer Sparen bei AirPods - das sind die Alternativen für Technik-Fans
+
+iPhone Smartwatch: Diese sind kompatibel
+
+Wer keine Apple Watch kaufen möchte, aber dennoch ein Modell sucht, das mit dem Betriebssystem iOS kompatibel ist, um es mit seinem iPhone zu nutzen, der hat die Wahl zwischen diversen Modellen.
+
+Alle drei genannten Betriebssysteme bieten Modelle, die Sie auch mit Ihrem iPhone bedienen können. Wer auf WearOS-Uhren setzt, kann unter anderem die Watch GT des chinesischen Herstellers Huawei ins Auge fassen, die mit Apples Betriebssystem kompatibel ist.
+
+Anzeige
+
+Hier haben Sie die Wahl zwischen dem Elegant- und dem Active-Modell. Die elegante Version* besitzt ein 1,2-Zoll-AMOLED-Display und hat eine Akkulaufzeit von einer Woche. Das Active-Modell* hat eine deutlich höhere Batterieleistung: Bis zu zwei Wochen hält der Akku. Der Bildschirm ist mit 1,39“ (ebenfalls AMOLED) etwas größer. Beide Smartwatches verfügen über einen Speicherplatz von 128 MB und 16 MB Ram.
+
+Auch Modelle von TicWatch* und Fossil* basieren auf dem Android-Betriebssystem und können mit dem iPhone kombiniert werden.
+
+Anzeige Smartwatch TicWatch C2 jetzt online kaufen
+
+Anzeige Smartwatch Fossil Q Venture jetzt online kaufen
+
+Auch die FitBit Ionic*, die mit dem Betriebssystem FitBit OS läuft, ist vollständig mit iOS kompatibel und synchronisiert laut Herstellerangaben automatisch mit mit über 200 gängigen iOS, Android und Windows-Geräten. Die FitBit kommt optisch als moderne Smartwatch im simplen Design daher – ihr Display ist etwas kleiner als jenes der Apple Watches. Hier gibt es allerdings Einschränkungen: Textnachrichten können über die FitBit Blaze nicht beantwortet werden, auch die Apple-Health-App wird nicht unterstützt.
+
+Anzeige Smartwatch Fitbit Ionic jetzt online kaufen
+
+In einem besonderen Design – nämlich als Analoguhr mit kleinem digitalen Display kommt die Withings/Nokia Steel*. Das Besondere: Sie bietet laut Hersteller eine Akkulaufzeit von ganzen 25 Tagen. Eine besonderheit dieses Modells: Sie bietet Schlafmonitoring, analysiert Ihre Schlafphasen und bietet eine Smart Wake-Up Funktion an, die sie im richtigen Moment bzw. in der richtigen Schlafphase aufwecken soll.
+
+Anzeige Smartwatch Withings Steel HR Hybrid jetzt online kaufen
+
+Aber auch die Samsung Galaxy Watch lässt sich mit dem iPhone verbinden – mit einigen Grundvoraussetzungen: man benötigt iOS 9.0 oder eine neuere Version, Modelle vor dem iPhone 5 sind nicht kompatibel, iPad oder iPod Touch ebenfalls nicht.
+
+Lesen Sie auch Für Alltag und Sport So finden Sie die richtige Fitness-Smartwatch
+
+Apple Watch Alternative: Was Sie beim Kauf beachten müssen
+
+Vor allem ältere iPhone- und Smartphone-Modelle sind oft nicht miteinander kompatibel – und nicht alle Smartwatches unterstützen alle Funktionen Ihres iPhones. Informieren Sie sich vor dem Kauf über die Mindestanforderungen. Besitzer einer Wear OS basierten Smartwatch können auf der von Google erichteten Website https://wearos.google.com erfahren, ob ihr Smartphone oder iPhone mit ihrer Smartwatch kompatibel ist. Prinzipiell sind Smartphones ab Android 6.0 und iPhones ab iOS 10.0 kompatibel.
+
+*Sollten Sie über die mit einem Stern gekennzeichneten Links einen Kauf abschließen, erhält WELT eine geringe Provision. Unsere Standards der Transparenz und journalistischen Unabhängigkeit finden Sie unter axelspringer.de/unabhaengigkeit.
+
+Dieser Artikel wurde erstmals am 11.10.2019 veröffentlicht.",Markus Brandstetter,1598000220,"technik,Kaufberatung",welt
+Überwältigender Flugsimulator – Microsoft düpiert Google und Amazon,"14 Jahre mussten Fans von Microsofts Flight Simulator auf eine neue Version des Spiels warten. Die neue Version nutzt Echtzeit-Daten, die per Künstlicher Intelligenz zusammengeführt werden. So wird die ganze Welt simuliert.
+
+Anzeige
+
+Die Turbine des Turboprop-Fliegers TBM 930 läuft pfeifend hoch, die Anzeigen im virtuellen Cockpit erwachen zum Leben, draußen vor dem Cockpitfenster wuselt der Flughafen Frankfurt – inklusive anderer Linienmaschinen, Fahrgasttreppen, Terminals.
+
+Nach dem Start liegt die deutsche Bankenmetropole unter dem Flieger – jedes Haus, jede Straße, der Main samt Brücken werden genau da gezeigt, wo sie sich auch in der Realität befinden. Der Flug ab Startbahn West findet nur in der Simulation auf dem PC des Redakteurs statt. Doch die Bilder aus dem Flugzeugfenster könnten auch von der Kamera eines Piloten stammen, so detailverliebt ist die Simulator-Welt da unten.
+
+Lesen Sie auch Arbeitsalltag Ewiger Video-Terror – wie Zoom, Teams und Skype unser Leben zerstören
+
+Der erste Flug in Microsofts neuem Flight Simulator 2020 überwältigt, nie zuvor gab es in einem Spiel ein so genaues Abbild der echten Welt. Problemlos findet der Simulatorpilot die Autobahn A3, folgt ihr nach Norden, wenig später ist Köln in Sicht, ein kurzer Abstecher nach Osten und tatsächlich: Auch der Heimatort, das Elternhaus des Autors, die Wiesen und Wälder des bergischen Landes sind detailgetreu auf Microsofts Servern hinterlegt.
+
+Challenges halten geübte Piloten bei Laune Quelle: xbox.com
+
+Anzeige
+
+Diesen Flug bis vor die eigene Haustür, verspricht Microsoft, soll jeder Kunde weltweit nachspielen können. Der neue Flugsimulator ist das erste Spiel, das den kompletten Planeten Erde nachbilden soll, inklusive Milliarden von Gebäuden, allen Straßen, Seen, Flüssen, Bergen und natürlich aller Flughäfen der Welt.
+
+Per Algorithmus aus Satellitenfotos
+
+Im ersten Test von WELT hält die Software dieses Versprechen zu 95 Prozent: Tatsächlich sind alle Städte abgebildet, doch manchmal hapert es an der Genauigkeit. So sind zum Beispiel manche Wolkenkratzer in Frankfurt in der Simulation nur wenige Stockwerke hoch, auch diverse Kirchen und Fernsehtürme sind geschrumpft, der Buckinghampalast in London wird als Wohnsilo gezeigt, Autobahnen werden zu normalen Straßen degradiert.
+
+Vom Sofa aus die Welt von oben erkunden: mit dem neuen Microsoft Flight Simulator Quelle: xbox.com
+
+Doch das ist Klagen auf hohem Niveau – und die Welt vor dem Cockpitfenster ist nicht statisch, sie wird konstant weiter entwickelt. Schon in wenigen Wochen könnten Frankfurt oder London im Spiel ganz anders aussehen.
+
+Lesen Sie auch Forschung für Autonomes Fahren Der 500.000-Euro-Simulator macht das Auto zur Zeitmaschine
+
+Anzeige
+
+Denn Microsoft hat mit seinem neuen Flight Simulator etwas völlig Neues gewagt: Die Straßen, Berge, Flughäfen, Häuser sind nicht per Hand programmiert – das wäre für die gesamte Erde schlicht unmöglich zu schaffen – sondern per Algorithmus aus Satellitenfotos, digitalen Straßenkarten und Topografiekarten generiert.
+
+Die Software lädt bei jedem Start die neueste Version der Umgebung von den Cloud-Servern des Konzerns, inklusive Wetterdaten Quelle: xbox.com
+
+Der Konzern besitzt für den Betrieb seines Kartendienstes Bing Maps bereits die Rechte an detailgetreuen Luftbildern, Satellitenfotos und Kartendaten. Die Programmierer des Flugsimulators konnten sich dort bedienen und ein virtuelles Abbild der Realität erschaffen, das so komplex ist wie kein anderes zuvor:
+
+Die Software lädt bei jedem Start die neueste Version der Umgebung von den Cloud-Servern des Konzerns, inklusive Wetterdaten, dem aktuellen Flugverkehr und neuesten Satellitendaten. Wenn nebenan ein neuer Kreisverkehr gebaut wird, stehen die Chancen nicht schlecht, dass der Spieler den in einigen Wochen auch im Spiel entdeckt.
+
+Der komplette Planet ist nachgebildet, inklusive Milliarden von Gebäuden, allen Straßen, Seen, Flüssen, Berge Quelle: xbox.com
+
+Anzeige
+
+Damit hat Microsoft tatsächlich das erste Spiel einer völlig neuen Spielegeneration geschaffen: Die Spielwelt entspricht so getreu wie möglich der Realität, sie passt sich ihr dynamisch an. Dazu führt der Konzern Daten aus unterschiedlichsten Quellen in Echtzeit zusammen und lässt sie per künstlicher Intelligenz analysieren.
+
+Die Wetterdaten kommen vom selben Anbieter, der auch echte Freizeitpiloten mit Wetterberichten versorgt. Der virtuelle Flugverkehr wird aus den ADS-B-Signalen eingespielt, die echte Flugzeuge weltweit senden. Straßen stammen aus der OpenStreetmaps-Datenbank, Berge und Täler aus einer weltweiten Geodatenbank.
+
+Lesen Sie auch Aus für die 747 531 Tage nach dem A380 beerdigt Boeing die „Königin der Lüfte“
+
+Das Ergebnis ist überwältigend: Der Simulator ist nicht für Hardcore-Flugzeugfans gedacht, auch wenn diese auf ihre Kosten kommen. Für die übrigen Spieler sind die virtuellen Flieger schlicht das beste Mittel, diese wunderschöne Welt im Computer zu entdecken.
+
+Dabei machen die Flugzeuge richtig Spaß, denn Microsoft hat die Lernschwelle bewusst niedrig gehangen: Am Anfang des Spiels stehen virtuelle Fluglektionen, danach hilft der Computer, so gewollt, beim Bedienen der Avionik. Neben kleinen Cessna-Propellermaschinen kann der Spieler auch mit einer Boeing 747 oder einem Icon-Wasserflugzeug abheben.
+
+Das Spiel ist Teil des Spieleabos Xbox-Gamepass und soll einer der wichtigsten Titel für die kommende neue Xbox-Spielekonsole sein Quelle: xbox.com
+
+Sogenannte Landing-Challenges, Landungen auf den gefährlichsten Flughäfen der Welt, halten geübte Piloten bei Laune: Wer schon einmal eine Turboprop auf dem Flughafen Lukla im Himalaja gelandet hat, hat nachher schwitzige Handabdrücke am Joystick.
+
+Universell einsetzbare Software
+
+Dass Microsoft ausgerechnet jetzt, 14 Jahre nach dem Erscheinen der Vorgängerversion, einen neuen Flugsimulator auflegt, ist kein Zufall. Der Konzern benötigt sicher nicht die 69 Euro pro verkauftem Spiel (Standardversion), um sein milliardenschweres Konzernergebnis zu pushen.
+
+Aber es gab wohl nie zuvor ein schöneres Marketinginstrument für die Leistungsfähigkeit von Microsofts Azure-Cloud-Diensten, für AI-getriebener Datenbankanalyse und Integration von externen Datendiensten.
+
+Anzeige
+
+Mit dem Flugsimulator zeigt der Konzern, was er kann. Konkurrenten sind nicht etwa andere Spielestudios, sondern Google mit seinem Earth-Angebot oder Amazon mit seiner AWS-Cloud. Der neue Flugsimulator ist auch ein Fehdehandschuh ins Gesicht der beiden Cloud-Konkurrenten: Seht her, was wir können.
+
+Lesen Sie auch Erfolgreiche Videospiel-Serie So funktioniert das „Minecraft“-Imperium
+
+Das Spiel ist zudem ab sofort auch Teil des Spieleabos Xbox-Gamepass und soll einer der wichtigsten Titel für die kommende neue Xbox-Spielekonsole von Microsoft werden, wo Microsoft künftig gegen Sonys neue Play Station bestehen muss.
+
+Die Softwareplattform hinter der schönen Welt des Flugsimulators wird Microsoft voraussichtlich nicht nur für ein einziges Spiel verwenden: Die Software dürfte sich auch für Business-Simulationen, für Lernspiele oder für Trainingsumgebungen eignen, das Know-how zur AI-Generierung einer 3D-Welt aus Fotodaten kann Microsoft in seinen Geodatendiensten verwenden.
+
+Für Spieler ist das ein Glücksfall: Sie bekommen für 69 Euro ein mächtiges Stück Software, das viele Stunden lang faszinieren kann, und das auf Jahre hinaus immer neue Inhalte verspricht.",Benedikt Fuest,1597999487,"Wirtschaft,Flight Simulator 2020",welt
+Meghan mischt sich in den US-Wahlkampf ein,"Die britischen Royals halten sich mit politischen Äußerungen zurück. Gestört hat das die Herzogin von Sussex wohl schon immer. Nach ihrer Rückkehr in die USA schaltete sich die 39-Jährige nun direkt in den Wahlkampf ein. Ihre Botschaft ist klar.
+
+Herzogin Meghan hat in den USA dafür geworben, im November wählen zu gehen. Für die Initiative „When we all vote“ sprach sie sich dafür aus, dass das Land Veränderung brauche - ohne dabei einen Namen zu nennen.
+
+Anzeige
+
+Herzogin Meghan hat mit einer politischen Äußerung zur Präsidentschaftswahl in den USA für Aufsehen gesorgt. Die Frau von Prinz Harry sagte am Donnerstag bei einer Online-Wahlveranstaltung, das Land brauche unbedingt „Veränderung“ – allerdings ohne US-Präsident Donald Trump oder seinen Rivalen Joe Biden beim Namen zu nennen.
+
+„Wir wissen alle, was in diesem Jahr auf dem Spiel steht“, sagte Meghan bei dem Wahlaufruf der Initiative „When We All Vote“ (Wenn wir alle wählen). Zuvor hatte sie sich bei ihrer „Freundin“ Michelle Obama bedankt, die ihr die Gelegenheit gäbe, Teil dieser wichtigen Initiative zu sein. „When We All Vote“ wird von der früheren First Lady Michelle Obama, Hollywoodstar Tom Hanks und anderen Prominenten unterstützt.
+
+Meghan gilt als scharfe Kritikerin von US-Präsident Donald Trump, seinen Namen erwähnte sie bei dem Online-Event aber nicht. Weiter sagte die 39-Jährige laut britischen Medien: „Ich weiß es, und Ihr wisst es mit Sicherheit auch. Ihr seid genauso motiviert und engagiert für die Veränderung, die wir alle brauchen und verdienen.“
+
+Lesen Sie auch 70. Geburtstag Warum Prinzessin Anne die Geheimwaffe der Royals ist
+
+Anzeige
+
+Wer nicht wählen gehe, der mache sich, so Meghan ungewöhnlich scharf, mitschuldig daran, dass die USA womöglich nicht gut regiert würden. „Wenn wir nicht Teil der Lösung sind, sind wir Teil des Problems.“
+
+An dieser Stelle finden Sie Inhalte aus Twitter Um mit Inhalten aus Twitter und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Ausschnitte aus der Rede der Herzogin wurden unter anderem von Autor Omid Scobie bei Twitter gepostet, der zuletzt mit der Biografie „Finding Freedom“ über das Paar Schlagzeilen gemacht hatte.
+
+Rückgabe des Titels gefordert
+
+Harry und Meghan hatten sich Ende März offiziell aus dem britischen Königshauses zurückgezogen. Sie leben inzwischen mit ihrem Sohn Archie in Meghans Heimat in Kalifornien.
+
+Anzeige
+
+Die britischen Royals mischen sich normalerweise nicht in politische Diskussionen ein. Mitglieder der königlichen Familie gehen traditionell auch nicht wählen; ein Gesetz dazu gibt es aber nicht. Insbesondere Königin Elizabeth II. (94) verhält sich politisch neutral.
+
+Lesen Sie auch Megixt Warum Meghan und Harry nun allein sind – und vor allem raus
+
+„When We All Vote“ wirbt dafür, dass sich vor der Wahl am 3. November alle Wahlberechtigten in das Wählerverzeichnis eintragen lassen und ihre Stimme abgeben.
+
+Zudem soll der Hashtag #whenallwomenvote vor allem Frauen zur Stimmabgabe ermutigen.
+
+In ihrer Heimat Großbritannien war Meghans Teilnahme zuvor auf Kritik gestoßen. In den sozialen Medien forderten wütende Briten, die Herzogin von Sussex solle ihren Titel abgeben, da sie sich in politische Angelegenheiten der USA einmische.",'Daniel Friedrich Sturm',1597998796,"Panorama,„Für die Veränderung“",welt
+„Tenet“ – Von Christopher Nolan,,,1597998582,"Film,Kinotrailer",welt
+"„Haben gesehen, dass es ein alternatives Modell von Amerika gibt“",,,1597998459,"Videos,US-Wahlen 2020",welt
+Laut Arzt keine Spuren von Gift in Nawalnys Körper gefunden,"Der Kreml-Kritiker Alexej Nawalny liegt seit Donnerstag im Koma. Nun ist er in Berlin gelandet und wurde zur Behandlung in die Charité gebracht. Vorausgegangen war ein Tauziehen zwischen deutschen und russischen Medizinern.
+
+Nach langem Hin und Her hatten die Ärzte den schwer erkrankten Alexej Nawalny aus der Klinik entlassen. Inzwischen ist der russische Oppositionelle in Tegel gelandet und von dort aus in die Berliner Charité gebracht worden.
+
+Anzeige
+
+Mehrere Helfer heben vorsichtig die massive Trage aus der Maschine: Als am Samstagmorgen kurz vor neun Uhr der Rettungsflug mit Alexej Nawalny in Berlin-Tegel landet, ist der Nervenkrieg um Russlands prominenten Regierungskritiker vorläufig zu Ende. Stundenlang hatten Familienangehörige des Putin-Gegners und Ärzte noch im sibirischen Omsk um eine Ausreise des vermutlich vergifteten Politikers gerungen. Am Freitagabend gaben die Mediziner schließlich ihre Bedenken gegen einen Transport nach Deutschland auf. Der Zustand des Kremlkritikers sei „stabil“, heißt es bei seiner Ankunft.
+
+Ein Intensivtransporter der Bundeswehr brachte Nawalny dann unter starkem Polizeischutz in die Universitätsklinik Charité in Berlin-Mitte. Nun kann der 44-Jährige ausführlich untersucht und behandelt werden. Nach der medizinischen Diagnostik und Rücksprache mit der Familie wollen sich die Ärzte zur Erkrankung und weiteren Schritten äußern, erklärte die Universitätsklinik. Die Untersuchungen würden einige Zeit in Anspruch nehmen. Sobald Erkenntnisse vorlägen, werde auch die Öffentlichkeit informiert. Eine Sprecherin der Charité erklärte, vor Montag sei nicht mit einer offiziellen Äußerung zum Gesundheitszustand Nawalnys zu rechnen.
+
+Nawalnys engster Kreis hatte russischen Behörden und Ärzten vorgeworfen, mit einer Verzögerungstaktik einen raschen Transport verhindert und so mögliche Beweise vertuscht zu haben. „Nichts hat den Transport von Nawalny behindert. Es war notwendig, dass das so schnell wie möglich getan werden musste“, twitterte Nawalnys Sprecherin, Kira Jarmysch. Das hat vor allem seine Frau Julia Nawalnaja und sein Team möglich gemacht, die sehr hartnäckig den Behörden in ihrem Vorgehen widersprochen haben. Sie verdächtigen sogar die Ärzte, eindeutig gelogen zu haben. Nawalnaja bat dann Präsident Wladimir Putin persönlich, den Transport zu erlauben.
+
+Lesen Sie auch Michail Chodorkowski „Wenn Putin beschließt, mich umzubringen, könnte ich mich kaum schützen“
+
+Anzeige
+
+Die Aktion war heikel, denn Nawalny ist einer der schärfsten Kritiker des Kremlchefs. Er ist der führende Kopf der liberalen Opposition. Nawalny holte die Opposition quasi aus der Schockstarre, nachdem der angesehene Regierungskritiker Boris Nemzow 2015 erschossen wurde. Mit detaillierten Recherchen zu Machtmissbrauch hat Nawalny den Kreml, den Geheimdienst und auch einflussreiche Oligarchen herausgefordert und gegen sich aufgebracht. 2017 schreckte er auch nicht zurück, den damaligen Regierungschef Dmitri Medwedew Korruption im großen Umfang vorzuwerfen. Nawalny löste so eine Protestwelle aus.
+
+Steinmeier wünscht dem Politiker rasche Genesung
+
+Bundespräsident Frank-Walter Steinmeier hofft auf eine baldige Aufklärung der Erkrankung. Es sei wichtig, „dass die Frage nach der Ursache der dramatischen Verschlechterung seines Gesundheitszustandes“ beantwortet werde, sagte Steinmeier am Samstag am Rande seines Besuchs bei den Salzburger Festspielen. „Ich hoffe, dass alle diejenigen, die zur Klärung dieser Frage etwas beitragen können, dies tatsächlich tun.“
+
+Steinmeier zeigte sich erleichtert, dass Nawalny „in einem Krankenhaus und von Ärzten behandelt wird, die das Vertrauen der Familie genießen“. Er wünsche dem russischen Politiker eine rasche und vollständige Genesung, „damit seine Arbeitsfähigkeit wieder hergestellt wird“.
+
+Anzeige
+
+Bei der Ausreise hat möglicherweise auch Finnlands Präsident Sauli Niinistö eine vermittelnde Rolle gespielt. Er habe zunächst mit Kanzlerin Angela Merkel über Nawalny gesprochen und sei mit ihr übereingekommen, dass er die Sache in einem weiteren Telefonat mit Putin erörtern solle, sagte Niinistö dem finnischen Rundfunksender Yle. Er habe Putin in dem Gespräch gefragt, ob Nawalny zur Behandlung nach Deutschland gebracht werden könne, worauf der geantwortet habe, dass es dafür keine politischen Hindernisse gebe.
+
+Aus Sicht russischer Ärzte kein Beleg für Vergiftung
+
+Im Fokus steht Nawalnys Team auch, weil Regionalwahlen in Russland anstehen. Mit ihrer Strategie einer so bezeichneten „klugen Abstimmung“ will es der Kremlpartei Geeintes Russland Stimmen abspenstig machen und deren Dominanz in den Regionen brechen. Die Taktik: Jede beliebige Partei zu wählen – nur nicht Geeintes Russland. Damit waren sie auch schon in der Vergangenheit besonders für den Kreml unerwartet erfolgreich.
+
+Deshalb sei es nicht auszuschließen, dass Nawalny Ziel eines Anschlags geworden sei, sagte Alexej Wenediktow, der Chefredakteur des renommierten Radiosenders Echo Moskwy. „Politisch ist das natürlich ein grandioser Schlag für das politische System Russlands.“ Die mögliche Vergiftung werde dieses System deutlich verändern.
+
+Das Spezialflugzeug mit dem Kremlkritiker Nawalny an Bord auf dem Flughafen Tegel Quelle: dpa/Michael Kappeler
+
+Anzeige
+
+Trotz einer möglichen Vergiftung wollen sich die Mitarbeiter nicht einschüchtern lassen. Die Stiftung werde ihre Arbeit fortsetzen, schrieb der Fonds-Leiter Iwan Schdanow auf Twitter. Auch die regelmäßigen Live-Auftritte im Internet setzten Nawalnys Mitarbeiter trotzig fort – in der Hoffnung, dass das prominenteste Gesicht bald wieder dabei sein wird.
+
+Auch die deutsche Regierung setzt auf eine erfolgreiche Behandlung Nawalnys in Berlin. „Die Bundesregierung hofft, dass die Behandlung in der Charité zu einer Besserung seines Zustands führt und eine vollständige Genesung ermöglicht“, teilte ein Regierungssprecher mit.
+
+Lesen Sie auch Kreml-Kritiker im Koma Für seinen ambitionierten Plan zahlt Nawalny einen hohen Preis
+
+Nawalnys Team geht davon aus, dass der Oppositionelle während einer Reise durch Sibirien vergiftet wurde. Aus Sicht der russischen Ärzte gibt es dafür jedoch keinen Beleg. Sie sprachen lediglich von einer Stoffwechselstörung.
+
+Das Gesundheitsministerium in Omsk teilte am Samstag mit, dass bei keinem der bisherigen Tests Gift gefunden worden sei. Weder sogenannte Oxybutyrate noch Barbiturate, Strychnin oder synthetische Gifte seien im Körper Nawalnys festgestellt worden, hieß es. In seinem Urin waren demnach lediglich Alkohol und Koffein.
+
+Der Jurist wollte am Donnerstag von Sibirien zurück nach Moskau fliegen. Am Flughafen in Tomsk habe er noch einen Tee getrunken, sagte Nawalnys Sprecherin. Während des Flugs habe er sich unwohl gefühlt und noch an Bord das Bewusstsein verloren. Das Flugzeug landete dann in Omsk, das 4000 Kilometer von der deutschen Hauptstadt entfernt liegt.
+
+„Vielen Dank an alle für die Unterstützung. Der Kampf um Alexejs Leben und Gesundheit fängt gerade erst an, und es gibt noch viel zu tun. Zumindest ist aber jetzt der erste Schritt getan“, hatte Sprecherin Jarmysch nach dem Abflug geschrieben. Auch andere Oppositionelle zeigten sich erleichtert. „Ich bin so erleichtert, als hätten Terroristen nach langen Verhandlungen eine Geisel freigegeben“, schrieb der bekannte liberale Politiker Ilja Jaschin, ein jahrelanger Wegbegleiter Nawalnys. „Ich hoffe, dass diese für nichts und wieder nichts vergeudete Zeit Alexej nicht das Leben kosten wird.“
+
+Lesen Sie auch Russland Wenn Ärzte aus dem Fenster stürzen
+
+Der Flug nach Berlin war eine private Aktion der Initiative Cinema for Peace um den Filmproduzenten Jaka Bizilj. Nawalny ist nicht der erste prominente Oppositionelle aus Osteuropa, der nach einem mutmaßlichen Angriff in der Charité behandelt wird. Bei einer ähnlichen Aktion war vor zwei Jahren Pjotr Wersilow mit schweren Vergiftungssymptomen aus Moskau nach Berlin gekommen. „Es ist unglaublich, wie ähnlich die Route ist, die ich vor zwei Jahren genommen habe. Damals war ich bewusstlos“, twitterte Wersilow, der Mitglied der russischen Polit-Punk-Gruppe Pussy Riot ist.
+
+Anzeige
+
+Nawalny soll nach einem Bericht vor seiner möglichen Vergiftung von den Behörden genau beobachtet worden sein. „Das Ausmaß der Überwachung überrascht mich überhaupt nicht, wir waren uns dessen bereits bewusst“, schrieb seine Sprecherin Kira Jarmysch am Sonntag auf Twitter. „Aber es ist erstaunlich, dass sie nicht gezögert haben, allen davon zu erzählen.“ Hintergrund ist ein Artikel der Moskauer Boulevardzeitung „Moskowski Komsomolez“. Darin werden detailgenau alle Bewegungen des Oppositionellen bei seiner Reise durch Sibirien beschrieben.
+
+In dem Artikel beruft sich die Zeitung auf nicht näher genannte Sicherheitskreise. Darin wird beschrieben, wo sich Nawalny zu jedem Zeitpunkt aufhielt, mit wem er sprach und wo er übernachtete. Das Team soll mehrere Hotelzimmer angemietet haben, Nawalny sei aber in eine „konspirative“ Wohnung gebracht worden. Jemand aus seinem Team soll Sushi bestellt haben. Dabei sollen die Behörden ihn die ganze Zeit beschattet haben, heißt es in dem Beitrag weiter.
+
+Wenn es überhaupt eine Vergiftung gegeben haben soll, könne das wahrscheinlich nur am Flughafen oder im Flugzeug passiert sein, hieß es als Schlussfolgerung. „Alle Bewegungen und Kontakte in der Stadt wurden akribisch untersucht.“","'Rosalba Castelletti', 'Pavel Lokshin'",1597998000,"Ausland,Schwer kranker Putin-Kritiker",welt
+„Sechs Stunden in einem hoch konzentrierten Pool von Aerosolen“,"WELT: Frau Hoffmann, welche Folgen hat der Lockdown für die Schüler gehabt?
+
+Ilka Hoffmann: Die Kinder hatten alle sehr unterschiedliche Bedingungen. Es gibt welche, die psychisch angeknackst sind, bei denen es Streit zu Hause gab, existenzielle Sorgen, vielleicht sogar Gewalt. Auch in ihrer Freizeit können sie sich nicht so entfalten. Viele müssen sich nach der langen Pause auch erst mal wieder an reguläre Schultage gewöhnen. Sie müssen wieder in die Spur kommen. In so einer Situation geht es nicht darum, Stoff in die Hirne zu stopfen, sondern die Kinder erst mal aufzufangen. Dafür muss ich einfach in dem, was ich unterrichte, Abstriche machen.
+
+WELT: Sie wollen das Curriculum entschlacken?",Sabine Menkens,1597997544,"Deutschland,Schulalltag in Corona-Zeiten",welt
+Warum die SED-Führung die „chinesische Lösung“ lobte,"Das Tiananmen-Massaker jährt sich am 4. Juni 2019 zum 30. Mal. Noch heute verschweigt die chinesische Regierung die genaue Zahl der Opfer. Jegliches Gedenken in Peking wird unterdrückt.
+
+Am 5. Juni 1989 schlug die chinesische Führung die Freiheitsbewegung auf dem Tian’anmen-Platz in Peking blutig nieder. Die DDR-Führung schickte gleich drei Delegationen ins Reich der Mitte.
+
+Anzeige
+
+Ein einzelner Mann, schwarze Hose, weißes Hemd, in den Händen zwei Plastiktüten, hielt vier Panzer auf. Diese Szene, aufgenommen am Mittag des 5. Juni 1989 auf dem Platz des Himmlischen Friedens in Peking, ging am selben Abend um die Welt. Ein Kamerateam von CNN hatte die Konfrontation auf Video festgehalten. Wer der nur von hinten aufgenommene Mann war und was aus ihm wurde, blieb unbekannt. Aber die Nachrichtensendungen in der gesamten westlichen Welt brachten die Bilder.
+
+Gesehen wurden sie auch in der DDR. Obwohl die „Aktuelle Kamera“, das Flaggschiff des Staatsfernsehens, diese Bilder natürlich nicht zeigte. Stattdessen verlas Sprecher Wolfgang Lippe fünf Minuten lang Aufrufe der chinesischen KP, in denen eine „extreme Minderheit“ für den „konterrevolutionären“ Aufstand verantwortlich gemacht wurde.
+
+Am folgenden Morgen trat wie immer dienstags um 10 Uhr im Gebäude des Zentralkomitees der SED in Berlin-Mitte das Politbüro zusammen. Unter dem Vorsitz des Generalsekretärs Erich Honecker versammelten sich 18 Mitglieder und drei „Kandidaten“ dieses höchsten Gremiums der SED-Diktatur. In nur 55 Minuten erledigten die Parteifunktionäre 18 Tagesordnungspunkte; zwei weitere wurden im Umlauf in den folgenden Tagen bestätigt.
+
+Erich Honecker hielt im Frühsommer 1989 die Zügel der Macht noch fest in der Hand Quelle: picture alliance / ZB
+
+Anzeige
+
+Angesichts von Honeckers schleppender Redeweise dürfte auch sein Bericht „zur Lage in der Volksrepublik China“ eher kurz ausgefallen sein. Das Ergebnisprotokoll, das im Bundesarchiv erhalten ist und online eingesehen werden kann, hält lediglich fest: „Die Information wird zustimmend zur Kenntnis genommen.“ Ferner stimmte das Politbüro der Veröffentlichung der „offiziellen Materialien der Volksrepublik China zur Niederschlagung des konterrevolutionären Aufstandes“ zu.
+
+Was genau Honecker sagte, ist nicht überliefert. Aber es dürfte wohl dem entsprochen haben, was Wolfgang Lippe am Abend zuvor in der „Aktuellen Kamera“ verkündet hatte und was das SED-Parteiorgan „Neues Deutschland“ an eben diesem Morgen auf der Titelseite und fast der halben Seite 2 verkündet hatte.
+
+Dabei wusste das Politbüro nach der Erinnerung seines Mitgliedes Günter Schabowski, des Chef der Ost-Berliner SED-Organisation, fast gar nichts. „Im Politbüro herrschte zu diesem Zeitpunkt noch Skepsis und Unklarheit über die Vorgänge“, sagte er ein Jahr später in seinem ersten ausführlichen Interview gegenüber westlichen Journalisten: „Wir kannten eigentlich nur die westlichen Informationen, die von einem fürchterlichen Massaker berichteten.“
+
+Anzeige
+
+Schabowski versuchte, sich „anhand der Bilddokumente“ einen Eindruck zu verschaffen. „Aber wir hatten in der DDR keine Daten, die das Ausmaß des Massakers berichteten.“ Doch das genügte nicht.
+
+Der vermeintliche Saubermann der SED Hans Modrow reiste als erster DDR-Spitzenfunktionär nach dem Massaker nach Peking Quelle: picture-alliance / dpa
+
+Ende Juni 1989 reiste Hans Modrow, der Chef des Dresdner SED, nach Peking. Selbst nicht Mitglied des Politbüros, sollte er wohl niederschwellig Informationen einholen. Ein höherer chinesischer KP-Funktionär empfing den Abgesandten und seine Delegation.
+
+Doch über die eigentlich entscheidende Frage hatte dieser Wu Xueqian nichts Wesentliches mitzuteilen. „Er informierte über den jüngsten antisozialistischen Aufruhr in der Volksrepublik China und die Anstrengungen der Partei- und Staatsführung zur schnellen Normalisierung der Lage“, berichtete das „Neue Deutschland“ und fuhr fort: „Im Namen der Partei- und Staatsführung dankte er für die solidarische Haltung der SED und des ganzen Volkes der DDR mit dem chinesischen Volk und der KP Chinas in dieser schwierigen Phase.“
+
+Anzeige
+
+Das genügte nicht. Also trug Honecker dem bekanntermaßen durchsetzungsfähigeren Schabowski für dessen schon länger geplante Chinareise auf: „Versuch herauszukriegen, was sich da wirklich abgespielt hat!“
+
+Günter Schabowski, hier aufgenommen 1991, tat die ehrliche Abwendung vom Kommunismus sichtlich gut Quelle: picture-alliance / dpa
+
+Knapp zwei Wochen nach Modrow bekam Schabowski einen Termin beim neuen chinesischen KP-Chef Jiang Zemin. Also jenem Funktionär, der nach der Niederschlagung der Massenproteste vom eigentlich starken Mann Chinas Deng Xiaoping mit der formalen Leitung der Staatsgeschäfte beauftragt worden war.
+
+Jiang „würdigte“ laut „Neuem Deutschland“ die „solidarische Haltung der SED und der DDR gegenüber den Schritten der KP Chinas bei der Niederschlagung der Unruhen“. Und der Chinese fügte ein vergiftetes Lob hinzu: „In einer Zeit der Prüfung erkennt man seine wahren Freunde.“
+
+Nach Schabowskis 1990 formuliertem Eindruck war es Jiang jedoch „unangenehm, darüber zu sprechen“. Es sei kein Ton von Triumph oder Rechtfertigung zu vernehmen gewesen. Er räumte ein, dass es Hunderte Tote unter den Demonstranten gegeben habe.
+
+Lesen Sie auch Kommunalwahl 1989 Diese Fälschung läutete das Ende der DDR ein
+
+Angesichts dessen verzichtete Schabowski darauf, die vorbereitete Solidaritätserklärung der DDR-Volkskammer zu übergeben. Als „besonderer Gag“ war ihm noch mitzuteilen aufgetragen worden, offenbar von Honecker, „dass wir die DKP zur Ordnung gerufen hätten“.
+
+Tatsächlich hatte sich die nahezu ausschließlich aus der DDR finanzierte Deutsche Kommunistische Partei in der Bundesrepublik „ohne Auftrag und Not“ von dem chinesischen Vorgehen distanziert. Schabowski fand, die Stimmung in Peking passe nicht zu einer derartig platten Bemerkung.
+
+Egon Krenz wähnte sich 1989 auf derselben ""Barrikade"" wie die chinesische KP-Führung – gegen Demokratie und Selbstbestimmung Quelle: picture-alliance / dpa
+
+Weiter knapp drei Monate später reiste die nächste SED-Delegation nach Peking, diesmal unter Leitung von Honeckers Kronprinz Egon Krenz. Offizieller Anlass waren die Feiern zum 40. Jahrestag der Volksrepublik. Ganz im Gegensatz zu Schabowski unterstützte der ZK-Sekretär für Sicherheitsfragen, der faktisch für die Bekämpfung der Opposition in der DDR zuständig war, offen die „chinesische Lösung“ der Proteste.
+
+Anzeige
+
+Klassensolidarität sei für die Kommunisten in der DDR „eine Sache der Klassenehre und Klassenpflicht“, sagte Krenz. Man stehe „auf der Barrikade der sozialistischen Revolution“ in der DDR wie in China dem gleichen Gegner gegenüber. Jiang Zemin bedankte sich bei Krenz „für die Gefühle brüderlicher Verbundenheit“.
+
+Angesichts dessen ging unter Bürgerrechtlern in der DDR die Angst um, auch in Ost-Berlin, Leipzig oder Dresden könnte das kommunistische Regime bei oppositionellen Kundgebungen zu Gewalt greifen. Das war begründet, hatte doch bereits am 13. Juni 1989 die DDR-Volksbildungsministerin Margot Honecker verlauten lassen, in einer „kämpferischen Zeit“ müsse man den Sozialismus notfalls auch „mit der Waffe in der Hand verteidigen“. Die nächste Montagsdemonstration stand am 2. Oktober 1989 in Leipzig an.
+
+Sie finden „Weltgeschichte“ auch auf Facebook. Wir freuen uns über ein Like.
+
+Dieser Artikel wurde erstmals im Juni 2019 veröffentlicht.",Sven Felix Kellerhoff,1597997460,"Geschichte,Tian’anmen-Massaker",welt
+Nahrungsergänzungsmittel? Nur mit Vorsicht zu genießen,,Alice Lanzke,1597997160,"Gesundheit,Vitamine und Mineralstoffe",welt
+Forscher verzeichnen Rekordverlust an Eis in Grönland,,"'Axel Bojanowski', 'Guido Meyer'",1597997119,"Wissenschaft,532 Milliarden Tonnen",welt
+Greenpeace kritisiert Versenkung von Frachter auf Mauritius,"Nachdem der vor Mauritius havarierte japanische Massengutfrachter Wakashio in zwei Teile gebrochen ist, soll der größere Schiffsteil nun im Meer versenkt werden. Umweltschützer von Greenpeace sind entsetzt und warnen vor den Folgen.
+
+Anzeige
+
+Vor Mauritius haben Bergungsmannschaften damit begonnen, einen Teil des havarierten Ölfrachters im Meer zu versenken. „Das Versenken der ‚Wakashio‘ ist im Gange“, erklärte das Fischereiministerium des Inselstaates.
+
+Umweltorganisationen kritisierten, dass das Wrack die Biodiversität der Meeresregion gefährde. Von all den möglichen Optionen habe die Regierung von Mauritius „die schlimmste“ ausgesucht, kritisierte Happy Khambule von Greenpeace.
+
+„Dieses Schiff zu versenken würde die Biodiversität bedrohen und den Ozean mit großen Mengen Schwermetallgiftstoffen verschmutzen.“ Dies würde nicht nur Mauritius, sondern auch die nahe gelegene französische Insel La Réunion bedrohen.
+
+Lesen Sie auch Betrug an Bord Der gefährliche Geiz im Containergeschäft
+
+Anzeige
+
+Der Frachter „Wakashio“ war am Wochenende auf einem Riff vor der Küste von Mauritius in zwei Teile gebrochen. Das größere Schiffsteil wird nun von zwei Schleppern 15 Kilometer weit auf das offene Meer gezogen. Es soll dort auf den Meeresboden in 3180 Metern Tiefe sinken.
+
+„Jetzt wird es mit Meerwasser gefüllt, um es auf den Grund zu versenken“, sagte der Schifffahrtsdirektor von Mauritius, Alain Donat, der Nachrichtenagentur AFP. Dies sollte einige Stunden dauern. Der andere Teil der „Wakashio“ ist nach wie vor in dem Meeresriff verkeilt.
+
+Tausende Freiwillige an den Stränden im Einsatz
+
+Das nationale Krisenkomitee erklärte, es sei sichergestellt worden, dass das Schiff vor dem Versenken von Öl und Trümmern befreit wurde. Der japanische Frachter war am 25. Juli mit rund 4000 Tonnen Treibstoff an Bord vor der Südostküste des Urlauberparadieses im Indischen Ozean auf Grund gelaufen. Mehr als 1000 Tonnen Treibstoff traten aus, eine Ölpest bedroht die Naturschutzgebiete auf Mauritius.
+
+Anzeige
+
+Bis zum Auseinanderbrechen des Frachters versuchten Helfer in einem Wettlauf gegen die Zeit, die verbliebenen 3000 Tonnen Öl aus dem Schiff abzupumpen. Tausende Freiwillige halfen zudem, die weißen Strände der Insel von dem Ölschlick zu befreien.",,1597997080,"Panorama,„Schlimmste Option“",welt
+Mit diesen Youngtimern machen Sie ein echtes Schnäppchen,,Andreas Kötter,1597996984,"Webwelt & Technik,Autoklassiker",welt
+„Von Familienfeiern geht ein erhebliches Risiko aus“,,,1597996969,"Wissenschaft,Coronavirus",welt
+Alexej Nawalny nicht transportfähig für Reise nach Deutschland,,,1597988337,"Ausland,Kreml-Kritiker",welt
+RKI meldet 1427 Neuinfektionen in Deutschland,"Der britische Gesundheitsminister Matt Hancock hat für London die zweithöchste Corona-Warnstufe ausgerufen. Das RKI meldet mit 6638 so viele Neuinfektionen an einem Tag wie noch nie seit Ausbruch der Coronavirus-Pandemie in Deutschland. Ein Überblick in Grafiken und Zahlen.
+
+Anzeige
+
+Die Zahl der binnen eines Tages mit dem Coronavirus neu infizierten Menschen in Deutschland ist erneut sprunghaft gestiegen und hat damit einen Rekordwert erreicht. Die Gesundheitsämter meldeten nach Angaben des Robert-Koch-Instituts vom Donnerstagmorgen 6638 Neuinfektionen – rund 1500 mehr als am Mittwoch. Da waren noch 5132 neue Fälle gemeldet worden. Bislang waren Ende März mit knapp 6300 Neuinfizierten die meisten registriert worden. Allerdings sind die jetzigen Werte nicht mit denen aus dem Frühjahr vergleichbar, weil mittlerweile wesentlich mehr getestet wird – und deshalb auch mehr Infektionen entdeckt werden.
+
+Am Mittwoch vergangener Woche hatten die Gesundheitsämter dem RKI 4059 Neuinfektionen mitgeteilt. Damit war zum ersten Mal seit April die 4000er-Marke überschritten worden.
+
+Die Zahl der Corona-Tests schwankt seit Mitte August zwischen rund 1,1 Millionen und 1,2 Millionen pro Woche. Die Rate der positiven Tests ist nach RKI-Angaben vom Mittwochabend jedoch deutlich gestiegen: von 0,74 Prozent Ende August auf 2,48 Prozent in der Woche vom 5. bis 11. Oktober.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Anzeige
+
+In mehreren Labors gebe es einen Rückstau, einige gaben laut RKI Lieferschwierigkeiten für Reagenzien an. „Das RKI erreichen in den letzten Wochen zunehmend Berichte von Laboren, die sich stark an den Grenzen ihrer Auslastung befinden“, schreibt das Institut im Lagebericht vom Mittwoch. Der zusätzliche Testbedarf durch Urlauber nach Einführung des Beherbergungsverbots mit der Option zu einer „Freitestung“ habe die Situation weiter verschärft.
+
+Seit Beginn der Corona-Krise haben sich nach RKI-Angaben mindestens 341.223 Menschen in Deutschland nachweislich mit dem Virus Sars-CoV-2 infiziert (Datenstand 15.10., 0 Uhr). Die Zahl der Todesfälle im Zusammenhang mit einer Corona-Infektion lag demnach bei 9710. Das waren 33 mehr als am Vortag. Nach Schätzungen des RKI gibt es etwa 284.600 Genesene.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Die Reproduktionszahl, kurz R-Wert, lag nach RKI-Schätzungen in Deutschland laut Lagebericht vom Mittwoch bei 1,04 (Vortag: 1,18). Das bedeutet, dass ein Infizierter im Mittel etwa einen weiteren Menschen ansteckt. Der R-Wert bildet jeweils das Infektionsgeschehen etwa eineinhalb Wochen zuvor ab.
+
+Anzeige
+
+Zudem gibt das RKI in seinem aktuellen Lagebericht ein sogenanntes Sieben-Tage-R an. Der Wert bezieht sich auf einen längeren Zeitraum und unterliegt daher weniger tagesaktuellen Schwankungen. Nach RKI-Schätzungen lag dieser Wert bei 1,16 (Vortag: 1,20). Er zeigt das Infektionsgeschehen von vor acht bis 16 Tagen.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Weltweit gibt es laut der Johns-Hopkins-Universität mindestens 38.510.263 mit Covid-19 infizierte Personen (Stand 15.10., 8 Uhr). Davon sind 1.092.144 Menschen am Virus gestorben.
+
+Mehr als 900.000 Infektionen in Spanien
+
+Spanien hat als erstes Land der Europäischen Union die Marke von 900.000 Coronavirus-Infektionen überschritten. Seit Beginn der Pandemie seien mehr als 908.000 Infektionen registriert worden, teilte das spanische Gesundheitsministerium mit. Spanien hat knapp 45 Millionen Einwohner. Offiziellen Angaben zufolge wurden mehr als 33.000 Todesfälle in Zusammenhang mit dem Virus registriert. Gesundheitsexperten glauben, dass die tatsächliche Zahl deutlich höher liegt, jedoch nicht ausreichend getestet wird.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Anzeige
+
+In Großbritannien mit 66,6 Millionen Einwohnern haben sich innerhalb von 24 Stunden nachweislich knapp 20.000 Menschen mit dem Coronavirus angesteckt. Das entspricht einem Anstieg von etwa 2500 im Vergleich zum Vortag. 137 Menschen sind an einer Covid-19-Erkrankung gestorben, wie die Gesundheitsbehörden am Mittwoch mitteilten. Besonders stark betroffen von der Pandemie sind der Norden Englands, Nordirland, Schottland und Teile von Wales. Die tatsächliche Zahl der Neuinfektionen dürfte aber noch höher liegen, da nicht genügend Tests zur Verfügung stehen. Der britische Gesundheitsminister Matt Hancock rief für London die zweithöchste Corona-Warnstufe aus. Er begründete dies am Donnerstag im Unterhaus mit rasch steigenden Infektionsraten in der Hauptstadt. Schnelles Handeln sei erforderlich, um das Virus unter Kontrolle zu bekommen, sagte er.
+
+Angesichts rapide steigender Infektionszahlen dürfen sich Angehörige verschiedener Haushalte demnach in Innenräumen nicht mehr treffen, wie der Londoner Bürgermeister Sadiq Khan am Donnerstag bekannt gab. Auch Treffen in Pubs oder Restaurants sind nicht erlaubt, während sie in Grünanlagen gestattet bleiben. Schulen und der Einzelhandel bleiben geöffnet.
+
+Millionen Bewohner Nordenglands warten darauf, zu erfahren, ob sie unter die strengsten Corona-Regeln fallen. Für Liverpool wurden diese bereits angeordnet. Seit dieser Woche gibt es in Großbritannien ein dreistufiges Corona-Warnsystem.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Die Zahl der registrierten Neuinfektionen binnen 24 Stunden stieg am Mittwoch in Portugal mit 10,3 Millionen Einwohnern auf 2072 – das war der höchste Wert seit Beginn der Pandemie. Die Gesamtzahl der Fälle kletterte den amtlichen Angaben zufolge auf mehr als 91.000. Die Zahl der Menschen, die an Covid-19 starben, stieg um sieben auf 2117. Besonders betroffen sind der Norden und der Großraum Lissabon. Sorge bereitet vor allem die Tatsache, dass die Zahl der in Krankenhäusern behandelten Covid-19-Patienten in etwas mehr als einem Monat von gut 300 auf nun fast 1000 in die Höhe schoss.
+
+Frankreichs Corona-Karte färbt sich immer tiefer rot
+
+In Frankreich mit seinen knapp 67 Millionen Einwohnern haben die Gesundheitsbehörden 22.591 Neuinfektionen binnen 24 Stunden registriert. Es ist das dritte Mal in sechs Tagen, dass das Gesundheitsministerium einen Wert über 20.000 mitteilt. Insgesamt seien 779.063 Infektionsfälle verzeichnet worden. Die Zahl der Todesfälle in Kranken- und Pflegeheimen sei um 104 auf 33.037 gestiegen. Damit ist Frankreich weltweit das neunte Land weltweit, das mehr als 33.000 Todesfälle in Zusammenhang mit dem Coronavirus zu beklagen hat.
+
+Zwar sank die Zahl der Neuinfektionen seit vergangenem Wochenende, wo zuletzt ein Rekordhoch von knapp 27.000 am Samstag verzeichnet wurde. Dennoch steigen die Infektionszahlen gegenüber der vergangenen Woche massiv. Die Karte des französischen Gesundheitsministeriums, auf der die Corona-Hotspots in Scharlachrot (auf Französisch „rouge écarlate“) markiert werden, färbt sich deshalb immer tiefer rot.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Dazu gehören mit der Hauptstadt Paris inzwischen neun Ballungsräume und ein Überseegebiet. Der Großraum Marseille, zu dem auch Aix-en-Provence zählt, ist ebenso betroffen wie die Großstädte Lyon, Grenoble, Saint-Etienne, Lille, Toulouse und Montpellier. Dazu gehört auch die Inselgruppe Guadeloupe in der Karibik.
+
+Anzeige
+
+In Bulgarien mit seinen sieben Millionen Einwohnern liegt die Zahl der neuen Positiv-Tests das vierte Mal binnen einer Woche auf Rekordniveau. Die Zahl der Fälle steigt nach offiziellen Daten um 785 auf insgesamt 25.774. Bislang starben 923 Menschen, die positiv auf das Coronavirus getestet wurden. Aktuell befinden sich 1307 Menschen in Krankenhäusern, 63 davon auf Intensivstationen.
+
+In Tschechien meldet das Gesundheitsministerium 8325 neue Positiv-Tests. Das ist der bislang zweithöchste Wert in dem Land mit 10,7 Millionen Einwohnern, die meisten neuen Fälle gab es am vergangenen Freitag. Die Gesamtzahl der Fälle in Tschechien liegt inzwischen bei 129.747. Bislang starben 1106 Menschen, die positiv getestet wurden. Zu Monatsbeginn waren es noch 696 Todesfälle.
+
+Rekorde in Polen und Kroatien
+
+In Polen überschritt die Zahl der täglichen Neuinfektionen mit dem Coronavirus erstmals die Marke von 6000. Innerhalb von 24 Stunden kamen 6526 neue Fälle hinzu, die meisten davon in der Region um die Hauptstadt Warschau (1188). Das teilte das polnische Gesundheitsministerium am Mittwoch mit. Im gleichen Zeitraum starben 116 Menschen in Zusammenhang mit dem Virus. Seit Beginn der Pandemie gab es in Polen 3217 Todesfälle in Verbindung mit einer Covid-19-Erkrankung. Das Land hat rund 38 Millionen Einwohner. Polen ist das einzige Nachbarland Deutschlands, das bisher vom Auswärtigen Amt in Berlin noch nicht ganz oder teilweise als Risikogebiet eingestuft wurde.
+
+Im EU-Land Kroatien verzeichneten die Behörden am Mittwoch einen Rekordwert an neuen Infektionen mit dem Coronavirus. In den vergangenen 24 Stunden sei bei 748 Menschen Sars-CoV-2 nachgewiesen worden, teilte der Krisenstab der kroatischen Regierung mit. Die bisher höchste Zahl von 542 Neuinfizierten hatte der Krisenstab am 8. Oktober registriert. Vier Menschen starben demnach in den letzte 24 Stunden in Verbindung mit einer Covid-19-Erkrankung. Seit Beginn der Pandemie im Februar haben sich in dem 4,2-Millionen-Einwohner-Land nachweislich 21.741 Menschen mit dem Coronavirus angesteckt. 334 Patienten starben mit dem Virus. Am Mittwoch wurden 441 Patienten im Krankenhaus behandelt, 27 von ihnen wurden künstlich beatmet.
+
+Russland mit seinen 144,5 Millionen Einwohnern meldet einen Rekord an Neuinfektionen. Binnen der letzten 24 Stunden gibt es 14.231 weitere Coronavirus-Fälle. Die Gesamtzahl der Infektionen steigt damit auf 1,34 Millionen. Weitere 239 Menschen starben, wodurch sich die Zahl der Todesfälle auf 23.205 erhöht.
+
+In Brasilien mit seinen 209,5 Millionen Einwohnern sterben nach Angaben des Gesundheitsministeriums 749 Menschen nach einer Infektion mit dem Coronavirus. In den vergangenen 24 Stunden sei die Zahl der positiv Getesteten um 27.235 auf 5.140.863 gestiegen. Insgesamt sind 151.747 Menschen an den Folgen der Ansteckung gestorben.
+
+In Südkorea sind 110 neue Infektionen mit dem Coronavirus registriert worden. Die Hälfte der Fälle stehe in Verbindung mit einem Krankenhaus in der Stadt Busan, teilte die südkoreanische Behörde für Krankheitskontrolle und -prävention am Donnerstag mit. In dem Land mit gut 51 Millionen Einwohner liegt die offizielle Zahl der Fälle damit bei fast 25.000.
+
+Mindestens 54 der Neuinfektionen stünden mit dem Krankenhaus für Ältere in Verbindung. Mehr als 40 seien in der dicht bevölkerten Metropolregion Seoul verzeichnet worden, mit Verbindungen zu Krankenhäusern, Kirchen, Schule und Büros.
+
+Anzeige
+
+Alle aktuellen und weltweiten Entwicklungen zum Coronavirus können Sie in unserem Live-Ticker verfolgen.
+
+Haben Sie Fragen zum Coronavirus? Hier finden Sie die wichtigsten Fakten und Informationen.","'Daniel Wetzel', 'Elke Bodderas'",1597996380,"Panorama,Karten, Zahlen, Daten",welt
+„Ohne meinen toten Bruder wäre ich nicht beim BVB“,,"Sven Westerschulze, Kevin Kraft",1597996190,"Borussia Dortmund,Giovanni Reyna",welt
+"Zweimal gefeuert, jetzt vor dem großen Triumph","Anzeige
+
+Von Köln nach Sevilla sind es rund 1820 Kilometer, doch für Julen Lopetegui ist die Wahlheimat auf einmal ganz nah. Weil die Anhänger seines FC nicht dabei sein dürfen, wenn es zum großen Schlagabtausch mit Inter Mailand kommt, hat der Trainer einen schönen Gruß in die 690.000 Einwohner zählende Stadt in Andalusien entsandt. „Wir spüren die Energie unserer Fans“, sagt er. „Hoffentlich können wir ihnen einen Sonnenstrahl in ihre Herzen zaubern.“
+
+Die Aussichten dafür stehen nicht schlecht. Schließlich ist der FC Sevilla so etwas wie der personifizierte Dominator der Europa League. Bereits fünf Mal gewann der spanische Verein den einst von Franz Beckenbauer als „Cup der Verlierer“ titulierten Wettbewerb und geht entsprechend gestärkt in das Finale am Freitag in der Rheinmetropole (21 Uhr, im Sport-Ticker der WELT). „Natürlich hilft es, dass der Verein diese Phase des Wettbewerbs schon kennt“, meint Coach Lopetegui. „Aber ich muss darauf bestehen, dass man deshalb nicht von einem Vorteil spricht. Wir treffen auf eine großartige Mannschaft. Es bringt auch nichts, in die Vergangenheit zu schauen. Die Realität ist hier und jetzt. Wir wollen versuchen, in einem großartigen Wettbewerb wie der Europa League erneut den Titel zu holen.“
+
+Für Lopetegui bot die Europa League eine gute Chance zur Rehabilitation Quelle: AFP/MARTIN MEISSNER
+
+
+
+
+
+Anzeige
+
+Dass Sevilla zuletzt derart in der Europa League reüssieren konnte, hat viel mit den Machtverhältnissen im spanischen Fußball zu tun. Angesichts der Hegemonie von Real Madrid, dem FC Barcelona und zuletzt auch Atlético Madrid hat es der Verein geschafft, sich abseits der Champions-League-Plätze zum Experten für den kleinen Europacup zu mausern. Und dort wächst die Mannschaft in beeindruckender Art und Weise oft über sich hinaus.
+
+Lesen Sie auch Thomas Tuchel Der grandios Unterschätzte
+
+Dem 2:0 im Achtelfinale gegen den AS Rom, ließ die Mannschaft von Lopetegui ein 1:0 in der nächsten Runde gegen die Wolverhampton Wanderers folgen, dann gab es ein 2:1 im Halbfinale über das favorisierte Team von Manchester United. „Alle drei Gegner, die wir in diesem Turnier ausgeschaltet haben, hatten deutlich größere Budgets als wir“, erklärt Sevillas Präsident José Castro. „Inters Etat ist mehr als doppelt so hoch wie unserer, außerdem spielen sie ein hervorragendes Turnier. Aber wir mögen schwierige Aufgaben.“
+
+Entlassung noch vor dem ersten WM-Spiel
+
+Das sieht auch sein Trainer so. „Inter ist eine Mannschaft, die das Zeug hat, um in der Champions League ein Wörtchen mitzureden. Sie haben außergewöhnliche Spieler und einen sehr erfahrenen Trainer, der schon viele Topteams betreut hat“, sagt Lopetegui. „Ich erwarte ein Spiel der höchsten Qualität, und wir werden unsere Bestleistung abrufen müssen. Es ist eine große Herausforderung.“ Inter habe in Italien in diesem Jahr nur knapp die Meisterschaft verpasst und stehe völlig verdient im Europa-League-Finale. „Wir müssen auf allen Ebenen bereit sein.“
+
+Lesen Sie auch Alphonso Davies Ein Weltstar ist geboren
+
+Anzeige
+
+Für Lopetegui wäre ein Triumph im Finale der Endrunde, die wegen der Corona-Pandemie nach Nordrhein-Westfalen verlegt wurde, auch eine persönliche Genugtuung. Weil er im Sommer 2018 als Trainer der spanischen Nationalmannschaft seinen Wechsel zu Real Madrid angekündigt hatte, wurde er noch vor dem ersten WM-Spiel in Russland entlassen. Selbiges folgte einige Wochen später beim Renommierklub, der Lopetegui nach nur zehn mäßig erfolgreichen Spieltagen vor die Tür setzte. Neun Monate später heuerte der 53-Jährige beim FC Sevilla an und könnte sein Werk nun bereits in seiner Premieren-Saison krönen.
+
+Soweit mag der neue Heilsbringer der Andalusier aber noch nicht denken. „Ich bin zu sehr auf die Aktualität fokussiert“, sagt er. „Jetzt ist nicht die Zeit, um ein Fazit zu formulieren. Wir befinden uns noch mitten im Kampf.“",Jens Bierschwale,1597995552,"Fußball,Europa-League-Finale",welt
+Die Deutschen gehen an ihre Grenzen und befeuern den ewigen Immobilienboom,"Es ist eines der größten ökonomischen Mysterien hierzulande. Da steckt Deutschland in einer Jahrhundertrezession, aber die Immobilienpreise steigen unaufhörlich weiter. Im Juli markierte der Europace Hauspreisindex mitten in der Pandemie einen neuen Rekord. Das steht im markanten Gegensatz zu früheren Rezessionen, in denen die Immobilienpreise absackten.
+
+Neue Zahlen des Finanzdienstleisters Dr. Klein lüften jetzt das Geheimnis um den mysteriösen Immobilienboom. Danach lassen sich die Bundesbürger auch in der Krise den Traum von den eigenen vier Wänden nicht nehmen und finanzieren mit immer höheren Schulden die Beton-Hausse.","Michael Fabricius, Holger Zschäpitz",1597994801,"Immobilien,Hohe Darlehen fürs Eigenheim",welt
