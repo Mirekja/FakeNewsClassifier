@@ -20,7 +20,7 @@ def train_model(csv_file):
         print(f"Fehler: Spalte '{e}' wurde in der CSV-Datei nicht gefunden.")
         return None, None, None
 
-    # Split into training and testing sets
+    # Trennen zwischen training und testing sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     # Pipeline
@@ -33,10 +33,10 @@ def train_model(csv_file):
     # Trainieren
     pipeline.fit(X_train, y_train)
 
-    # Predict on the test set
+    # Vorhersagen auf Testset
     y_pred = pipeline.predict(X_test)
 
-    # Metrics
+    # Metriken
     accuracy = accuracy_score(y_test, y_pred)
     precision = precision_score(y_test, y_pred, average='weighted')
     recall = recall_score(y_test, y_pred, average='weighted')
