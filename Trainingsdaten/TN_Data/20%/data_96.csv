@@ -1,0 +1,524 @@
+title,text,author,published,tags,source
+So finden Sie den richtigen Prozessor für Ihren Computer,"Anzeige
+
+Prozessor? Klar, braucht jeder Rechner. Aber welchen genau: egal. Zum Arbeiten wird es ja wohl noch reichen. Auf diesem Standpunkt stehen viele Käufer – und ärgern sich nachher, dass sie vor dem Kauf nicht geprüft haben, welche Anforderungen sie eigentlich haben und welche Unterschiede es gibt. Ein Tausch des Prozessors ist bei Notebooks selten möglich, und kann bei Desktop-PCs teuer werden.
+
+In den vergangenen Jahren konnten Hersteller dabei die Leistungen der Recheneinheiten stark verbessern. Doch zwischen den Produzenten und den jeweiligen Prozessorfamilien gibt es große Unterschiede. Um beim Kauf eines Computers oder eines Prozessors die richtige Entscheidung treffen zu können, hilft es zu verstehen, wie Prozessoren funktionieren.
+
+„Kurz formuliert ist der Prozessor das Herz eines Rechners. Er ist grundsätzlich für alle Rechenoperationen zuständig“, sagt Christian Hirsch vom „c't“-Fachmagazin. Dabei lade dieser Daten aus dem Arbeitsspeicher, verändere die Datensätze und schiebe sie anschließend wieder in den Arbeitsspeicher zurück. „Das ist jetzt sehr vereinfacht dargestellt, denn das Ganze läuft in etwa 15 bis 20 Schritten ab“, so Hirsch.
+
+Der Prozessor ist das Herz des Computers
+
+Anzeige
+
+Der Prozessor, oft auch CPU (Central Processing Unit) genannt, berechnet und steuert nahezu alle Vorgänge des Rechners, „also was im Computer geschieht, wie ein Programm ausgeführt wird und wie, wann und wo es dargestellt wird“, erklärt Roman Bansen vom IT-Branchenverband Bitkom.
+
+Je mehr Befehle pro Sekunde ein Prozessor ausführen kann, desto schneller ist er. Die tatsächliche Leistungsfähigkeit einer CPU hängt aber noch von vielen weiteren Faktoren ab, so zum Beispiel von der konkreten Architektur, der Strukturgröße – wobei kleinere Strukturen für höhere Rechenleistung sorgen – , von der Prozessorkernzahl oder auch von Anzahl und Größe der Zwischenspeicher (Caches) auf dem Chip.
+
+Klein, aber wichtig: Ohne Prozessor läuft im Computer nichts Quelle: dpa-tmn
+
+„Prozessoren haben in den letzten Jahren enorm an Leistung zugelegt, brauchen dafür aber entweder gleichviel Energie oder sogar weniger“, erläutert Christian Hirsch. Sie arbeiten also deutlich effizienter als noch vor ein paar Jahren.
+
+Anzeige
+
+Dabei seien die Taktfrequenzen nur geringfügig gestiegen, stattdessen könnten die Prozessoren durch immer mehr Kerne viel mehr Aufgaben parallel erledigen.
+
+Zusammenspiel zwischen CPU und Notebook-Peripherie
+
+„Zudem ermöglichen die neuen CPU-Generationen die Umsetzung leistungsstarker Funktionen für künstliche Intelligenz auf Notebooks und PCs“, sagt Roman Bansen. CPUs dürften aber nicht als isolierte Instanzen betrachtet werden. Es gelte gezielt das Zusammenspiel von CPU und Peripherie durch abgestimmte Verbindungstechnologien, Speichermedien und Software zu optimieren.
+
+Deshalb lässt sich auch nicht jeder Prozessor in jedem Rechner einsetzen – zumindest nicht sinnvoll. „Die Prozessoren sind für ganz verschiedene Einsatzzwecke optimiert“, erklärt Hirsch. „Bei Mobil-CPUs steht die geringe Leistungsaufnahme an vorderster Stelle. Niemand will ja, dass nach einer Stunde der Akku bei seinem Notebook leer ist.“
+
+Lesen Sie auch Second-Hand-Markt Gebrauchtes Notebook kaufen? Diese Fallen müssen Sie kennen
+
+Anzeige
+
+Deshalb laufen Mobilprozessoren mit deutlich niedrigerem Takt und haben meist auch weniger Kerne. „Deshalb sind sie trotz ähnlicher Bezeichnung nicht so schnell wie Desktop-Prozessoren“, sagt Hirsch. Außerdem sollen moderne Notebooks möglich flach und schlank sein. Deshalb werde im Innern der meiste Platz für die Akkus genutzt.
+
+Kühlsystem des Prozessors nicht überlasten
+
+Bei Prozessoren fällt zudem oft der Begriff Thermal Design Power (TDP). „Die TDP gibt an, wie viel Energie ein Prozessor dauerhaft maximal schlucken darf, damit das Kühlsystem nicht überlastet ist“, weiß Hirsch. Dieses thermische Budget teilen sich alle Kerne und, wenn vorhanden, die integrierte Grafikeinheit.
+
+„Sind jetzt nur wenige Kerne ausgelastet, dürfen diese per Turbo höher takten, als wenn alle unter Last laufen. Sie nutzen quasi das thermische Budget der schlafenden, ungenutzten Kerne mit“, erklärt Hirsch. Das bringe vor allem bei Anwendungen, die nur einen Kern auslasten können, ein deutliches Geschwindigkeitsplus.
+
+Bei der Wahl der CPU ist der Anwendungszweck entscheidend. „Für Office-Anwendungen eignen sich sparsamere und günstige Prozessoren“, sagt Bansen. Für Entertainment und Gaming seien vor allem hoch taktende Prozessoren eine gute Wahl, bei High-End-Gaming kämen die Topmodelle mit maximaler Leistung infrage.
+
+Zwei Kerne fürs Office
+
+Konkret: „Für einfache Aufgaben wie Textverarbeitung, Video abspielen oder im Web surfen, reichen Prozessoren mit zwei Kernen aus, die auch als Dual-Core-CPUs bezeichnet werden“, sagt Hirsch. Beispiele dafür sind die Athlon-Serie von AMD oder die Celeron- und Pentium-Serie von Intel.
+
+Aber: „Für Allround-PCs und Gaming-Rechner sollte man mindestens einen Quad-Core verwenden, also eine CPU mit vier Kernen“, so Hirsch. Zukunftssicherer seien derzeit Prozessoren mit sechs CPU-Kernen wie zum Beispiel der AMD Ryzen 5 3600 oder Intels Core-i9 9400F.
+
+„Profi-Anwender, die hochauflösende Videos schneiden oder 3-D-Grafiken oder -Filme rendern, benötigen Prozessoren mit sehr vielen Kernen. Da gibt es nach oben kaum Grenzen“, weiß Christian Hirsch.
+
+Lesen Sie auch HP Envy 17 im Test Das kann das beste 17-Zoll-Notebook für unter 1300 Euro
+
+Anzeige
+
+Inzwischen gebe es Desktop-CPUs wie den AMD Ryzen Threadripper 3990X mit 64 Kernen, der dann aber auch mit rund 4000 Euro zu Buche schlägt. Bei den verschiedenen Prozessorfamilien biete fast immer das günstigste Modell einer Serie das beste Preisleistungsverhältnis, sagt Hirsch.
+
+Also etwa besagter AMD Ryzen 5 3600 als günstiger Sechskerner. Oder Intels Core-i-3 9100F als günstiger Vierkerner. „Die schnelleren CPUs kosten immer überproportional mehr“, so Hirsch.
+
+Achtung, lahme Prozessoren
+
+Und was ist mit den günstigeren Prozessorfamilien? Hier bieten Intels Celeron G oder AMDs Athlon genug Alltagsperformance für Office und Web, weiß Hirsch. Aber: „Bei Celeron N und AMD A muss man schon deutliche Einbußen hinnehmen, der Seitenaufbau im Browser braucht dann länger.“
+
+Schon für ein kleines Budget haben Intel und AMD empfehlenswerte Prozessoren am Markt. „Im Einsteiger-Preis-Segment hat AMD die Nase vorn. Zum Budget von 100 Euro bekommt man die Quadcore-CPUs AMD Ryzen 3 1200, den Ryzen 3 1300X oder Ryzen 3 2200G, wobei letzterer mit der Radeon Vega 3 zusätzlich sogar einen integrierten Grafikchip besitzt“, berichtet das „PC Magazin“.
+
+Bei der Anwendungsleistung komme das Trio dagegen nicht ganz an die günstigsten Vierkern-Rivalen von Intel heran, etwa an den auf knapp über 100 Euro veranschlagten Core i3-9100F.",Benedikt Frank,1598512207,"Webwelt & Technik,Herzstück des PCs",welt
+Ins Restaurant mit 50 Prozent Rabatt – die Briten stürmen ihre Lokale,"Anzeige
+
+Alles deutet auf ein Scheitern der Pläne für ein spontanes Abendessen außer Haus. Der Japaner in Battersea hat für den Abend keinen freien Tisch, „Hunan“ in Chelsea ist komplett gebucht, vier Italiener und eine Tapas-Bar in Clapham können für den Abend keine Reservierung mehr annehmen.
+
+„Tumnan Thai“ auf Lavender Hill bietet schließlich Abhilfe. In dem gut gefüllten Restaurant ist noch genau ein Tisch frei. Allerdings nur für eine gute Stunde; um 20 Uhr werden Gäste erwartet, die rechtzeitig gebucht haben.
+
+An diesem Abend fühlt sich die Gastronomie im Südwesten Londons fast wieder an, als sei die Corona-Krise vorüber, und das an einem Dienstag. Doch gerade der Wochentag ist entscheidend für die gut gefüllten Restaurants, denn es ist einer der drei „Eat out to help out“-Tage in der Woche.
+
+Anzeige
+
+Während des Augusts bieten 84.000 Restaurants, Cafés und Kneipen, die an dem Programm der Regierung teilnehmen, Essen und alkoholfreie Getränke für die Hälfte an. Als Obergrenze für die Ermäßigung gelten zehn Pfund (11,10 Euro) je Person. Die Differenz zahlt das Finanzministerium oder genauer die britischen Steuerzahler.
+
+Lesen Sie auch Urlaub trotz Corona Was Reisende in Europa jetzt beachten müssen
+
+Erdacht hat Schatzkanzler Rishi Sunak die „Hilfe durch Essen außer Haus“ als Strategie, um die Briten nach wochenlangem Lockdown zurück in die von der Krise schwer getroffene Gastronomie zu locken. Das Muster geht auf. 64 Millionen Mal wurde das Programm in den ersten drei Wochen bis zum 19. August genutzt.
+
+Woche für Woche nimmt der Zulauf zu: 10,5 Millionen Mal wurde es in den ersten drei Tagen in Anspruch genommen, eine Woche später schon 24,5 Millionen Mal.
+
+Mehr als 64 Millionen subventionierte Mahlzeiten
+
+Anzeige
+
+Die Zahlen würden unterstreichen, dass die Briten ihr Gastgewerbe unterstützen, sagte Sunak angesichts der hohen Nutzungszahlen. „Das Programm hat uns daran erinnert, wie gerne wir zum Essen ausgehen“, sagte der Schatzkanzler, der das Programm im Juli als kreative Maßnahme für ungewöhnliche Zeiten angekündigt hatte.
+
+Fast zwei Millionen Jobs im Gastgewerbe seien dank der Mahlzeiten erhalten geblieben. „Mehr als 64 Millionen ermäßigte Mahlzeiten bisher, das heißt, dass fast jeder im Land außer Haus gegessen hat, um Arbeitsplätze zu sichern.“
+
+Ganz unkompliziert ist das Programm, weder Gutscheine noch Formulare sind notwendig. Unter Satay, Phad Thai, Nuer Phad Kraprao und einer Handvoll weiterer Gerichte weist die Rechnung bei „Tumnan Thai“ den „Eat out to help out“-Rabatt für vier Personen aus.
+
+Lesen Sie auch Churchills Enkel „Nicht mal während des Blitzkriegs haben wir uns derart zu Hause verkrochen“
+
+Anzeige
+
+Zu zahlen bleiben 49,85 Pfund. Gastwirte im ganzen Land betonen, dass die Erstattung schnell und unbürokratisch erfolge, meist innerhalb von fünf Tagen. Wer möchte – und einen Platz findet –, kann woanders mit dem gleichen Programm noch einen Nachtisch drauflegen.
+
+„Vertrauen steigern, die Kundenfrequenz verbessern, das sind die wichtigsten Erfolge des Programms“, sagte Kate Nicholls vom Branchenverband Hospitality UK. Für die schwer gebeutelte Branche, die wegen Corona für 15 Wochen komplett schließen musste, ist das ein wichtiger Schritt. Allerdings haben viele Restaurants und Pubs bis heute nicht wieder geöffnet, zahlreiche Angestellte sind in Kurzarbeit.
+
+Daniel Davies-Luke aus Hartlepool schätzt, dass er schon mindestens 218 Pfund gespart habe mit dem Programm. In den ersten drei Wochen hat er es an jedem möglichen Tag genutzt, sagte er der BBC. Einmal hat er mit seiner sechs Jahre alten Tochter Luna gleich drei Mahlzeiten an einem Tag mit Rabatt gegessen, fast immer in kleinen unabhängigen Restaurants. Von großen Ketten habe er bewusst Abstand gehalten, „die haben genug Geld auf der Bank“.
+
+Ferienregionen haben besonders profitiert
+
+Der junge Vater macht sich nichts vor. „Am Ende bezahlen wir natürlich selbst mit unseren Steuern dafür. Jeder weiß doch, dass eine große Steuerrechnung hinter der nächsten Ecke wartet.“
+
+Bisher hat die Finanzbehörde HMRC 336 Millionen Pfund Erstattungen im Rahmen von „Eat out to help out“ gewährt, im Schnitt ein Rabatt von 5,25 Pfund pro Kopf. Insgesamt hat das Finanzministerium 500 Millionen Pfund veranschlagt.
+
+Die Summe könnte allerdings übertroffen werden, warnen Beobachter. Zum einen stehen vier Tage noch aus, zum anderen bleibt den Restaurants für ihre Forderungen Zeit bis Ende September.
+
+Lesen Sie auch Verwirrung um Spanien-Urlaub Reisewarnung oder Reiseverbot? Das müssen Sie jetzt über das Urlaubschaos wissen
+
+Besonders profitiert haben Gastronomiebetriebe in beliebten Ferienregionen an der Küste, etwa in Bournemouth, und in mittelgroßen Städten im Land, belegt eine Untersuchung von Centre for Cities. In den Zentren von Großstädten wie London oder Manchester seien die Restaurantbesuche dagegen nicht gestiegen.
+
+Anzeige
+
+Die Briten gelten im europäischen Vergleich als besonders vorsichtig bei der Rückkehr in Büros. Bürozentren wie Canary Wharf oder die City in London sind weiter nur wenig belebt, viele Restaurants haben noch gar nicht wieder geöffnet.
+
+Trotz der Zurückhaltung hat das Programm deutlich mehr Briten in die Restaurants gelockt als in Nordamerika. In den USA und Kanada liegen die Buchungszahlen der vergangenen beiden Wochen laut Daten des Reservierungsdienstes OpenTable um bis zu 60 Prozent unter dem Vorjahr.
+
+Verlängerung des Programms mit privatem Geld
+
+Deutschland liegt dagegen bis zu 20 Prozent über 2019. Aber mit den britischen Zahlen, die zumindest an den Programmtagen bis zu 70 Prozent im Plus liegen, kann auch das nicht mithalten.
+
+Am kommenden Montag soll dennoch Schluss sein, betonte das Finanzministerium. Die zeitliche Begrenzung trage gerade zur Popularität bei. Außerdem würde die Branche durch weitere Maßnahmen auch in den kommenden Monaten unterstützt. Dazu gehören ein ermäßigter Umsatzsteuersatz, Kurzarbeit, reduzierte Gewerbesteuern, Sonderkredite und Steuerstundungen.
+
+Lesen Sie auch Historischer Wirtschaftseinbruch In der Pandemie rächt sich die Isolation der Briten
+
+Die Reaktionen sind trotz des Erfolgs nicht überall positiv. Servicekräfte klagen über eine extreme Arbeitsbelastung an Tagen mit Ermäßigung, zusätzlich über unfreundliche Gäste, die empört reagieren würden, wenn keine Plätze mehr frei seien.
+
+Zahlreiche Wirte weisen darauf hin, dass sich der Andrang innerhalb der Woche verschoben habe. Einige klagen, dass Montag bis Mittwoch weniger ertragreich seien als das Wochenende, da unter der Woche weniger getrunken werde.
+
+Doch anderswo wird bereits über Möglichkeiten einer Verlängerung des Programms nachgedacht. Grosvenor Estate, einer der großen Grundbesitzer im Londoner West End, hat nach Informationen des Fernsehsenders Sky News Mietern aus dem Gastgewerbe Preisnachlässe angeboten, wenn sie bis Ende September aus eigener Tasche weiter Rabatte anbieten.","Claudia Wanner, London",1598511434,"Wirtschaft,Speisen auf Staatskosten",welt
+Fünf neue Wege gegen Depressionen,,Nike Heinen,1598511348,"Gesundheit,Innovative Forschung",welt
+„Die Stärksten in der Gesellschaft müssen die Kosten der Energiewende tragen“,"WELT: Würden Sie höhere Steuern für Unternehmen befürworten?
+
+Blasel: Denkbar ist auch, dass eine Klimadividende ausgezahlt wird und dass die, die viel ausstoßen, weniger davon bekommen. Das betrifft dann die Vielflieger, die Leute mit hohem Energieverbrauch. Es geht um den Umbau der Industrie und der Konzerne. So müssen zum Beispiel auch Stahlriesen wie Thyssen Krupp ihre Stahlproduktion auf Wasserstoff setzen, um Emissionen zu reduzieren. Entscheidend ist, dass Konzerne selbst Verantwortung für ihre Transformation übernehmen und dass es am Ende nicht die Konsumenten trifft.
+
+WELT: Bei Fridays for Future heißt es: „Folgt der Wissenschaft“. Dabei gibt es auch innerhalb der Klimawissenschaft teilweise Ungewissheiten, beispielsweise beim Thema Kipppunkte, an denen sich Änderungen am Klimasystem abrupt beschleunigen könnten. Wie viel Unsicherheit verträgt die Klimadebatte?
+
+Blasel: Das war auch mir nicht so bewusst und das hat man während der Coronakrise jetzt gesehen:",Leonhard Landes,1598451293,"Deutschland,Klimaaktivist will in den Bundestag",welt
+Krise am Bau? Dann kommt der Handwerker auch wieder zu Ihnen,"Anzeige
+
+Von Corona-Flaute ist beim Wiesbadener Elektrohandwerksbetrieb Hankewicz nichts zu spüren. „Im April war es zwei Wochen lang ruhig mit Auftragseingängen, dann lief es wieder hoch wie zuvor“, sagt Ilka Hankewicz, die in der Familienfirma das Büro leitet.
+
+Nach wie vor seien die Orderbücher so gut gefüllt, dass drei Monate Wartezeit inzwischen normal seien. Nur für Notaufträge von Stammkunden lasse der Terminkalender gelegentlich kleinere Lücken, „wenn mal irgendwo eine Steckdose durchgebrannt ist“, nennt sie ein Beispiel.
+
+Auch in anderen Regionen Deutschlands sind die meisten Bauhandwerker voll ausgelastet. „Ob Heizung, Lüftung, Elektro oder Sanitär – die technischen Gewerke haben gut zu tun“, beobachtet Wolfgang Schubert-Raab, Präsident der Bayerischen Baugewerbeverbände.
+
+Lesen Sie auch Immobilienbranche „Unter Umständen werden wir unsere Städte nicht mehr wiedererkennen“
+
+Anzeige
+
+Ein Grund dafür sei die staatliche Förderung der Heizungsmodernisierung, ein anderer die allgemeine Situation an den Finanzmärkten: „Der Wohnungsbau funktioniert, weil es genügend Kapital gibt, das einen sicheren Hafen sucht“, sagt Schubert-Raab, im Hauptberuf Geschäftsführer der Raab Baugesellschaft.
+
+Dass die Corona-Krise den Wohnungsbau bisher weitgehend unberührt gelassen hat, spüren auch potenzielle Auftraggeber. Wer kleinere Projekte hat, muss meist lange warten, ob es um die Badrenovierung, den Dachausbau oder den Wintergarten geht.
+
+Vorboten einer Abschwächung
+
+Schon vor dem Ausbruch der Pandemie waren Handwerker knapp und teuer. Etwa 14,5 Wochen betrage die Wartezeit auf einen Bauspezialisten, berichtete der Zentralverband des Deutschen Handwerks (ZDH) Mitte 2019. Das waren rund zehn Tage mehr als ein Jahr zuvor.
+
+Anzeige
+
+Am Personalengpass hat sich seither wenig geändert, trotz eines vorübergehenden Tiefs bei den Ordereingängen, auch im Westen der Republik. „Im Juni ist die Auftragsmaschine wieder angesprungen“, sagt Herman Schulte-Hiltrop, Hauptgeschäftsführer der Bauverbände Nordrhein-Westfalen.
+
+Corona-Pandemie führt zu massivem Bewerbermangel Die Corona-Pandemie hat den deutschen Ausbildungsmarkt durcheinandergewirbelt. Bundesweit liegen das betriebliche Lehrstellenangebot und die Zahl der Bewerber acht bis zehn Prozent unter dem Vorjahreswert. Das meldet die Bundesagentur für Arbeit. Quelle: WELT
+
+Für die Betriebe mag das erfreulich sein, doch die Stabilität des Trends ist fraglich. „Wir sind bisher vergleichsweise gut durch die Krise gekommen“, sagt Schulte-Hiltrop. Doch das Bild von der Bauwirtschaft als Fels in der Konjunkturbrandung bröckelt. Erste Vorboten einer Abschwächung sind unübersehbar.
+
+So sei der Boom nur beim Mehrfamilienhausbau ungebrochen, während die Kurve bei neuen Einfamilienhäusern in Bayern – seit langer Zeit Hochburg der Häuslebauer in Deutschland – nun nach unten zeigt, sagt Schubert-Raab. Firmen, die mit Rohbauten zu tun hätten, wie Dachdecker, Putzer oder Estrichleger, spürten die geringere Nachfrage und nähmen deshalb wieder eher auch kleinere Aufträge an. „Sie haben gut zu tun, doch wie lange das gut geht“, das wisse keiner, sagt der Bayer.
+
+Lesen Sie auch Mehrwertsteuersenkung „Der Juni ist wohl kaputt“
+
+Anzeige
+
+Ohnehin spüren weite Bereiche der Bauwirtschaft längst die Bremsspuren der Krise. Zwar meldete das Statistische Bundesamt für Juni ein ansehnliches Plus beim Auftragseingang des Bauhauptgewerbes von neun Prozent im Vergleich zu Juni 2019. In den Monaten zuvor hatten die Vergleichswerte noch deutlich unter dem Vorjahresniveau gelegen.
+
+Doch ist dieser Zuwachs nach Angaben des Zentralverbands des Deutschen Baugewerbes (ZDB) komplett auf einen einzigen Großauftrag der öffentlichen Hand zurückzuführen, nämlich auf die Vergabe des Projekts zum fünfjährigen Ausbau und 30-jährigen Betrieb der Autobahn 3 zwischen Erlangen und Biebelried an ein Konsortium aus der niedersächsischen Firma Johann Bunte und dem französischen Eiffage-Konzern.
+
+Weniger Logistikzentren, Fabrikstraßen und Bürobauten
+
+Das Vorhaben steht mit 2,1 Milliarden Euro Investitionsvolumen im Bundeshaushalt. Es ist laut ZDH das größte bisher in Deutschland vergebene Projekt in sogenannter öffentlich-privater Partnerschaft (ÖPP). Für den öffentlichen Tiefbau weist die Statistik damit einen Orderzugang von gut drei Milliarden Euro aus, eine Steigerung um rund 800 Millionen Euro oder plus 35 Prozent gegenüber dem Vorjahr.
+
+„Die Vergabe derartiger Aufträge ist für die Auftragslage im Straßenbau für die Masse der hier tätigen mittelständischen Bauunternehmen nicht repräsentativ“, meint ZDH-Hauptgeschäftsführer Felix Pakleppa. Rechne man den Großauftrag heraus, trete die Branche vielmehr auf der Stelle. So würden deutlich weniger Logistikzentren, Fabrikstraßen und Bürobauten in Auftrag gegeben als noch vor Kurzem.
+
+Lesen Sie auch Immobilienkauf Kostenfalle Altbau – Was Sie beim Kauf unbedingt beachten müssen
+
+Nach einem Rückgang um mehr als 22 Prozent im Mai betrage das Minus im Wirtschaftsbau nun weitere acht Prozent. Und auch das Umsatzplus von zwölf Prozent, wie es aus den Daten des Statistischen Bundesamtes hervorgeht, spiegele nur die Vergangenheit: „Hier schlagen sich die hohen Auftragsbestände vom Jahresbeginn immer noch nieder.“
+
+Demonstrativer Optimismus passt der Branche gerade nicht ins Konzept, denn in der Bauwirtschaft mit ihren 850.000 Arbeitsplätzen spitzt sich gerade ein Tarifkonflikt zu. Allzu erfreuliche Nachrichten könnten da Begehrlichkeiten wecken, fürchten die Verbände offenbar.
+
+Erst am Mittwoch errichtete die Gewerkschaft IG Bau in Berlin eine mannshohe Sanduhr, die nach eigenen Angaben die Forderung nach einer Wegezeit-Entschädigung für die oft enorm langen Baustellenfahrten optisch unterstreichen sollte. Für den Fall eines Scheiterns der Schlichtungsgespräche drohte IG-Bau-Chef Roland Feiger vorsorglich schon einmal mit einem „heißen Herbst“.
+
+„Wir befürchten Auftragsdelle“
+
+Anzeige
+
+Die Gewerkschaft fordert für das Bauhauptgewerbe 6,8 Prozent mehr Lohn und Gehalt, mindestens aber 230 Euro pro Monat. Auszubildende sollen 100 Euro mehr bekommen. „Der Bau boomt. Und er wirft im Gegensatz zu vielen anderen Branchen satte Gewinne für die Unternehmen ab“, so Feiger.
+
+Die Verbände zeichnen dagegen ein düsteres Bild. Abgesehen vom Wohnungsbau und dem Autobahngroßauftrag sei die Auftragslage mäßig, so Schulte-Hiltrop. In Nordrhein-Westfalen etwa habe kaum eine Kommune die Chance genutzt, die coronabedingte Zwangspause beim Unterricht für dringend notwendige Reparaturen an den Schulgebäuden zu verwenden. Dies sei nicht geschehen, obwohl kleinere Aufträge sogar ohne Ausschreibung hätten vergeben werden können.
+
+Lesen Sie auch Marode Infrastruktur Die A1-Brücke offenbart die Fehler der deutschen Billig-Methode
+
+Viele Baufirmen seien noch dabei, geleistete Überstunden aus dem letzten Boom abzubauen, aber diese Phase könne bald enden. „Wir befürchten, dass es Anfang kommenden Jahres zu einer Auftragsdelle kommt“, sagt Schulte-Hiltrop.
+
+Privaten Bauherren empfiehlt der Verbandsmanager allerdings nicht, Projekte in der Hoffnung auf niedrige Preise oder schnellere Abwicklung bis ins nächste Jahr hinein zu verschieben. Dies sei nicht ratsam, schon um den Vorteil des niedrigeren Satzes von 16 Prozent bei der Mehrwertsteuer zu nutzen.",Michael Gassmann,1598510321,"Wirtschaft,Nahende Flaute",welt
+„Genderneutrale“ Berlinale-Preise sorgen für scharfe Kritik,"Gut gemeint, nicht gut gemacht? Die Ankündigung der Filmfestspiele Berlin, ihre Schauspielpreise fortan ohne Geschlechterkategorie zu vergeben, stößt auf unerwartet heftige Kritik in der Branche. Frauen würden so noch stärker diskriminiert, heißt es.
+
+Würde in Zukunft nicht mehr für eine weibliche Hauptrolle prämiert werden, sondern nur für ihre ""beste Leistung"" in einer Hauptrolle: Schauspielerin Salma Hayek-Pinault
+
+Anzeige
+
+Die neue Regelung soll ab dem Jahr 2021 für den Wettbewerb gelten: Als eines der ersten großen Filmfestivals will die Berlinale Schauspieler nicht mehr getrennt nach Geschlecht auszeichnen. Bisher wurden dort stets die „beste Darstellerin“ und der „beste Darsteller“ geehrt. In Zukunft aber sollen Silberne Bären nur noch für die beste Leistung in einer Haupt- und einer Nebenrolle vergeben werden.
+
+„Die Auszeichnungen im Schauspielfach nicht mehr nach Geschlechtern zu trennen, ist ein Signal für ein gendergerechteres Bewusstsein in der Filmbranche“, so hatten es die beiden Festivalleiter, Mariette Rissenbeek und Carlo Chatrian, erklärt.
+
+Statt Beifall entern die Macher jedoch bisher vor allem Kritik für ihren Vorstoß, und das ausgerechnet aus dem Kreis derer, die man womöglich fördern wollte.
+
+Viel weniger Rollen für Frauen, also weniger Preise?
+
+Anzeige
+
+Zu Wort meldete sich etwa das Gleichstellungsbündnis Pro Quote Film. Der Preis sei ein „Feigenblatt für Innovation“, erklärte deren Vorsitzende Barbara Rohm.
+
+Bisher sei die Berlinale von Gendergerechtigkeit noch weit entfernt. Im Wettbewerb des Festivals laufen beispielweise viel mehr Filme von Männern als von Frauen, wie Pro Quote betonte. Und: In der Filmbranche seien zwei Drittel der Rollen für Männer geschrieben, das gelte auch für Arthouse Filme.
+
+Lesen Sie auch Diversitätstest Ein guter Film ist nicht politisch korrekt
+
+Die Konsequenz: Fortan seien Schauspielerinnen einem weiteren Konkurrenzkampf ausgesetzt. Rohm sagte: „Echte Innovation schafft Raum und Sichtbarkeit für Vielfalt und bringt sie nicht noch mehr in Konkurrenz zueinander. Warum wird nicht ein Preis für gendersensible Darstellung hinzugefügt?“
+
+Anzeige
+
+Auch der Bundesverband Schauspiel kritisiert die Entscheidung. Die Streichung von Geschlechterkategorien trage nicht dem Thema Diversität Rechnung, sondern gehe zu Lasten der Gleichberechtigung von Schauspielerinnen, erklärte Verbandschef Leslie Malton.
+
+„Politisch korrekter als korrekt“
+
+„Die Berlinale versucht mit ihrer Entscheidung politisch korrekter zu sein als korrekt und erweist den wichtigen Zielen zur Erreichung von Gender- und Diversitätsgerechtigkeit im wahrsten Sinne des Wortes einen Bärendienst.“
+
+Malton betonte weiter: „Um mehr gendergerechtes Bewusstsein in der Branche zu erreichen und ein Signal zu setzen, müssen die derzeit benachteiligten Geschlechter sichtbarer werden. Aber die Streichung der Geschlechterkategorien führt zum Gegenteil.“
+
+Lesen Sie auch Gender-Debatte Das Problem des männlichen Prototyps
+
+Anzeige
+
+Ihr Vorstandskollege, der Schauspieler Antoine Monot Jr., fügte hinzu: „Natürlich müssen wir uns auch für die Anliegen und Sichtbarkeit der Kolleg*innen einsetzen, denen wir mit der Verengung auf zwei Geschlechter nicht gerecht werden“. Sie seien derzeit in den Geschichten, die Filme erzählten, nicht genügend präsent.
+
+„Aber unser Engagement darf nicht auf Kosten der Gleichberechtigung von Frauen gehen. Damit ist niemandem gedient“, erklärte Monot.","'Marc Reichwein', 'Birgitta Von Gyldenfeldt', 'Alan Posener', 'Dankwart Guratzsch', 'Elmar Krekeler'",1598509996,"Kultur,„Politisch korrekter als korrekt“",welt
+Krankenhaus verwechselte Medikamente – junger Mann stirbt,,'Anette Dowideit',1598509920,"Panorama,Nach Routine-Operation",welt
+Wie man eine Schule ins 21. Jahrhundert führt,,Florian Sädler,1598509800,"Deutschland,Bildungspolitik",welt
+Navajo-Indianer baten Trump um Gnade – doch Todesstrafe wurde vollzogen,,"'Daniel Friedrich Sturm', 'Florian Stark'",1598508812,"Ausland,USA",welt
+Kalt und falsch? Sogar Schlangen knüpfen „Freundschaften“,"Schlangen müssen damit leben, dass sie – zumindest in unserem Sprachgebrauch – als falsch bezeichnet werden. Doch so kaltherzig, wie wir glauben, sind die Reptilien gar nicht. Sie schließen sogar „Freundschaften“.
+
+Anzeige
+
+Sie gelten als hinterlistig und skrupellos. Lautlos schleichen sie sich an und verziehen kein Gesicht. Schlangen wirken gefährlich, wir trauen ihnen nicht. Schließlich sind sie giftig und sprechen mit gespaltener Zunge. So zumindest das Klischee. Dabei nehmen die Tiere durch das Züngeln lediglich ihre Umgebung wahr, indem sie Geruchsstoffe aufnehmen und ihre Umwelt so „erschnüffeln“.
+
+Eine neue Studie bringt nun unser negatives Bild von Schlangen ins Wanken. Denn die Tiere bilden komplexere Sozialstrukturen als bisher gedacht.
+
+Sie suchen sich gezielt Artgenossen aus, mit denen sie zusammen abhängen und „Freundschaften“ knüpfen.
+
+Quelle: Getty Images/Photo by William Johns
+
+
+
+
+
+Anzeige
+
+„Alle Tiere – sogar Schlangen – müssen mit anderen interagieren. So wie wir suchen sie soziale Kontakte und sind wählerisch, mit wem sie sich zusammentun“, meinte der Verhaltensökologe Morgan Skinner gegenüber „National Geographic“.
+
+Zusammen mit seinem Kollegen Noam Miller hat der Forscher von der kanadischen Wilfrid Laurier University das Verhalten von 40 Östlichen Strumpfbandnattern beobachtet. Für ihre Studie haben sie jeweils zehn Tiere in ein Gehege mit vier einzelnen Unterschlüpfen platziert. Da es nicht genügend Versteckmöglichkeiten für alle Schlangen gab, mussten sich diese also aufteilen.
+
+Um die Strumpfbandnattern, die in weiten Teilen Nordamerikas zu Hause sind, auseinanderzuhalten, haben die Wissenschaftler ihnen jeweils einen farblichen Punkt auf den Kopf gemalt. Acht Tage lang zeichneten die Forscher die Bewegungen der Tiere mit einer Kamera auf. Dabei zeigte sich, dass die Schlangen aktiv den sozialen Kontakt zu bestimmten Artgenossen suchten und sich in kleinen Gruppen von drei bis acht Tieren zusammenfanden.
+
+Anzeige
+
+Für ein weiteres Experiment reinigten die Forscher das Gehege gründlich von allen Gerüchen, bevor sie die Strumpfbandnattern zurücksetzten - allerdings in jeweils anderen Ecken des Käfigs. Dort wollten die Kriechtiere aber nicht lange bleiben und kehrten zu ihrer ursprünglichen Gruppe zurück.
+
+Im Video kannst du dir ihr Verhalten anschauen:
+
+An dieser Stelle finden Sie Inhalte aus YouTube Um mit Inhalten aus YouTube und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Die Schlangen haben eine komplexe soziale Wahrnehmung. Sie können sich auseinanderhalten.
+
+Die beiden Wissenschaftler testeten in einem weiteren Versuch auch noch die Persönlichkeit der Tiere. Konkret: Waren sie eher schüchtern oder mutig. Dazu legten sie die Reptilien jeweils allein in einen der Unterschlüpfe und schauten, wie sie sich verhielten. Eine zurückhaltende Schlange würde für längere Zeit an Ort und Stelle verharren. Eine wagemutige hingegen würde sich ziemlich schnell hinaus in das Gehege trauen, um es zu erkunden.
+
+Das könnte dich auch noch interessieren: Aus Harry Potter Diese Schlange ist nach Salazar Slytherin benannt
+
+Anzeige
+
+Von diesen Charakterzügen war allerdings nichts mehr zu spüren, sobald sich die Reptilien in einer Gruppe befanden. Dann folgten die Tiere in der Regel der Herde – wahrscheinlich eine Strategie, um in freier Wildbahn sicher zu sein, so die Forscher.
+
+Da die Studie nur an in Gefangenschaft lebenden Nattern durchgeführt wurde, sind ihre Ergebnisse noch etwas mit Vorsicht zu genießen. Skinner und Miller sind aber überzeugt, dass die Schlangen auch in der freien Natur soziale Kontakte suchen und „Freundschaften“ schließen.",Viola Ulrich,1598508774,"kmpkt,Soziale Kontakte",welt
+So viele Hotdogs kann ein Mensch maximal essen,"Anzeige
+
+Jedes Jahr am 4. Juli feiern die USA nicht nur den Unabhängigkeitstag, sondern auch das traditionelle Hotdog-Wettessen. Schon seit 1916 findet Nathan‘s Famous Coney Island Hot Dog Eating Contest in New York statt. Die Regeln sind einfach: Wer in zehn Minuten die meisten Würste im Brötchen verdrückt, hat gewonnen. Bis 2007 waren es noch zwölf Minuten.
+
+Quelle: pa/ZUMAPRESS.com/Bruce Cotler
+
+Wegen der Corona-Pandemie lief die Champions League der Wettesser in diesem Jahr etwas anders ab. Zuschauer waren keine erlaubt. Die Veranstaltung wurde aber live im Fernsehen übertragen. Lediglich zehn Hotdog-Hungrige durften teilnehmen, die durch Plexiglasscheiben voneinander getrennt wurden.
+
+Quelle: pa/ZUMAPRESS.com/Bruce Cotler
+
+Die widrigen Umstände konnte ihrem Triumph aber nichts anhaben: Schon zum 13. Mal siegte Joey „Jaws“ Chestnut bei den Männern und zum siebten Mal Miki Sudo bei den Frauen. Chestnut verschlang 75, Miki 48,5 Hotdogs in zehn Minuten. Damit stellten beide einen neuen Weltrekord auf.
+
+Mehr zum diesjährigen Wettessen erfährst du hier: Wettessen Der größte Vielfraß der Welt
+
+Die Sieger erhalten jeweils ein Preisgeld in Höhe von 10.000 Dollar und den ehrenvollen Mustard Belt, also den Senf-Gürtel Quelle: pa/ZUMAPRESS.com/Bruce Cotler
+
+Anzeige
+
+Doch da ist tatsächlich noch Luft nach oben beziehungsweise Platz im Magen. James Smoliga von der High Point University in North Carolina hat ausgerechnet, wie viele Frankfurter im Brötchen ein Mensch theoretisch in zehn Minuten essen könnte:
+
+Es sind sage und schreibe 83 Hotdogs. Das entspricht in etwa 24.000 kcal.
+
+Als Physiologe studiert Smoliga die Leistungsgrenzen von uns Menschen. Dabei untersucht er eigentlich, wie weit wir laufen oder wie schnell wir rennen können. Für seine aktuelle - sicherlich nicht ganz ernst gemeinte - Studie wollte der Sportmediziner wissen, wie viel Fleisch und Brot unser Magen maximal fassen kann. Dafür analysierte er die Daten aus 39 Wettbewerbsjahren und die von begeisterten Essern, die ihren Würstchen-Konsum dokumentiert hatten. Die Daten hat der Forscher dann mit einem Modell zur Elastizität des menschlichen Bauchraumes kombiniert.
+
+Demnach erreichen die heutigen Hotdog-Champions eine „aktive Konsumrate“, die fünfmal so hoch ist wie die der noch weitgehend untrainierten Wettbewerbs-Vielfraße aus dem Jahr 1980. Der damalige Gewinner des Nathan‘s Famous Coney Island Hot Dog Eating Contest schaffte gerade mal zehn Hotdogs in zwölf Minuten.
+
+Den Hotdog soll der gelernte Bäcker und deutsche Einwanderer Charles Feltman 1867 in den USA populär gemacht haben Quelle: Getty Images/Ivan
+
+Anzeige
+
+Im Vergleich zu anderen Sportarten wie beispielsweise Marathonläufen ist die Leistungssteigerung beim Hotdog-Essen um ein Vielfaches höher. Die Wurstkönige haben ihren Magen darauf trainiert, sich zu entspannen und schnell auszudehnen, um das immense Volumen an Nahrung innerhalb kürzester Zeit aufnehmen zu können. So haben sie die Elastizität des Magens in den vergangenen Jahren extrem gesteigert. 2005 konnte der aktuelle Weltrekordhalter Chestnut beispielsweise nur 267 Gramm Hotdog pro Minute essen, 2018 waren es schon 740 Gramm.
+
+Passend zum Thema: Wurst-Quiz 10 Fragen, die nur echte Wurstkenner beantworten können
+
+Während Training den Menschen eher fitter macht, kann das extreme Hotdog-Essen aber ernsthafte Folgen für die Gesundheit haben. Denn derartige Fressattacken können zu Funktionsstörungen des Magen-Darm-Trakts führen.
+
+Zum Schluss sei noch gesagt, dass die Studie mit Vorsicht zu genießen ist, weist sie doch ein paar Limitationen auf. So sind beispielsweise die Datensätze lückenhaft, und die Größe der Hotdogs kann über die Jahre hinweg variiert haben. Zudem berücksichtigen mathematische Modelle nicht die individuelle Physiologie des Menschen.
+
+Anzeige
+
+Wohl bekomm‘s!",Viola Ulrich,1598508768,"kmpkt,Ausgerechnet",welt
+"Wie Mode-Influencer 1,3 Millionen Euro mit falschen Fans verdienen","Anzeige
+
+Elektrische Zahnbürsten, Wunderhaarmasken, Fitnessbekleidung: Auf den Instagram-Profilen von bekannten Influencern fliegen die Produktplatzierungen nur so am Zuschauer vorbei. Die Fans stören sich kaum daran, viele Influencer verdienen längst ihren Lebensunterhalt damit und die Marken profitieren davon, dass ihre Werbung wie persönliche Empfehlungen daherkommt.
+
+Doch die Branche hat ein Problem: „Fake Follower“. So nennt man das, wenn Influencer sich Fans besorgen, die gar keine sind. Hinter denen kein Mensch steckt, der tatsächlich bei Instagram auf „Kanal abonnieren“ geklickt hat, sondern ein Bot, ein Programm, das automatisch Likes verteilt oder generische Kommentare absondert. Im Kosmos der Mode-Influencer, die vergleichsweise viel Geld mit Werbung verdienen, sind die „Fake Follower“ inzwischen ein richtiges Problem, das legen Zahlen einer Auswertung der Agentur Intermate nahe. Demnach hat die Modebranche allein im ersten Halbjahr 2020 etwa 1,3 Millionen Euro für Werbung ausgegeben, die lediglich Bots erreicht hat.
+
+Die meisten Zuschauer akzeptieren die Werbung „Influencer“-Marketing „Die Follower akzeptieren Werbung. Wir haben null hate“
+
+Dafür hat Intermate 125.000 „Sponsored Posts“ aus Deutschland, Österreich und der Schweiz ausgewertet – Beiträge, für die Marken den Influencern Geld bezahlt haben. Doch wie echt sind die Fans dieser Influencer? „Man kann nicht mit 100-prozentiger Sicherheit sagen, bei welchen Fans es sich um ‚Fake Follower‘ handelt“, sagt Alessandro De Pasquale im Gespräch mit WELT. De Pasquale hat Intermate mitgegründet und die aktuelle Untersuchung der „Fake Follower“ als CTO der Agentur betreut. Man habe dafür die Fans im Hinblick auf verschiedene Kriterien untersucht, etwa: Wie aktiv sind sie, woher kommen sie, haben sie selbst einen Kanal ohne Beiträge?
+
+Anzeige
+
+Anschließend habe man den „Media Value“ jener vermutlich nicht existenten Fans berechnet. De Pasquale erklärt: „Eine Marke bekommt einen Influencer angeboten. Der Preis für einen werblichen Beitrag bemisst sich anhand dessen Followerschaft. Hat der Influencer 50.000 Fans, ist er günstiger als ein Influencer mit einer Million Fans. Wir haben analysiert, bei wie vielen Fans es sich wahrscheinlich um ‚Fake Follower‘ handelt, und diese Zahl mit einem marktüblichen Tausender-Kontakt-Preis multipliziert.“ Der Tausender-Kontakt-Preis ist eine übliche Größe im Marketing, die Marken zahlen einen festgelegten Betrag je 1000 Kontakten mit Personen, die als Käufer der Produkte infrage kommen.
+
+Das Ergebnis: Influencer haben in diesem Jahr bereits 1,3 Millionen Euro allein auf Basis von „Fake Followern“ verdient. Insgesamt waren es rund 15,7 Millionen Euro – der wesentlich größere Teil der Werbeerlöse basiert also auf richtigen Fans. Interessant ist, dass demnach 8,3 Prozent aller analysierten Fans wahrscheinlich „Fake Follower“ sind.
+
+Der Sinn von „Influencer Marketing“
+
+Zahlen wie diese werfen Fragen zur Sinnhaftigkeit von „Influencer Marketing“ auf. Für Influencer sei es ein Leichtes, sich falsche Fans zu kaufen, sagt De Pasquale: „Es ist zu einfach und zu schön, man muss das einfach nur googeln. ‚Fake Follower‘ sind günstig, die Ausgaben dafür kann man schnell mit Werbebeiträgen wieder verdienen.“ Namen von Influencern, die das getan haben, will der Experte nicht nennen – auch, weil es so schwer ist, definitive Aussagen über „Fake Follower“ zu treffen.
+
+Anzeige
+
+Doch selbst Cathy Hummels mit ihren rund 550.000 Fans habe schon im Verdacht gestanden, mit „Fake Followern“ zu arbeiten, erinnert sich De Pasquale. Hummels selbst ließ dazu über ihren Anwalt verkünden, dass sie keine falschen Fans gekauft habe, es aber möglich sei, dass Unterstützer das für sie getan hätten.
+
+Für die Mode- und Lifestylemarken, die inzwischen beträchtliche Summen ihrer Budgets in „Influencer Marketing“ pumpen, könnten die Intermate-Zahlen ein Anstoß zum Umdenken sein. Wie sinnvoll sind Produktplatzierungen bei Instagram eigentlich aus Markensicht? Dazu fehlen oft belastbare Zahlen.
+
+Und wie ist das mit der Kennzeichnung von Werbung? Gegen „Influencer“ Die Abmahn-Masche des Verbands Sozialer Wettbewerb
+
+Ganz davon abgesehen, dass einige der erfolgreichsten Instagram-Kanäle nur noch wie Dauerwerbesendungen mit kurzen Unterbrechungen für andere, nicht bezahlte Inhalte anmuten. Der Löwenanteil der Instagram-Nutzer ist zwischen 13 und 34 Jahre alt, viele sind minderjährig. Was suggeriert man Jugendlichen und jungen Erwachsenen mit der Werbeflut, wie viele denken, es gehöre eben zu einem schönen Leben dazu, dieses oder jene womöglich überflüssige Produkt zu besitzen? Solche Fragen können schnell mal untergehen in der Insta-Welt, die oft abgehoben aussieht – und dazu nicht selten künstlich aufgeblasen ist.
+
+Anzeige
+
+
+
+
+
+In unserem Podcast THE REAL WORD geht‘s um die wichtigen großen und kleinen Fragen des Lebens: Was haben Busen-Selfies mit Feminismus zu tun? Wie bleibt die Langzeitbeziehung glücklich? Und was kann man von der TV-Bachelorette lernen? Abonnieren Sie den Podcast auf Spotify, Deezer, iTunes oder Google Podcasts oder abonnieren Sie uns direkt per RSS-Feed.
+
+Hier können Sie unsere WELT-Podcasts hören Wir nutzen den Player des Anbieters Podigee für unsere WELT-Podcasts. Damit Sie den Podcast-Player sehen können und um mit Inhalten aus Podigee und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+
+
+",Anna Eube,1598508748,"ICONIST,„Fake Follower“ bei Instagram",welt
+Der Länder-Wind-Ausgleich soll die Energiewende gleich doppelt beschleunigen,,Daniel Wetzel,1598508060,"Wirtschaft,Ökostromversorgung",welt
+US-Vizepräsident Pence für zweite Amtszeit nominiert,,,1598508000,"Videos,Parteitag der Republikaner",welt
+„Wir wollen den absoluten Weltfrieden!“ – Die bizarren Szenen einer Großdemo,,Martin Heller,1598719994,"Deutschland,Corona-Protest in Berlin",welt
+Wie man mühelos kein Vermögen bildet und den Wohlstand im Alter verliert,"Je weniger Geist, desto weniger Angst, hat Søren Kierkegaard einmal bemerkt, und so etwas gefällt natürlich den Zweiflern, Depressiven und Furchtsamen dieser Welt, weil sie im Umkehrschluss denken, ihre Betrübnis sei eine Folge ihrer geistigen Überlegenheit, während die Zufriedenen und Glücklichen einfach ein wenig, naja, blöd und ungebildet sind.
+
+Die einen wähnen sich nah am hitzebedingten Klimatod und verzweifeln dann im Unwetter beim Protestcamp in Hamburg die anderen hatten einen schönen Sommer und wissen, dass sie nicht jeden Tag im Schwimmring an der Südgrenze des Landes liegen können, sondern mitunter auch Regen fallen muss.
+
+Dann geht man halt nach Hause und liest das Buch – aber keines von Kierkegaard, der ist für Regen ein zu negativer Charakter - auf dem Sofa weiter. Die einen wollen mit ihrer Verzweiflung und Hilfe der sie verehrenden Medien in den Bundestag, und anderen Ängste vor dem Klimatod verordnen, die anderen wollen einfach nur liegen bleiben und ihre Ruhe haben. Das kann man natürlich geistlos nennen.",Don Alphonso,1598719574,"Stützen der Gesellschaft,52.000 € sparen",welt
+„Ganz bestimmt keine Freunde der freiheitlich-demokratischen Grundordnung“,,,1598717754,"Videos,Berliner Innensenator",welt
+Tour de France startet mit Starkregen und Sturz-Chaos,"Zwischenzeitlich fuhren die 176 Profis bei Starkregen Schrittgeschwindigkeit, es kam zu zahlreichen Stürzen. Am Ende der ersten Etappe der Tour de France aber ging die Post ab. Nach dem Sprint geht es am Sonntag bereits in die Berge.",lwö,1598717558,"Sport,Erste Etappe",welt
+SPD-Kanzlerkandidat Scholz plant höhere Steuern für Reiche,,,1598714334,"Videos,Corona-Schulden",welt
+Nach Koran-Verbrennung brechen in Malmö Unruhen aus,,,1598712530,"Ausland,Proteste in Schweden",welt
+„Ich musste doppelt so viel leisten wie weiße Deutsche“,"Anzeige
+
+Immer wieder schlägt die krachende Rechte im Sandsack ein. Tänzelnd bewegt sich Bintou Schmill (36) um ihr Ziel, elegant, fokussiert. Sie wischt sich den Schweiß ab: „Wenn man dort reingeht“, sagt sie und deutet auf den Boxring hinter sich, „muss einem bewusst sein, dass man dort auch sterben kann.“
+
+Ein Box-Gym im Hamburger Stadtteil Hammerbrook. Hier bereitet sich Schmill auf ihre nächsten Kämpfe vor. Die ersten seit vier Jahren – mit allen Risiken. Dafür hat sie ihr altes Leben aufgegeben, zumindest einen sicheren Lebensentwurf. Vor einigen Wochen stand die studierte Sport- und Französisch-Lehrerin noch vor siebten und achten Klassen der Stadtteilschule Öjendorf.
+
+Lesen Sie auch Triathletin Nina Kraft (†51) Die Tragödie nach dem Betrug
+
+Das ist Vergangenheit.
+
+Anzeige
+
+Jetzt zählt nur noch das Boxen. Endlich wieder: „Ich möchte mir meinen Traum erfüllen, doch noch Weltmeisterin zu werden“, sagt Schmill. Sie weiß: „Ich habe nicht mehr viel Zeit. Aber ich spüre, dass ich den Titel in mir habe.“
+
+Und dann gab sie entnervt auf
+
+Schmill war schon einmal fast an ihrem Ziel. 2015 war sie Europameisterin im Junior-Weltergewicht. Ein Jahr später folgte der EM-Titel im Weltergewicht. Ein Kampf um einen WM-Gürtel war nur eine Frage der Zeit. Doch dann bekam Schmill die ganze Schattenseite der Boxwelt ab: Absprachen mit Promotern wurden nicht eingehalten, Zerwürfnisse mit Managern kamen hinzu.
+
+Nach vier Jahren will sie es doch noch einmal wissen: Boxerin Bintou Schmill bereitet sich derzeit in Hamburg vor Quelle: HARDT/Oliver Hardt
+
+2016 gibt Schmill entnervt auf: „Ich wollte eine ganze Zeit lang nichts mehr mit dem Geschäft Boxen zu tun haben“, sagt sie, „ich wäre längst Weltmeisterin gewesen, aber mir war alles zuwider. Ich konnte mir nicht mal mehr Kämpfe im Fernsehen anschauen.“
+
+Anzeige
+
+Wer verstehen will, warum sie nun doch wieder da ist im Boxzirkus und für ihren Traum kämpft, sollte ihre Geschichte kennen.
+
+Die Oma holt die Enkelin aus Togo nach Hamburg
+
+Ein trister Tag im Januar 1998: Schnee fällt, bedeckt den Boden. Die damals 13-jährige Bintou Schmill hat zuvor noch nie Schnee gesehen, in Togo gab es keinen. Dort, in Westafrika, ist sie bei ihrer Mutter aufgewachsen. Der heiße Wind wehte dort den Wüstensand in die Straßen und an die Hausfassaden.
+
+Und nun: Hamburg.
+
+Lesen Sie auch Comeback von Mike Tyson Eine Mischung aus lukrativer Show und Zirkusvorstellung
+
+Anzeige
+
+Ihre Oma hatte in Togo einen Deutschen kennengelernt, ihn geheiratet und wollte die Enkelin nach Hamburg holen. Also sitzt sie kurz darauf in einem Flugzeug. Sie wächst auf St. Pauli bei ihrer Großmutter und deren Mann auf, die zu Adoptiveltern werden. So kommt sie zu ihrem deutschen Nachnamen.
+
+An dieser Stelle finden Sie Inhalte aus Instagram Um mit Inhalten von Instagram und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Bintou Schmill kann anfangs zehn deutsche Wörter: die Zahlen bis zehn. Sie geht auf eine französische Schule, lernt dort Deutsch. Wirklichen Kontakt zu deutschen Jugendlichen bekommt sie durch den Sport. Anfangs Judo. „Ich mochte es zu kämpfen“, sagt sie.
+
+Lesen Sie auch Trendsportart So werden Sie schnell ein besserer Stand-up-Paddler
+
+Während ihres Studiums in Bremen spricht sie ein Trainer aus dem Hochschulsport an. „Er meinte, ich würde mich wie eine Boxerin bewegen“, erzählt sie und lacht: „Ich dachte erst, es sei eine Beleidigung.“ War es nicht.
+
+„Viel unterschwelligen Rassismus erlebt“
+
+Mit 22 Jahren beginnt sie mit dem Boxen. Erstes Sparring, erste Bekanntschaft mit dem Ringstaub. Doch bald liegt sie nicht mehr auf den Brettern. „Boxen war vom ersten Tag an genau mein Sport. Er vereint alles, was ich gut kann“, sagt Schmill. Sie meint nicht nur Athletik und Kampfgeist: „Ich kann auch einstecken. Manchmal brauche ich in Kämpfen sogar ein, zwei härtere Treffer, um wach zu werden.“
+
+An dieser Stelle finden Sie Inhalte aus Instagram Um mit Inhalten von Instagram und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Sie studiert und boxt, hilft nebenbei Flüchtlingen als pädagogische Betreuerin. Sie sieht, wie andere Boxerinnen große Kämpfe bekommen – für sie selbst bleibt oft nur der Part als Sparringspartnerin. „Vielleicht auch, weil ich aus Afrika komme. Ich habe viel unterschwelligen Rassismus erlebt, hatte immer das Gefühl, doppelt so viel leisten zu müssen wie Menschen mit weißer Hautfarbe und deutschem Pass.“
+
+Durch das Boxen habe sie eine andere Haltung bekommen. „Als Kind wurde ich oft gefragt, ob ich ein Schweigegelübde abgelegt hätte. Ich war sehr schüchtern. Erst mit dem Boxen wurde ich selbstsicher. Ich hatte endlich etwas, für das ich stand“, sagt Schmill.
+
+Lesen Sie auch Kampf gegen Jack Sharkey 1930 Ein Schlag in den Unterleib macht Max Schmeling zum Champion
+
+Sie kämpfte – und sie gewann. 14 Fights als Profi, 14 Siege, 12 durch K.o.
+
+Anzeige
+
+„The Voice“ wird sie genannt, weil sie nebenbei in einem Gospelchor und in einer Soul-Band singt. Und weil sie jeden ihrer Schläge mit einem lauten Stöhnen auf die Reise schickt. „Wie Serena Williams ihre Vorhand“, sagt Schmill grinsend. In dieser Zeit ist sie gefragt. Ein Kamerateam von RTL begleitet sie. Interview-Anfragen stapeln sich, auch eine von Markus Lanz ist dabei. Sie ist Cover-Girl des Penthouse-Magazins, Europameisterin – auf dem Höhepunkt.
+
+Hochglanz: Bintou Schmill auf dem Titel der Penthouse-Ausgabe Juli/August 2014 Quelle: Screenshot
+
+Doch dann kollabiert ihre Karriere. Bald ist sie nur noch Lehrerin und Mutter einer Tochter.
+
+Alles auf Risiko für den einen Traum
+
+Ihr Traum habe sie nicht losgelassen, sagt sie: „Ich habe mich mit dem Gedanken gequält, dass ich mit dem Boxen noch nicht fertig war. Wenn ich es nicht noch einmal versucht hätte, würde ich es ein Leben lang bereuen, es nicht durchgezogen zu haben.“
+
+Lesen Sie auch Leichtathletik „Ich bin froh, dass ich in Deutschland lebe“
+
+Sie hat inzwischen einen neuen Kampfnamen: „The Mighty Beauty“, die „Mächtige Schöne“. Das bedeutet ihr Vorname Bintou in der Sprache ihrer Vorfahren. „Ich bin mir sicher, dass ich mir meinen Traum erfülle“, sagt die Boxerin.
+
+Sie weiß, was sie tut. „Alles auf eine Karte. Es ist ein Mega-Risiko“, sagt Schmill: „Aber ich werde mich mit dem WM-Titel dafür belohnen.“
+
+Bintou Schmill im März 2016 - kurz danach war erst einmal alles vorbei mit dem Boxen Quelle: pa/Photowende/Bernd Wende Sportfoto
+
+Der Artikel wurde für das Sport-Kompetenzcenter (WELT, „Sport Bild“, „Bild“) recherchiert und zuerst in „Bild am Sonntag“ veröffentlicht.",Robert Schreier,1598711881,"Boxen,Bintou Schmill",welt
+Schäuble will gemeinsame Schulden und Einnahmen für die EU,,"'Dorothea Siems', 'Christoph B. Schiltz', 'Wolfgang Schäuble', 'Robin Alexander'",1598711554,"Deutschland,„Käme einiges zusammen“",welt
+"Junge, Alte, Kinder, Reichsflaggen – und der Neffe von JFK","Europaweit mobilisierten Rechtsextreme und Verschwörungstheoretiker. Ein Verbot der Demonstration wurde in letzter Minute gekippt. In Berlin protestierten Zehntausende gegen die staatlichen Corona-Auflagen – ohne Abstand, ohne Mundschutz.
+
+Anzeige
+
+Aus vollem Hals rufen sie „Widerstand!“ und „Wir sind das Volk!“. Die Tausenden Demonstranten, die sich am Samstag im Zentrum Berlins versammeln, sind aufgebracht, viele haben Transparente dabei. Auf die Straße treibt sie der Protest gegen staatliche Corona-Auflagen, sie wollen Schluss machen mit den lästigen Alltagsbeschränkungen – und kreiden der Regierung offenen Rechtsbruch an.
+
+„Schuldig“ ist denn auch auf Schildern mit Konterfeis von Regierungspolitikern und Wissenschaftlern zu lesen – sie alle, darunter die Kanzlerin, sind in gestreifter Häftlingskleidung abgebildet.
+
+Alle Entwicklungen von der Demonstration hier im Live-Ticker.
+
+Anzeige
+
+Aufgeheizt war das Klima bereits vor der Demo, weil die Polizei die Versammlungen vor allem mit Verweis auf den Gesundheitsschutz verbieten wollte. Gerichte kippten die Verbotsverfügung jedoch in letzter Minute.
+
+Die Polizei rückte mit 3000 Einsatzkräften an Quelle: REUTERS
+
+Die Polizei stellt sich mit rund 3000 Einsatzkräften auf das Protestwochenende ein, sie sperrt Zugänge und Straßen. Die Zahl der Demonstranten wächst schon am Samstagvormittag schnell: Zunächst spricht die Polizei von rund 18.000 Teilnehmern auf der Friedrichstraße und Unter den Linden, später am Nachmittag von „mehreren Zehntausend“.
+
+Mehrere Zehntausend Teilnehmer zählt die Polizei - die Veranstalter sprechen von 8,5 Millionen Quelle: AP/Michael Sohn
+
+„Stoppt den Corona-Wahsinnn!“ ist unter anderem auf Schildern zu lesen. In den Straßen, wo sich die Demo-Teilnehmer sammeln, wird aufgrund ziemlicher Enge in der Menge klar: Viele halten die wegen der Infektionsgefahr angezeigten Mindestabstände nicht ein. Der geplante Demonstrationszug darf deshalb zunächst nicht starten. Dann löst die Polizei die Demo auf. Aber ziehen die Demonstranten auch freiwillig ab? Am Nachmittag sollte noch eine große Kundgebung ganz in der Nähe folgen, auf der Straße des 17. Juni zwischen Siegessäule und Brandenburger Tor.
+
+Anzeige
+
+Der US-Rechtsanwalt, Umweltaktivist und Impfgegner Robert Francis Kennedy junior, Neffe des US-Präsidenten John F. Kennedy, wendet sich in seinem Redebeitrag an der Siegessäule gegen den Aufbau des 5G-Mobilfunknetzes, warnte vor einem Überwachungsstaat und attackierte in diesem Zusammenhang unter anderem Microsoft-Gründer Bill Gates. Unter Verweis auf den berühmten Berlin-Besuch des US-Präsidenten Kennedy im Juni 1963 sagte er, sein Onkel sei damals nach Berlin gekommen, weil in der Stadt die Front gegen Totalitarismus verlaufen sei. „Heute ist Berlin wieder die Front gegen Totalitarismus“, fügte er an.
+
+Kennedy junior hat sich weitgehend von seiner Familie entfremdet, wird von Angehörigen immer wieder für seine impfkritischen Positionen und Verschwörungstheorien kritisiert. Im Januar 2017 hatte US-Präsident Donald Trump ihm einen Posten in einem geplanten „Impfsicherheitsgremium“ in Aussicht gestellt.
+
+Lesen Sie auch Initiator von „Querdenken 711“ „Der Innensenator handelt antidemokratisch, indem er Grundrechte einschränkt“
+
+Aus vielen Teilen Deutschlands sind Demonstranten in die Hauptstadt gereist. Veranstalter der Initiative „Querdenken 711“ aus Stuttgart hatten zu der Versammlung gegen staatliche Corona-Auflagen aufgerufen. Die Mischung ist vielfältig: Männer und Frauen, Junge und Alte, auch Familien mit Kindern sind dabei. Viele Dialekte sind zu hören. An der Staatsoper Unter den Linden sammeln sich wiederum Menschen, die gegen die Querdenken-Proteste demonstrierten.
+
+Weil die Abstände nicht eingehalten wurden, löste die Polizei eine vorherige Demonstration in Berlin-Mitte auf Quelle: REUTERS
+
+Anzeige
+
+Gegen Mittag verbreiten sich in den sozialen Medien dann erste Falschmeldungen über die Zahl der Teilnehmer: 8,5 Millionen Protestierende sind demnach vermeintlich in der Hauptstadt unterwegs. Auch der Thüringer AfD-Rechtsaußen Björn Höcke spricht von Hunderttausenden, „wenn nicht Millionen“. Schon bei der Demo am 1. August wurde die Teilnehmerzahl massiv auf über eine Million aufgeblasen, obwohl nur wenige Zehntausend dabei waren.
+
+Lesen Sie auch Meinung Demo-Verbot gekippt Auch brüllende Verirrte haben ein Recht auf Demonstrationen
+
+Am Samstag tauchen zwischen den bürgerlich aussehenden Demonstranten auch Menschen mit schwarz-weiß-roten Reichsflaggen auf, T-Shirts mit Frakturschrift sind zu sehen. Als rechtsextrem erkennbare Demonstranten machen nach Einschätzung von Demo-Beobachtern aber einen sehr kleinen Teil aus.
+
+Demonstranten bei den Corona-Protesten Quelle: REUTERS
+
+Innensenator Andreas Geisel (SPD) hatte sich zuvor mehrfach besorgt geäußert angesichts „einer Mobilisierung unter durch Rechtsextremisten“. Im Vorfeld der Demo waren in sozialen Medien durchaus Stimmen zu lesen, die sich einen politischen Umsturz herbeisehnten. Mit Kritik an den Corona-Maßnahmen hatte das teilweise nicht mehr viel zu tun.","'Christoph Giesa', 'Judith Henke', 'Matthias Kamann', 'Diana Pieper'",1598711121,"Deutschland,Corona-Proteste in Berlin",welt
+Brauchen wir eine Paartherapie – oder kriegen wir das auch so hin?,"Ich habe einen Traum. In ein paar Jahren gehört eine Paarausbildung genauso wie eine Elternausbildung zu unserem Leben – so wie heute ein Handy, eine Urlaubsreise oder eine Yogaklasse. Wir werden alle in unsere Beziehungsintelligenz investieren und mit anderen Paaren lachen über unsere alberne Scham von früher.
+
+Um dahin zu kommen, braucht es nicht viel. Fangen wir beim Anfang an.","Elke Naters, Sven Lager",1598710285,"Panorama,Partnerschaftskolumne",welt
+"„Ich glaube nicht, dass das in der Realität klappt“",,,1598545001,"Videos,Söder zu neuen Corona-Regeln",welt

@@ -1,0 +1,536 @@
+title,text,author,published,tags,source
+Die Testpflicht für Reiserückkehrer kommt,,,1596528000,"Videos,Corona-Risikogebiete",welt
+"„Unsere Priorität ist, die Schulen wieder offen zu kriegen“","An der Wiedereinführung des Regelschulbetriebs in Mecklenburg-Vorpommern gibt es viel Kritik. Ralph Brinkhaus, der Fraktionsvorsitzende der Union, hält eine Rückkehr in die Klassenzimmer für notwendig. Es wird aber auch weiterhin einen Mischbetrieb mit digitalen Alternativen geben.",,1596526800,"Videos,Ralph Brinkhaus",welt
+Der 500.000-Euro-Simulator macht das Auto zur Zeitmaschine,"Autohersteller setzen bei der Entwicklung immer mehr auf Fahrsimulation. Der Unterschied zu einer echten Fahrt wird geringer. Vor allem bei autonomen Fahrzeugen wird der Simulator gebraucht. Denn nur so lassen sich riskante Experimente durchführen.
+
+Anzeige
+
+Plötzlich schert das vordere Auto aus, der Hintermann tritt voll in die Bremse. Sein Fahrzeug schlittert und landet auf einer Wiese. Es rüttelt und schüttelt – und alles bleibt ganz. In Fahrsimulatoren werden nahezu täglich solche Versuche gefahren. Die Entwickler erhoffen sich dadurch neue Erkenntnisse und einen Technikvorsprung vor ihren Wettbewerbern.
+
+Bewegte Simulatoren existieren schon seit den 1970er-Jahren. Heute arbeiten alle Autohersteller und viele Zulieferer damit, um Komfort- und Assistenzsysteme frühzeitig entwickeln zu können. Entweder in ihren eigenen Entwicklungsabteilungen oder in denen von Dienstleistern.
+
+BMW plant demnächst ein neues Fahrsimulationszentrum. Probanden sollen dann kaum noch einen Unterschied zu einer echten Fahrt im Auto feststellen können. Ein Trend?
+
+Autonomes Fahren wird im Fahrsimulator getestet
+
+Anzeige
+
+Professor Jörn Schneider von der Hochschule Trier, Fachbereich Informatik, erforscht gemeinsam mit Psychologen und Ingenieuren mithilfe von Fahrsimulationen verschiedene Reaktionen von Menschen im Auto. Seit Anfang des Jahres kann er in einem neuen, rund eine halbe Million Euro teuren Simulator eine sich für den Fahrer realistisch anfühlende Wirklichkeit nachbilden.
+
+So wird bei automatisierten Fahrzeugen nach SAE-Level 3 in Simulationen die Reaktionszeit des Piloten gemessen, bis er die Kontrolle über das Fahrzeug wieder übernehmen kann.
+
+Virtuelle Zeitmaschine: Simulatoren helfen auch Geld bei der Entwicklung zu sparen Quelle: dpa-tmn
+
+„Bei Fahrerüberwachungssystemen wollen wir Situationen provozieren, in denen die Fahrer die Kontrolle nicht rechtzeitig übernehmen“, sagt Professor Schneider. „Das lässt sich im realen Verkehr nicht darstellen, weil es zu gefährlich ist. Im Fahrsimulator lassen sich dafür verschiedene Szenarien sicher nachspielen.“
+
+Lesen Sie auch Elektromobilität Teslas Model 3 ist VW und Toyota technisch um sechs Jahre voraus
+
+Anzeige
+
+Auch die Einstellung von Müdigkeitsassistenten und anderen Sicherheitssystemen, die den Menschen im Vordergrund haben, lassen sich in Simulationen bis zur Serienreife entwickeln. Das sei wichtig, da die jeweilige Soft- und Hardware fertig sein muss, bevor das Auto fertig entwickelt ist. Es ist ein Vorverlagern des eigentlichen Fahrens. „Außerdem lässt sich die simulierte Welt einfach perfekt nachstellen“, erklärt Professor Schneider.
+
+Für das autonome Fahren von morgen wichtig
+
+Auch beim Training von neuronalen Netzen, dem sogenannten Deep Learning für das künftige autonome Fahren, werden vermehrt Simulationen eingesetzt. Wie reagieren Insassen, wenn das autonome Fahrzeug plötzlich ausweicht? Wird ihnen schwindelig, und wie lässt sich das vermeiden?
+
+„Wenn Fahrzeuge vermehrt automatisiert oder autonom unterwegs sein werden, wird die Fahrsimulation noch wichtiger werden“, sagt Professor Schneider.
+
+Bemannte Mission: Was wie eine Mondlandefähre aussieht, trägt auf der Erde zur Verkehrssicherheit bei, bevor neue Autos auf die Straße rollen Quelle: dpa-tmn
+
+Anzeige
+
+Doch schon heute spielt sie eine große Rolle in der Entwicklung. Martin Henne von der FKA GmbH in Aachen führt im Auftrag der Autoindustrie, Zulieferindustrie und gemeinsam mit der RWTH Aachen Versuche an Fahrsimulatoren durch.
+
+„Bei der Fahrsimulation geht es immer um Menschen. Es sind meist Fahrerverhaltensanalysen, um frühzeitig die Weichen für entsprechende Entwicklungen – unter anderem von Fahrerassistenzsystemen – stellen zu können“, sagt Henne.
+
+Lesen Sie auch Functions on Demand Bei der Sonderausstattung setzen deutsche Autobauer auf das Tesla-Modell
+
+Simulatoren werden am Anfang einer Entwicklungskette eingesetzt. Sie versuchen herauszufinden, wie Menschen mit dem System umgehen. Damit die Erkenntnisse richtig eingeschätzt werden, arbeiten im Team auch Psychologinnen.
+
+Simulatoren als Zeitmaschinen
+
+Fahrzeugentwicklung verlaufe nicht linear, sondern in vielen Bereichen parallel. Es gebe keinen Hersteller, der auf Simulationen verzichte. Diese frühe Entwicklung spare in der Gesamtentwicklung Zeit und damit Geld.
+
+„Simulatoren sind wie eine Zeitmaschine. Wir können so tun, als würden getestete Systeme bereits existieren, springen damit einen Schritt in Richtung Zukunft – obwohl es das Gesamtfahrzeug noch nicht gibt“, erklärt Henne. Das sei der große Unterschied zu Flugsimulatoren – ein bestehendes System, das eine Realität nachbildet, um Piloten zu trainieren.
+
+Dynamische Fahrmaschine: Simulatoren wie dieser können auch hochdynamische Bewegungen spürbar machen Quelle: dpa-tmn
+
+Bei autonomen Fahrzeugen werde beispielsweise untersucht, wie Personen auf Überhol- oder Bremsmanöver reagieren. Bremst das Auto zu hart, ist der Abstand zum Vordermann zu groß oder zu gering? Hat der Fahrer Angst und steuert gegen? Probanden erleben die Fahrt, wie sie im späteren realen Verkehr abläuft.
+
+Bei Mercedes bewegen sich Simulatoren seit 1985
+
+Mercedes setzt seit 1985 bewegbare Simulatoren ein, testet und bewertet so neue Technologien, bevor sie ins Auto Einzug finden. Der Hersteller arbeitet mit vier verschiedenen Simulatoren, mit denen Assistenzsysteme und Fahrverhalten simuliert werden können.
+
+Anzeige
+
+Seit über zehn Jahren setzt Mercedes einen über 23 Tonnen schweren Simulator ein, der mit 1700 PS über eine zwölf Meter lange Schiene saust. Damit ist er einer der leistungsfähigsten Simulatoren der Welt. Kostenpunkt: über 25 Millionen Euro.
+
+Lesen Sie auch Teure Ausrüstung Das 1600-Euro-Problem verhindert den Durchbruch der virtuellen Realität
+
+„Neue Assistenzsysteme testen wir unter anderem mit Probanden, um zu sehen, wie Kunden später auf die Systeme reagieren“, erklärt Jasmin von Göler, Leiterin Fahrsimulationen bei Mercedes-Benz. Untersucht werden verschiedene Sicherheits- und Komfortsysteme.
+
+Der Simulator bildet virtuell ein komplettes Fahrzeug ab, also auch Reifen, Motor, Getriebe und Lenkung. Theoretisch kann ein Fahrer in einer A-Klasse sitzen, aber wie in einer S-Klasse fahren.
+
+Wirklichkeit oder Simulation?
+
+Man investiere viel Zeit und Leidenschaft in die Weiterentwicklung der Simulatoren, damit Probanden ein immer realistischeres Fahren erleben könnten, so von Göler. „Sie sollen das Gefühl bekommen, mit dem Auto auf der Straße zu fahren, obwohl sie in einem Simulator sitzen. Dafür müssen wir alle Komponenten, aber auch Geräusche, Beschleunigung, Bremsen und das Bild weiter optimieren.“
+
+Lesen Sie auch Virtuelle Superstars Können Avatare lebendige Models ersetzen?
+
+Nur bei fahrdynamischen Versuchen sitzen ausschließlich erfahrene Entwickler hinterm Lenkrad, die die jeweiligen Komponenten in ihrem Frühstadium bewerten sollen. Von Göler sieht den Vorteil von Simulatoren darin, dass die Versuche immer sicher, kontrollierbar, objektiv und reproduzierbar sind. Verkehrssituationen, Wetterbedingungen, Straßenverhältnisse lassen sich programmieren, die Versuche miteinander vergleichen.
+
+Die hochkomplexe Fahrzeugentwicklung ohne Simulatoren sei heute nicht mehr möglich. Veränderungen wie Reifenwechsel, Getriebeabstufung oder Fahrwerkseinstellung sind in wenigen Sekunden am Computer erledigt. Das spart Zeit und Geld bei der Entwicklung. Und ist vor allem sicher. Auch bei einer provozierten Kollision.",Fabian Hoberg,1596526051,"Webwelt & Technik,Forschung für Autonomes Fahren",welt
+„Bei Bayern scheint der Frust mal wieder tief zu sitzen“,,'Oliver Müller',1596525888,"Bundesliga,Borussia Dortmund",welt
+"Wer wählt, muss auch sitzen dürfen",,Henryk M. Broder,1596525760,"Kommentare,Wahlrecht ab 16",welt
+„Quantum Dots“ zum Kampfpreis – das kann der QLED-Fernseher von TCL,"Anzeige
+
+Das klingt vielversprechend: ein Fernseher im beliebten 55-Zoll-Format mit 140 Zentimetern Bilddiagonale, scharfer UHD-Auflösung, aktuellem Android-Betriebssystem und Google Assistant, mit allen wichtigen Anschlüssen und schickem Metallrahmen – und das zu einem überaus attraktiven Preis.
+
+Der neue TCL C715 bietet sogar noch mehr: Er ist mit einem sogenannten QLED-Bildschirm ausgestattet. Das Q steht für „Quantum Dots“, für mikroskopisch kleine Partikel, die dem Bildschirm kräftigere Farben bescheren. Auch bei sehr großer Bildhelligkeit bleiben die Farben kräftig und bleichen nicht aus. „Computer Bild“ hat den Fernseher getestet.
+
+QLED-Technik sorgt für bessere Bildqualität
+
+Bislang gibt es hauptsächlich von Samsung QLED-Fernseher, allerdings mindestens eine Klasse teurer als der TCL. Ist dieser genauso gut? Nicht ganz. Im Test gefiel zwar die für die QLED-Technik typische Farbenpracht: Von den in Kinofilmen vorkommenden Farben (Farbraum DCI P3) gab er beachtliche 92 Prozent wieder.
+
+Lesen Sie auch Panasonic HZW1004 im Test Dieser OLED-Fernseher liefert das perfekte Bild für HDR-Serien
+
+Anzeige
+
+Andere günstige LCD-TVs kommen nur auf etwas über 70 Prozent, der Bildeindruck ist entsprechend blasser. Die Farbmischung stimmte ebenso, der TCL C715 gab alle Farbtöne sehr korrekt wieder.
+
+Einziges Manko: Wirklich tiefes Schwarz zeigte er nicht, das ließ in dunkler Umgebung die Bilder ein bisschen flau wirken. Außerdem störte ein recht kräftiges Bildruckeln. Für die Preisklasse war das Bild jedoch freilich in Ordnung, zumal es solche Farben sonst nur bei deutlich teureren Fernsehern gibt.
+
+HDR-Wiedergabe mit Dolby Vision
+
+Dank der UHD-Auflösung mit 3840 x 2160 Bildpunkten (oft „4K“ genannt) fallen die einzelnen Pixel so winzig aus, dass sie mit bloßem Auge nicht zu erkennen sind. Oder anders ausgedrückt: So eignet sich der große Fernseher für vergleichsweise kleine Räume – drei Meter Abstand zu den Zuschauern sind völlig in Ordnung.
+
+Anzeige
+
+Um normale TV-Programme mit niedrigerer Auflösung auf UHD hochzuskalieren, setzt TCL laut eigenen Angaben mithilfe künstlicher Intelligenz (KI) entwickelte Algorithmen ein. Die führen zu eher weichen Bildern ohne auffällige Nachschärfung – gut so. Mit seiner farbstarken QLED-Technik ist der TCL C715 bestens für HDR-Filme geeignet, wie sie Streaming-Dienste immer häufiger anbieten.
+
+Anzeige QLED-Smart-TV TCL 55 C 715 4K QLED-Fernseher jetzt online kaufen
+
+Die schlanke Fernbedienung vom TCL C715 liegt gut in der Hand, die Beschriftung könnte etwas kontraststärker sein Quelle: Computer Bild
+
+Über verschiedene HDR-Formate wie Dolby Vision und HDR10+ müssen sich TCL-Käufer nicht den Kopf zerbrechen, der C715 beherrscht sie alle. Dabei passt er Farben und Helligkeitsumfang praktisch perfekt an die Möglichkeiten seines Bildschirms an, sodass in sehr hellen Bildbereichen keine Details verloren gehen. In dieser Preisklasse ist das längst nicht selbstverständlich.
+
+Blendend hell ist der TCL allerdings mit HDR-Filmen nicht, seine Strahlkraft liegt mit einer Maximalhelligkeit von 335 Candela pro Quadratmeter eher im unteren Bereich.
+
+Die Bedienung ist nicht ganz einfach
+
+Anzeige
+
+In die Handhabung müssen sich Käufer des TCL C715 etwas hineinfuchsen: Die knappe Anleitung bietet wenig Hilfe, in den Einstellmenüs rufen Übersetzungsfehler Fragezeichen hervor.
+
+Als Betriebssystem verwendet der Hersteller die aktuelle Version 9 von Android-TV. Das beschert eine große Auswahl an Streaming-Apps inklusive Disney+, außerdem eine Sprachsteuerung zur freihändigen Bedienung.
+
+Die dafür im Fernseher eingebauten Mikrofone lassen sich mit einem mechanischen Schalter auf der TV-Rückseite abschalten. Das Arbeitstempo ist hoch, der Fernseher reagiert flink auf Eingaben mit der handlichen Fernbedienung. Nur beim Aufwachen aus dem Stand-by lässt er sich mit rund 35 Sekunden viel Zeit.
+
+Lesen Sie auch Samsung Q950T im Test Dieser 8000-Euro-Fernseher zeigt Bilder schärfer als jemals zuvor
+
+TCL verspricht packenden Raumklang durch Dolby Atmos. Davon war im Test wenig zu hören, die beiden Lautsprecher in der TV-Unterseite lieferten aber einen ausgewogenen und annehmbaren Klang.
+
+Wichtig beim Anschluss einer Soundbar: Ab Werk ist die Tonausgabe per HDMI (ARC) abgeschaltet. Erst mit eingeschalteter HDMI-Steuerung (im Kapitel „Eingänge“ vom Einstellmenü) gibt einer der drei HDMI-Anschlüsse den Ton aus.
+
+Darüber hinaus verfügt der TCL über einen Kopfhörerausgang, außerdem lässt sich ein Kopfhörer oder Lautsprecher per Bluetooth koppeln. Über zwei USB-Eingänge sind Fotos und Videos abspielbar. Das DivX-Format sowie AVCHD-Videos (etwa von Camcordern) beherrscht der C715 jedoch nicht.
+
+Fazit: Wenn Sie mit der Bedienung zurechtkommen und sich nicht am Bildruckeln stören, bekommen Sie mit dem TCL C715 einen gut ausgestatteten Fernseher mit toller Farbwiedergabe und ordentlichem Ton. Dank Android-Betriebssystem lassen sich die wichtigsten Streaming-Apps installieren.
+
+TCL bietet den C715 außer in der getesteten 55-Zoll-Version mit 140 Zentimetern Bilddiagonale als 50 C 715 mit 127 Zentimetern (ab 615 Euro) und als 65 C 715 mit 164 Zentimetern an.",Christoph de Leuw,1596524543,"Webwelt & Technik,Hochauflösender Fernseher",welt
+Was Stürmer Hwang Hee-chan überzeugt hat,,,1596524424,"Sport,RB Leipzig",welt
+David Wagner will Neustart einläuten,,,1596524124,"Sport,FC Schalke 04",welt
+"Aufsteiger legt los: ""Es zählt nur der Klassenerhalt""",,,1596523868,"Sport,VfB Stuttgart",welt
+Russell Westbrook will Einheit stärken,,,1596523627,"Sport,NBA",welt
+Warum Hitlers Superjäger in der Luftschlacht um England versagte,"In der zweiten Jahreshälfte 1939 wurden die ersten Maschinen vom Typ „Messerschmitt Bf-110 C“ an die Luftwaffe ausgeliefert. Die Leistungswerte des zweimotorigen schweren Jägers konnten sich sehen lassen.
+
+Anzeige
+
+Die Generalprobe gelang, die Premiere allerdings ging fürchterlich schief. Ausgerechnet der neue Superjäger der deutschen Luftwaffe, der sich in seinen ersten Einsätzen scheinbar glänzend bewährt hatte, versagte vollkommen, als es 1940 in der Luftschlacht um England wirklich ernst wurde.
+
+Erst in der zweiten Jahreshälfte 1939 waren die ersten Messerschmitt Bf-110 C an die Einsatzgeschwader ausgeliefert worden; von den vorherigen Serien A und B waren mangels passender Aggregate nur 92 deutlich untermotorisierte Exemplare gebaut worden. Mit den neuen Daimler-Benz-Zwölfzylindern DB-601A allerdings erreichte die Variante C für ihre Zeit beeindruckende Leistungswerte: Mit bis zu 530 Stundenkilometern im Horizontalflug und einer Steiggeschwindigkeit von elf Metern pro Sekunde war der zweimotorige schwere Jäger fast genauso schnell wie die mit dem gleichen Motor ausgestatteten leichten Bf-109.
+
+Die zweisitzige Bf-110 war ein schwerer Jäger, der zwar schnell aber wenig wendig war Quelle: picture alliance / Mary Evans Pi
+
+Die ersten Einsätze bestätigten die Hoffnungen, die der faktische Luftwaffen-Chef Erhard Milch und sein für die Luftrüstung verantwortlicher Stabschef Hans Jeschonnek in die Bf-110 setzten: Am Nachmittag des 18. Dezember 1939 trafen 32 Bf-109 und 18 Bf-110 über der Deutschen Bucht auf 22 britische Bomber Vickers Wellington. Die Bf-110 schossen neun gegnerische Maschinen ab, ohne einen eigenen Verlust zu erleiden; die einmotorigen Bf-109 nur drei weitere Vickers bei vier eigenen Verlusten.
+
+Anzeige
+
+Der positive Eindruck hielt auch während der Luftkämpfe über Frankreich im Mai und Anfang Juni 1940 an: Die meisten französischen Jagdmaschinen waren der Bf-110 an Leistung deutlich unterlegen, auch wenn sie wendiger waren und damit im Prinzip für einen Luftkampf besser geeignet. Daher entwickelten die Piloten der zweisitzigen Messerschmitt eine spezielle Taktik: Sie versuchten, den Gegner von hinten und leicht erhöht zu attackieren, um ihre starke nach vorne gerichtete Bewaffnung auszunutzen – immerhin zwei 20-Millimeter-Maschinenkanonen und vier MGs. Wenn der Anflug nicht zum erstrebten Ziel, einem Abschuss, führte, gab der Pilot Vollgas und flog dem im Kurvenkampf überlegenen kleineren Gegner mit der deutlich höheren Motorleistung einfach auf und davon.
+
+Mit zwei Maschinenkanonen und vier MGs im Bug verfügte die Bf-110 über eine enorme Feuerkraft Quelle: picture alliance / arkivi
+
+Im Juli und August 1940 wurde die Bf-110 zum ersten Mal in ihrer eigentlichen Hauptaufgabe eingesetzt: als schwerer Langstreckenjäger. Sie sollte die deutschen Bomberbände, vor allem bestehend aus den Mustern Dornier Do-17 und Heinkel He-111, beim Anflug auf England vor britischen Jagdverbänden schützen.
+
+Doch schon die ersten Treffen über dem Ärmelkanal zeigten rasch: Die Bf-110 hatten keine Chance gegen die britischen Einsitzer – weder gegen die 1937 in Dienst gestellte Hurricane noch gegen die erst seit 1939 in nennenswerter Anzahl verfügbare Spitfire. Zwar war eine Bf-110 C im Horizontalflug geringfügig schneller als eine Hurricane, doch das genügte nicht. Gegen die Spitfire hatte der große Zweisitzer in keiner Hinsicht eine Chance.
+
+Abschuss einer Bf-110, aufgenommen von der Zielkamera eines britischen Jägers 1940 Quelle: picture alliance / Mary Evans Pi
+
+Anzeige
+
+So kippte schon vor der Eskalation der Luftschlacht um England am „Adlertag“, dem 13. August 1940, die von der Luftwaffenführung vorgesehene Aufgabenteilung zwischen Bf-109 und Bf-110: Die einmotorigen Einsitzer mussten statt der ihnen eigentlich zugedachten freien Jagd auf die Gegner von der RAF den Begleitschutz für die langsamen Bomberverbände übernehmen. Eine Nebenwirkung war, dass die für Präzisionsangriffe auf Bodenziele eingeteilten Sturzkampfbomber vom Typ Junkers Ju-87 nicht mehr hinreichend gedeckt waren – sie erlitten derartig hohe Verluste, dass sie bald aus den Operationsplanungen herausgenommen wurden.
+
+Insgesamt verlor die Luftwaffe zwischen dem 1. Juli und dem 31. Oktober 1940 etwa 250 Bf-110 – und damit zehn Prozent mehr, als am Anfang der Kämpfe einsatzbereit gewesen waren. Zum Vergleich: Nach derselben Statistik (wie alle konkreten Verlustangaben von mannigfaltigen Unsicherheiten belastet) gingen im selben Zeitraum von anfänglich 805 Bf-109 „nur“ rund 600 verloren.
+
+Eine Bf-110 über den Bergen von Sizilien 1943 Quelle: picture-alliance / Mary Evans Pi
+
+Da sich die Bf-110 in ihrer eigentlichen Premiere nicht bewährt hatte, widmete die Luftwaffe ihre mit dem Typ ausgestatteten Verbände bald um: An der Ostfront waren die Zweimotorer vor allem als Jagdbomber im Einsatz; ihre taktische Aufgabe wurde als „Zerstörer“ beschrieben. Die eigentliche Berufung fand das Muster Bf-110 aber erst ab 1942: Sie wurde neben der deutlich moderner konstruierten Junkers Ju-88 der wichtigste Nachtjäger der Luftwaffe.
+
+Anzeige
+
+Stärkere Motoren und inzwischen oft sogar vier Maschinenkanonen im Bug machten sie schneller und schlagkräftiger als 1940. Hinzu kam, dass ihre Wendigkeit zwar der Hurricane und Spitfire deutlich unter-, den viermotorigen britischen Bombern der Typen Stirling, Halifax und Lancaster aber stark überlegen war. Selbst mit den ausladenden Antennen der deutschen Radargeräte im Bug übertrafen die Flugleistungen der Messerschmitt die der schwerfälligen Maschinen des Bomber Command deutlich. Der erfolgreichste Nachtjäger-Pilot des Zweiten Weltkrieges, Heinz-Wolfgang Schnaufer, erzielte seine 121 Abschüsse auf 164 Feindflügen nahezu ausschließlich in Maschinen des Musters Bf-110.
+
+Mit dem Radargerät Lichtenstein wurde aus der Messerschmitt Bf-110 ein gefährlicher Nachtjäger Quelle: picture alliance / Mary Evans Pi
+
+Insgesamt zeigt die Einsatzhistorie der zweimotorigen Messerschmitt das wiederkehrende Dilemma der deutschen Luftrüstung: Technisch an sich oft gut konstruierte Muster wurden in ungeeignete Taktiken gepresst. Als Tagjäger waren zweimotorige Maschinen im Zweiten Weltkrieg einfach zu groß und zu wenig wendig. Nicht umsonst hatten die Begleitjäger der US-Bomberverbände, die P-47 und P-51 Mustang, jeweils nur einen Motor; die zuvor eingesetzte zweimotorige P-38 Lightning hatte ebenfalls inakzeptable Verluste hinnehmen müssen.
+
+Im Verlauf des Krieges allerdings steigerten Weiterentwicklungen und Improvisationen die Einsatztauglichkeit deutscher Maschinen deutlich. Trotzdem blieb es ein schweres Versäumnis der Luftwaffen-Rüstung, nicht auf die Differenzierung von zweimotorigen Schnell- und viermotorigen strategischen Bombern gesetzt zu haben. Die Briten führten das mit den Mustern Mosquito und Lancaster ebenso erfolgreich vor wie die Amerikaner mit der B-26 und der B-17.
+
+Sie finden „Weltgeschichte“ auch auf Facebook. Wir freuen uns über ein Like.",Johann Althaus,1596523024,"Zweiter Weltkrieg,Messerschmitt Bf-110",welt
+Fast jeder Vierte in Bergamo war mit dem Coronavirus infiziert,"Der britische Gesundheitsminister Matt Hancock hat für London die zweithöchste Corona-Warnstufe ausgerufen. Das RKI meldet mit 6638 so viele Neuinfektionen an einem Tag wie noch nie seit Ausbruch der Coronavirus-Pandemie in Deutschland. Ein Überblick in Grafiken und Zahlen.
+
+Anzeige
+
+Die Zahl der binnen eines Tages mit dem Coronavirus neu infizierten Menschen in Deutschland ist erneut sprunghaft gestiegen und hat damit einen Rekordwert erreicht. Die Gesundheitsämter meldeten nach Angaben des Robert-Koch-Instituts vom Donnerstagmorgen 6638 Neuinfektionen – rund 1500 mehr als am Mittwoch. Da waren noch 5132 neue Fälle gemeldet worden. Bislang waren Ende März mit knapp 6300 Neuinfizierten die meisten registriert worden. Allerdings sind die jetzigen Werte nicht mit denen aus dem Frühjahr vergleichbar, weil mittlerweile wesentlich mehr getestet wird – und deshalb auch mehr Infektionen entdeckt werden.
+
+Am Mittwoch vergangener Woche hatten die Gesundheitsämter dem RKI 4059 Neuinfektionen mitgeteilt. Damit war zum ersten Mal seit April die 4000er-Marke überschritten worden.
+
+Bei den intensivmedizinisch behandelten Covid-19-Patienten zeichnet sich ein deutlicher Anstieg ab. Laut RKI-Lagebericht wurden am Donnerstag 655 Corona-Infizierte intensivmedizinisch behandelt, 329 davon wurden beatmet. Eine Woche zuvor (8.10.) hatte der Wert noch bei 487 (239 beatmet) gelegen, in der Woche davor (1.10.) bei 362 (193 beatmet). Rund 8700 Intensivbetten sind in Deutschland derzeit jedoch noch frei.
+
+Anzeige
+
+Die Zahl der Corona-Tests schwankt seit Mitte August zwischen rund 1,1 Millionen und 1,2 Millionen pro Woche. Die Rate der positiven Tests ist nach RKI-Angaben vom Mittwochabend jedoch deutlich gestiegen: von 0,74 Prozent Ende August auf 2,48 Prozent in der Woche vom 5. bis 11. Oktober.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+In mehreren Labors gebe es einen Rückstau, einige gaben laut RKI Lieferschwierigkeiten für Reagenzien an. „Das RKI erreichen in den letzten Wochen zunehmend Berichte von Laboren, die sich stark an den Grenzen ihrer Auslastung befinden“, schreibt das Institut im Lagebericht vom Mittwoch. Der zusätzliche Testbedarf durch Urlauber nach Einführung des Beherbergungsverbots mit der Option zu einer „Freitestung“ habe die Situation weiter verschärft.
+
+Seit Beginn der Corona-Krise haben sich nach RKI-Angaben mindestens 341.223 Menschen in Deutschland nachweislich mit dem Virus Sars-CoV-2 infiziert (Datenstand 15.10., 0 Uhr). Die Zahl der Todesfälle im Zusammenhang mit einer Corona-Infektion lag demnach bei 9710. Das waren 33 mehr als am Vortag. Nach Schätzungen des RKI gibt es etwa 284.600 Genesene.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Anzeige
+
+Die Reproduktionszahl, kurz R-Wert, lag nach RKI-Schätzungen in Deutschland laut Lagebericht vom Donnerstag bei 1,08 (Vortag: 1,04). Das bedeutet, dass ein Infizierter im Mittel etwa einen weiteren Menschen ansteckt. Der R-Wert bildet jeweils das Infektionsgeschehen etwa eineinhalb Wochen zuvor ab.
+
+Zudem gibt das RKI in seinem aktuellen Lagebericht ein sogenanntes Sieben-Tage-R an. Der Wert bezieht sich auf einen längeren Zeitraum und unterliegt daher weniger tagesaktuellen Schwankungen. Nach RKI-Schätzungen lag dieser Wert bei 1,22 (Vortag: 1,16). Er zeigt das Infektionsgeschehen von vor 8 bis 16 Tagen.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Weltweit gibt es laut der Johns-Hopkins-Universität mindestens 38.510.263 mit Covid-19 infizierte Personen (Stand 15.10., 8 Uhr). Davon sind 1.092.144 Menschen am Virus gestorben.
+
+Mehr als 900.000 Infektionen in Spanien
+
+Anzeige
+
+Spanien hat als erstes Land der Europäischen Union die Marke von 900.000 Coronavirus-Infektionen überschritten. Seit Beginn der Pandemie seien mehr als 908.000 Infektionen registriert worden, teilte das spanische Gesundheitsministerium mit. Spanien hat knapp 45 Millionen Einwohner. Offiziellen Angaben zufolge wurden mehr als 33.000 Todesfälle in Zusammenhang mit dem Virus registriert. Gesundheitsexperten glauben, dass die tatsächliche Zahl deutlich höher liegt, jedoch nicht ausreichend getestet wird.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+In Großbritannien mit 66,6 Millionen Einwohnern haben sich innerhalb von 24 Stunden nachweislich knapp 20.000 Menschen mit dem Coronavirus angesteckt. Das entspricht einem Anstieg von etwa 2500 im Vergleich zum Vortag. 137 Menschen sind an einer Covid-19-Erkrankung gestorben, wie die Gesundheitsbehörden am Mittwoch mitteilten. Besonders stark betroffen von der Pandemie sind der Norden Englands, Nordirland, Schottland und Teile von Wales. Die tatsächliche Zahl der Neuinfektionen dürfte aber noch höher liegen, da nicht genügend Tests zur Verfügung stehen. Der britische Gesundheitsminister Matt Hancock rief für London die zweithöchste Corona-Warnstufe aus. Er begründete dies am Donnerstag im Unterhaus mit rasch steigenden Infektionsraten in der Hauptstadt. Schnelles Handeln sei erforderlich, um das Virus unter Kontrolle zu bekommen, sagte er.
+
+Angesichts rapide steigender Infektionszahlen dürfen sich Angehörige verschiedener Haushalte demnach in Innenräumen nicht mehr treffen, wie der Londoner Bürgermeister Sadiq Khan am Donnerstag bekannt gab. Auch Treffen in Pubs oder Restaurants sind nicht erlaubt, während sie in Grünanlagen gestattet bleiben. Schulen und der Einzelhandel bleiben geöffnet.
+
+Millionen Bewohner Nordenglands warten darauf, zu erfahren, ob sie unter die strengsten Corona-Regeln fallen. Für Liverpool wurden diese bereits angeordnet. Seit dieser Woche gibt es in Großbritannien ein dreistufiges Corona-Warnsystem.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Die Zahl der registrierten Neuinfektionen binnen 24 Stunden stieg am Mittwoch in Portugal mit 10,3 Millionen Einwohnern auf 2072 – das war der höchste Wert seit Beginn der Pandemie. Die Gesamtzahl der Fälle kletterte den amtlichen Angaben zufolge auf mehr als 91.000. Die Zahl der Menschen, die an Covid-19 starben, stieg um sieben auf 2117. Besonders betroffen sind der Norden und der Großraum Lissabon. Sorge bereitet vor allem die Tatsache, dass die Zahl der in Krankenhäusern behandelten Covid-19-Patienten in etwas mehr als einem Monat von gut 300 auf nun fast 1000 in die Höhe schoss.
+
+Frankreichs Corona-Karte färbt sich immer tiefer rot
+
+In Frankreich mit seinen knapp 67 Millionen Einwohnern haben die Gesundheitsbehörden 22.591 Neuinfektionen binnen 24 Stunden registriert. Es ist das dritte Mal in sechs Tagen, dass das Gesundheitsministerium einen Wert über 20.000 mitteilt. Insgesamt seien 779.063 Infektionsfälle verzeichnet worden. Die Zahl der Todesfälle in Kranken- und Pflegeheimen sei um 104 auf 33.037 gestiegen. Damit ist Frankreich weltweit das neunte Land weltweit, das mehr als 33.000 Todesfälle in Zusammenhang mit dem Coronavirus zu beklagen hat.
+
+Zwar sank die Zahl der Neuinfektionen seit vergangenem Wochenende, wo zuletzt ein Rekordhoch von knapp 27.000 am Samstag verzeichnet wurde. Dennoch steigen die Infektionszahlen gegenüber der vergangenen Woche massiv. Die Karte des französischen Gesundheitsministeriums, auf der die Corona-Hotspots in Scharlachrot (auf Französisch „rouge écarlate“) markiert werden, färbt sich deshalb immer tiefer rot.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Anzeige
+
+Dazu gehören mit der Hauptstadt Paris inzwischen neun Ballungsräume und ein Überseegebiet. Der Großraum Marseille, zu dem auch Aix-en-Provence zählt, ist ebenso betroffen wie die Großstädte Lyon, Grenoble, Saint-Etienne, Lille, Toulouse und Montpellier. Dazu gehört auch die Inselgruppe Guadeloupe in der Karibik.
+
+In Bulgarien mit seinen sieben Millionen Einwohnern liegt die Zahl der neuen Positiv-Tests das vierte Mal binnen einer Woche auf Rekordniveau. Die Zahl der Fälle steigt nach offiziellen Daten um 785 auf insgesamt 25.774. Bislang starben 923 Menschen, die positiv auf das Coronavirus getestet wurden. Aktuell befinden sich 1307 Menschen in Krankenhäusern, 63 davon auf Intensivstationen.
+
+In Tschechien meldet das Gesundheitsministerium 8325 neue Positiv-Tests. Das ist der bislang zweithöchste Wert in dem Land mit 10,7 Millionen Einwohnern, die meisten neuen Fälle gab es am vergangenen Freitag. Die Gesamtzahl der Fälle in Tschechien liegt inzwischen bei 129.747. Bislang starben 1106 Menschen, die positiv getestet wurden. Zu Monatsbeginn waren es noch 696 Todesfälle.
+
+Rekorde in Polen und Kroatien
+
+In Polen überschritt die Zahl der täglichen Neuinfektionen mit dem Coronavirus erstmals die Marke von 6000. Innerhalb von 24 Stunden kamen 6526 neue Fälle hinzu, die meisten davon in der Region um die Hauptstadt Warschau (1188). Das teilte das polnische Gesundheitsministerium am Mittwoch mit. Im gleichen Zeitraum starben 116 Menschen in Zusammenhang mit dem Virus. Seit Beginn der Pandemie gab es in Polen 3217 Todesfälle in Verbindung mit einer Covid-19-Erkrankung. Das Land hat rund 38 Millionen Einwohner. Polen ist das einzige Nachbarland Deutschlands, das bisher vom Auswärtigen Amt in Berlin noch nicht ganz oder teilweise als Risikogebiet eingestuft wurde.
+
+Im EU-Land Kroatien verzeichneten die Behörden am Mittwoch einen Rekordwert an neuen Infektionen mit dem Coronavirus. In den vergangenen 24 Stunden sei bei 748 Menschen Sars-CoV-2 nachgewiesen worden, teilte der Krisenstab der kroatischen Regierung mit. Die bisher höchste Zahl von 542 Neuinfizierten hatte der Krisenstab am 8. Oktober registriert. Vier Menschen starben demnach in den letzte 24 Stunden in Verbindung mit einer Covid-19-Erkrankung. Seit Beginn der Pandemie im Februar haben sich in dem 4,2-Millionen-Einwohner-Land nachweislich 21.741 Menschen mit dem Coronavirus angesteckt. 334 Patienten starben mit dem Virus. Am Mittwoch wurden 441 Patienten im Krankenhaus behandelt, 27 von ihnen wurden künstlich beatmet.
+
+Russland mit seinen 144,5 Millionen Einwohnern meldet einen Rekord an Neuinfektionen. Binnen der letzten 24 Stunden gibt es 14.231 weitere Coronavirus-Fälle. Die Gesamtzahl der Infektionen steigt damit auf 1,34 Millionen. Weitere 239 Menschen starben, wodurch sich die Zahl der Todesfälle auf 23.205 erhöht.
+
+In Brasilien mit seinen 209,5 Millionen Einwohnern sterben nach Angaben des Gesundheitsministeriums 749 Menschen nach einer Infektion mit dem Coronavirus. In den vergangenen 24 Stunden sei die Zahl der positiv Getesteten um 27.235 auf 5.140.863 gestiegen. Insgesamt sind 151.747 Menschen an den Folgen der Ansteckung gestorben.
+
+In Südkorea sind 110 neue Infektionen mit dem Coronavirus registriert worden. Die Hälfte der Fälle stehe in Verbindung mit einem Krankenhaus in der Stadt Busan, teilte die südkoreanische Behörde für Krankheitskontrolle und -prävention am Donnerstag mit. In dem Land mit gut 51 Millionen Einwohner liegt die offizielle Zahl der Fälle damit bei fast 25.000.
+
+Anzeige
+
+Mindestens 54 der Neuinfektionen stünden mit dem Krankenhaus für Ältere in Verbindung. Mehr als 40 seien in der dicht bevölkerten Metropolregion Seoul verzeichnet worden, mit Verbindungen zu Krankenhäusern, Kirchen, Schule und Büros.
+
+Alle aktuellen und weltweiten Entwicklungen zum Coronavirus können Sie in unserem Live-Ticker verfolgen.
+
+Haben Sie Fragen zum Coronavirus? Hier finden Sie die wichtigsten Fakten und Informationen.",'Sarah Maria Brech',1596522600,"Panorama,Daten, Karten, Grafiken",welt
+AfD-Bundesschiedsgericht bestätigt Ausschluss von Rechtsaußen-Politiker Kalbitz,"Anzeige
+
+Die erbitterten Lagerkämpfe in der AfD sind damit nicht zu Ende. Aber eine wichtige Schlacht hat die rechtsextreme Parteiströmung verloren, während Parteichef Jörg Meuthen und die um ihn gescharten nicht extremistischen Kräfte einen Sieg verbuchen können: Andreas Kalbitz, Führungs- und Symbolfigur der Völkischen im neuerdings offiziell aufgelösten „Flügel“, gehört der AfD bis auf Weiteres nicht an.
+
+Das Bundesschiedsgericht der AfD wies am Samstag Kalbitz’ Klage gegen die Annullierung seiner Parteizugehörigkeit zurück. Diese Annullierung hatte der Bundesvorstand Mitte Mai mit der knappen Mehrheit einer Gruppe um Meuthen beschlossen. Denn Kalbitz, selbst Mitglied im Bundesvorstand sowie Landes- und Fraktionschef der Brandenburger AfD, habe 2013 bei seinem Eintritt in die Partei eine frühere Mitgliedschaft in der neonazistischen und 2009 verbotenen Heimattreuen Deutschen Jugend (HDJ) verschwiegen. Damit habe Kalbitz, so die Vorstandsmehrheit, gegen zentrale Aufnahmeregularien der AfD verstoßen, sodass seine Mitgliedschaft nichtig sei. Dies wurde nun vom obersten Parteigericht der AfD am Samstag nach einer Anhörung mit Kalbitz und Meuthen bestätigt.
+
+Meuthen gestärkt
+
+Gestärkt wird damit Meuthen, dessen Vorgehen gegen Kalbitz für wütende Proteste völkischer Kräfte gesorgt hatte. Von „Verrat an der Partei“ sprach der Thüringer Landeschef Björn Höcke im Zusammenhang mit Meuthens Agieren beim Kalbitz-Rauswurf. Nun kann sich Meuthen bestätigt sehen. Eine Niederlage ist die Entscheidung des Bundesschiedsgerichts hingegen für den anderen Bundesvorsitzenden Tino Chrupalla sowie die beiden Bundestagsfraktionschefs Alexander Gauland und Alice Weidel. Sie alle hatten den Annullierungsbeschluss des Bundesvorstands abgelehnt.
+
+Lesen Sie auch Showdown in der AfD Die gelähmte Partei
+
+Anzeige
+
+Doch der Rechtsstreit – und damit die innerparteiliche Auseinandersetzung – ist mit dieser Entscheidung keineswegs abgeschlossen. Denn Kalbitz hat schon nach der Anhörung und noch vor Bekanntwerden des Urteils angekündigt, es werde „zivilgerichtlich weitergehen“, und er werde „natürlich alle Möglichkeiten des Rechtsstaats nutzen“, wie er am Samstag nach dem Verlassen des Tagungsraums in einem Stuttgarter Industriegebiet sagte. Er wird also gegen das Urteil der Parteirichter vor einem staatlichen Gericht vorgehen. Damit hatte er in dieser Angelegenheit schon einmal Erfolg. Denn gegen den Annullierungsbeschluss des Bundesvorstands beantragte er beim Berliner Landgericht eine einstweilige Verfügung. Diesem Antrag gab das staatliche Gericht am 19. Juni statt und ließ dabei auch inhaltliche Zweifel an den Begründungen des Bundesvorstands durchscheinen. Unter anderem sei nicht klar geworden, ob denn die AfD seinerzeit Kalbitz definitiv nicht aufgenommen hätte, wenn er eine HDJ-Mitgliedschaft angegeben hätte.
+
+Damit steht die Frage im Raum, ob das bloße Nicht-Nennen der HDJ-Zugehörigkeit gewissermaßen automatisch zur Annullierung der Parteimitgliedschaft führen kann. In den Vordergrund aber stellte das Landgericht beim Erlass der einstweiligen Verfügung, dass über eine solche Aberkennung der Mitgliedschaft nicht ein Parteivorstand, sondern nur ein Schiedsgericht der Partei beschließen dürfe. Somit habe Kalbitz bis zum Ende des Hauptsacheverfahrens vor dem Schiedsgericht AfD-Mitglied zu bleiben. Jetzt aber hat das Schiedsgericht im Hauptsacheverfahren entschieden – gegen Kalbitz.
+
+Berliner Landgericht verhandelt über ähnlichen Fall
+
+Wie sich hierzu dann wiederum das Landgericht verhalten wird, ist offen. Schon am Montag indes könnten sich Anhaltspunkte dafür ergeben. Just das Berliner Landgericht verhandelt dann über einen ähnlich gelagerten Vorgang in der AfD Mecklenburg-Vorpommern. Dort war die Parteimitgliedschaft des früheren Co-Landeschefs Dennis Augustin im Juli 2019 vom Landesvorstand annulliert worden, weil Augustin bei seinem AfD-Eintritt 2016 eine frühere Mitgliedschaft bei der Jugendorganisation der NPD verschwiegen habe. Die Annullierung wurde inzwischen vom Landes- und vom Bundesschiedsgericht der AfD bestätigt.
+
+Lesen Sie auch Meuthen vs. Kalbitz Die AfD auf dem Weg in einen unauflösbaren Konflikt
+
+Anzeige
+
+Hiergegen hat Augustin nun beim Landgericht einen Eilantrag gestellt, damit er bis zum Abschluss des Hauptsacheverfahrens vor dem staatlichen Gericht seine AfD-Mitgliedschaft behält. Sollte Augustins Eilantrag abgelehnt werden, ließe sich daraus für Kalbitz schließen: Wenn Parteigerichte einmal über eine Mitgliedschaftsannullierung entschieden haben, ist vor einem ordentlichen Gericht dagegen wenig zu machen. Wenn aber der Eilantrag von Augustin Erfolg haben sollte, wäre das ein Indiz, dass das Landgericht auch eine bereits ergangene Entscheidung von Parteirichtern bei einer Mitgliedschaftsannullierung für nicht unbedingt maßgeblich hält.
+
+CSU-Generalsekretär Markus Blume ist überzeugt, dass die AfD demnächst wieder aus den Parlamenten fliegt. „Die Tage der AfD in den Parlamenten sind gezählt“, sagte Blume im Interview von WELT AM SONNTAG. Daran ändert sich aus Sicht Blumes auch nichts durch die Tatsache, dass Kalbitz nun zunächst nicht mehr der AfD angehört. „Dass Andreas Kalbitz jetzt ausgeschlossen bleibt, sagt nichts und ändert nichts. Es spricht vielmehr Bände, wie viele frenetische Unterstützer ein Rechtsextremer mitten in der AfD nach wie vor hat.“",Matthias Kamann,1595690557,"Deutschland,Parteizugehörigkeit",welt
+Ultraleichtflugzeug auf Wohnhaus in Wesel gestürzt – Drei Tote,"In Wesel in Nordrhein-Westfalen ist ein Kleinflugzeug auf das Hausdach eines Mehrfamilienhauses gestürzt. Mehrere Menschen starben, Rettungskräfte sind mit einem Großaufgebot vor Ort.
+
+Feuerwehrleute auf dem Dach den Wohnhauses, in das das Flugzeug gestürzt ist
+
+Anzeige
+
+Beim Absturz eines Kleinflugzeugs auf ein Wohnhaus im niederrheinischen Wesel sind am Samstag drei Menschen gestorben. Die Dachgeschosswohnung des Hauses geriet in Brand und wurde laut Feuerwehr völlig zerstört. In der Wohnung habe eine Frau mit ihrem zweijährigen Kind gewohnt, sagte der stellvertretende Leiter der Feuerwehr Wesel, Robert Meyboom. Das Kind habe leicht verletzt gerettet werden können.
+
+Die Polizei vermutet, dass die Mutter unter den Toten ist. Bei den beiden anderen Opfern handele es sich vermutlich um die beiden Insassen des Ultraleichtflugzeugs, sagte Meyboom. Weitere Bewohner des Hauses seien nach ersten Erkenntnissen nicht verletzt worden, stünden aber „unter dem Eindruck der Ereignisse“, hieß es in einer Mitteilung.
+
+Der Vorsitzende des Vereins Luftsportfreunde Wesel-Rheinhausen in Nordrhein-Westfalen, Achim Strobel, geht davon aus, dass das Flugzeug kurz zuvor am Flughafen Wesel gestartet war. An Bord seien zwei Männer gewesen, sagte er der Deutschen Presse-Agentur dpa. Bei dem Flugzeug handele es sich um das Modell TL 96, das als sogenanntes Luftsportgerät gelte.
+
+Absturzursache noch unbekannt
+
+Anzeige
+
+In der Nähe der Absturzstelle fanden die Rettungskräfte einen Fallschirm. Die Polizei vermutet, dass es sich um den Notfall-Bremsfallschirm des Flugzeugs handelt.
+
+Warum das Flugzeug abstürzte, war noch unbekannt. Laut Polizei gab es Hinweise, dass es zuvor auseinandergebrochen war. In der Umgebung wurden mehrere Flugzeugteile gefunden.
+
+Der Absturz sorgte für einen Großeinsatz der Rettungskräfte. Daran beteiligt waren mehrere Hubschrauber und eine Rettungshundestaffel. Auch Notfallseelsorger waren vor Ort.",'Kristian Frigelj',1595707860,"Panorama,Nordrhein-Westfalen",welt
+Die Chance ihres Lebens auf der Insel der Kämpfer,"An diesem Samstag vertreten Peter Sobotta und Niklas Stolze Deutschland in der UFC. Um sich vor Corona zu schützen, sind sie zum Kämpfen in die Wüste geflüchtet – und haben so die Blicke der Sportwelt auf sich gezogen.",Florian Sädler,1595687771,"Sport,UFC „Fight Island“",welt
+Homosexuelle Soldaten sollen für erlittenes Unrecht entschädigt werden,,"'Alexej Hock', 'Torsten Krauel', 'Denis Fengler'",1595686449,"Deutschland,Bundeswehr",welt
+"WHO meldet weltweiten Rekordanstieg neuer Fälle, R-Wert in Deutschland wieder über 1","Der britische Gesundheitsminister Matt Hancock hat für London die zweithöchste Corona-Warnstufe ausgerufen. Das RKI meldet mit 6638 so viele Neuinfektionen an einem Tag wie noch nie seit Ausbruch der Coronavirus-Pandemie in Deutschland. Ein Überblick in Grafiken und Zahlen.
+
+Anzeige
+
+Die Zahl der binnen eines Tages mit dem Coronavirus neu infizierten Menschen in Deutschland ist erneut sprunghaft gestiegen und hat damit einen Rekordwert erreicht. Die Gesundheitsämter meldeten nach Angaben des Robert-Koch-Instituts vom Donnerstagmorgen 6638 Neuinfektionen – rund 1500 mehr als am Mittwoch. Da waren noch 5132 neue Fälle gemeldet worden. Bislang waren Ende März mit knapp 6300 Neuinfizierten die meisten registriert worden. Allerdings sind die jetzigen Werte nicht mit denen aus dem Frühjahr vergleichbar, weil mittlerweile wesentlich mehr getestet wird – und deshalb auch mehr Infektionen entdeckt werden.
+
+Am Mittwoch vergangener Woche hatten die Gesundheitsämter dem RKI 4059 Neuinfektionen mitgeteilt. Damit war zum ersten Mal seit April die 4000er-Marke überschritten worden.
+
+Bei den intensivmedizinisch behandelten Covid-19-Patienten zeichnet sich ein deutlicher Anstieg ab. Laut RKI-Lagebericht wurden am Donnerstag 655 Corona-Infizierte intensivmedizinisch behandelt, 329 davon wurden beatmet. Eine Woche zuvor (8.10.) hatte der Wert noch bei 487 (239 beatmet) gelegen, in der Woche davor (1.10.) bei 362 (193 beatmet). Rund 8700 Intensivbetten sind in Deutschland derzeit jedoch noch frei.
+
+Anzeige
+
+Die Zahl der Corona-Tests schwankt seit Mitte August zwischen rund 1,1 Millionen und 1,2 Millionen pro Woche. Die Rate der positiven Tests ist nach RKI-Angaben vom Mittwochabend jedoch deutlich gestiegen: von 0,74 Prozent Ende August auf 2,48 Prozent in der Woche vom 5. bis 11. Oktober.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+In mehreren Labors gebe es einen Rückstau, einige gaben laut RKI Lieferschwierigkeiten für Reagenzien an. „Das RKI erreichen in den letzten Wochen zunehmend Berichte von Laboren, die sich stark an den Grenzen ihrer Auslastung befinden“, schreibt das Institut im Lagebericht vom Mittwoch. Der zusätzliche Testbedarf durch Urlauber nach Einführung des Beherbergungsverbots mit der Option zu einer „Freitestung“ habe die Situation weiter verschärft.
+
+Seit Beginn der Corona-Krise haben sich nach RKI-Angaben mindestens 341.223 Menschen in Deutschland nachweislich mit dem Virus Sars-CoV-2 infiziert (Datenstand 15.10., 0 Uhr). Die Zahl der Todesfälle im Zusammenhang mit einer Corona-Infektion lag demnach bei 9710. Das waren 33 mehr als am Vortag. Nach Schätzungen des RKI gibt es etwa 284.600 Genesene.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Anzeige
+
+Die Reproduktionszahl, kurz R-Wert, lag nach RKI-Schätzungen in Deutschland laut Lagebericht vom Donnerstag bei 1,08 (Vortag: 1,04). Das bedeutet, dass ein Infizierter im Mittel etwa einen weiteren Menschen ansteckt. Der R-Wert bildet jeweils das Infektionsgeschehen etwa eineinhalb Wochen zuvor ab.
+
+Zudem gibt das RKI in seinem aktuellen Lagebericht ein sogenanntes Sieben-Tage-R an. Der Wert bezieht sich auf einen längeren Zeitraum und unterliegt daher weniger tagesaktuellen Schwankungen. Nach RKI-Schätzungen lag dieser Wert bei 1,22 (Vortag: 1,16). Er zeigt das Infektionsgeschehen von vor 8 bis 16 Tagen.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Weltweit gibt es laut der Johns-Hopkins-Universität mindestens 38.510.263 mit Covid-19 infizierte Personen (Stand 15.10., 8 Uhr). Davon sind 1.092.144 Menschen am Virus gestorben.
+
+Mehr als 900.000 Infektionen in Spanien
+
+Anzeige
+
+Spanien hat als erstes Land der Europäischen Union die Marke von 900.000 Coronavirus-Infektionen überschritten. Seit Beginn der Pandemie seien mehr als 908.000 Infektionen registriert worden, teilte das spanische Gesundheitsministerium mit. Spanien hat knapp 45 Millionen Einwohner. Offiziellen Angaben zufolge wurden mehr als 33.000 Todesfälle in Zusammenhang mit dem Virus registriert. Gesundheitsexperten glauben, dass die tatsächliche Zahl deutlich höher liegt, jedoch nicht ausreichend getestet wird.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+In Großbritannien mit 66,6 Millionen Einwohnern haben sich innerhalb von 24 Stunden nachweislich knapp 20.000 Menschen mit dem Coronavirus angesteckt. Das entspricht einem Anstieg von etwa 2500 im Vergleich zum Vortag. 137 Menschen sind an einer Covid-19-Erkrankung gestorben, wie die Gesundheitsbehörden am Mittwoch mitteilten. Besonders stark betroffen von der Pandemie sind der Norden Englands, Nordirland, Schottland und Teile von Wales. Die tatsächliche Zahl der Neuinfektionen dürfte aber noch höher liegen, da nicht genügend Tests zur Verfügung stehen. Der britische Gesundheitsminister Matt Hancock rief für London die zweithöchste Corona-Warnstufe aus. Er begründete dies am Donnerstag im Unterhaus mit rasch steigenden Infektionsraten in der Hauptstadt. Schnelles Handeln sei erforderlich, um das Virus unter Kontrolle zu bekommen, sagte er.
+
+Angesichts rapide steigender Infektionszahlen dürfen sich Angehörige verschiedener Haushalte demnach in Innenräumen nicht mehr treffen, wie der Londoner Bürgermeister Sadiq Khan am Donnerstag bekannt gab. Auch Treffen in Pubs oder Restaurants sind nicht erlaubt, während sie in Grünanlagen gestattet bleiben. Schulen und der Einzelhandel bleiben geöffnet.
+
+Millionen Bewohner Nordenglands warten darauf, zu erfahren, ob sie unter die strengsten Corona-Regeln fallen. Für Liverpool wurden diese bereits angeordnet. Seit dieser Woche gibt es in Großbritannien ein dreistufiges Corona-Warnsystem.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Die Zahl der registrierten Neuinfektionen binnen 24 Stunden stieg am Mittwoch in Portugal mit 10,3 Millionen Einwohnern auf 2072 – das war der höchste Wert seit Beginn der Pandemie. Die Gesamtzahl der Fälle kletterte den amtlichen Angaben zufolge auf mehr als 91.000. Die Zahl der Menschen, die an Covid-19 starben, stieg um sieben auf 2117. Besonders betroffen sind der Norden und der Großraum Lissabon. Sorge bereitet vor allem die Tatsache, dass die Zahl der in Krankenhäusern behandelten Covid-19-Patienten in etwas mehr als einem Monat von gut 300 auf nun fast 1000 in die Höhe schoss.
+
+Frankreichs Corona-Karte färbt sich immer tiefer rot
+
+In Frankreich mit seinen knapp 67 Millionen Einwohnern haben die Gesundheitsbehörden 22.591 Neuinfektionen binnen 24 Stunden registriert. Es ist das dritte Mal in sechs Tagen, dass das Gesundheitsministerium einen Wert über 20.000 mitteilt. Insgesamt seien 779.063 Infektionsfälle verzeichnet worden. Die Zahl der Todesfälle in Kranken- und Pflegeheimen sei um 104 auf 33.037 gestiegen. Damit ist Frankreich weltweit das neunte Land weltweit, das mehr als 33.000 Todesfälle in Zusammenhang mit dem Coronavirus zu beklagen hat.
+
+Zwar sank die Zahl der Neuinfektionen seit vergangenem Wochenende, wo zuletzt ein Rekordhoch von knapp 27.000 am Samstag verzeichnet wurde. Dennoch steigen die Infektionszahlen gegenüber der vergangenen Woche massiv. Die Karte des französischen Gesundheitsministeriums, auf der die Corona-Hotspots in Scharlachrot (auf Französisch „rouge écarlate“) markiert werden, färbt sich deshalb immer tiefer rot.
+
+An dieser Stelle finden Sie Inhalte von Drittanbietern Um mit Inhalten von Drittanbietern zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Externe Inhalte aktivieren
+
+Anzeige
+
+Dazu gehören mit der Hauptstadt Paris inzwischen neun Ballungsräume und ein Überseegebiet. Der Großraum Marseille, zu dem auch Aix-en-Provence zählt, ist ebenso betroffen wie die Großstädte Lyon, Grenoble, Saint-Etienne, Lille, Toulouse und Montpellier. Dazu gehört auch die Inselgruppe Guadeloupe in der Karibik.
+
+In Bulgarien mit seinen sieben Millionen Einwohnern liegt die Zahl der neuen Positiv-Tests das vierte Mal binnen einer Woche auf Rekordniveau. Die Zahl der Fälle steigt nach offiziellen Daten um 785 auf insgesamt 25.774. Bislang starben 923 Menschen, die positiv auf das Coronavirus getestet wurden. Aktuell befinden sich 1307 Menschen in Krankenhäusern, 63 davon auf Intensivstationen.
+
+In Tschechien meldet das Gesundheitsministerium 8325 neue Positiv-Tests. Das ist der bislang zweithöchste Wert in dem Land mit 10,7 Millionen Einwohnern, die meisten neuen Fälle gab es am vergangenen Freitag. Die Gesamtzahl der Fälle in Tschechien liegt inzwischen bei 129.747. Bislang starben 1106 Menschen, die positiv getestet wurden. Zu Monatsbeginn waren es noch 696 Todesfälle.
+
+Rekorde in Polen und Kroatien
+
+In Polen überschritt die Zahl der täglichen Neuinfektionen mit dem Coronavirus erstmals die Marke von 6000. Innerhalb von 24 Stunden kamen 6526 neue Fälle hinzu, die meisten davon in der Region um die Hauptstadt Warschau (1188). Das teilte das polnische Gesundheitsministerium am Mittwoch mit. Im gleichen Zeitraum starben 116 Menschen in Zusammenhang mit dem Virus. Seit Beginn der Pandemie gab es in Polen 3217 Todesfälle in Verbindung mit einer Covid-19-Erkrankung. Das Land hat rund 38 Millionen Einwohner. Polen ist das einzige Nachbarland Deutschlands, das bisher vom Auswärtigen Amt in Berlin noch nicht ganz oder teilweise als Risikogebiet eingestuft wurde.
+
+Im EU-Land Kroatien verzeichneten die Behörden am Mittwoch einen Rekordwert an neuen Infektionen mit dem Coronavirus. In den vergangenen 24 Stunden sei bei 748 Menschen Sars-CoV-2 nachgewiesen worden, teilte der Krisenstab der kroatischen Regierung mit. Die bisher höchste Zahl von 542 Neuinfizierten hatte der Krisenstab am 8. Oktober registriert. Vier Menschen starben demnach in den letzte 24 Stunden in Verbindung mit einer Covid-19-Erkrankung. Seit Beginn der Pandemie im Februar haben sich in dem 4,2-Millionen-Einwohner-Land nachweislich 21.741 Menschen mit dem Coronavirus angesteckt. 334 Patienten starben mit dem Virus. Am Mittwoch wurden 441 Patienten im Krankenhaus behandelt, 27 von ihnen wurden künstlich beatmet.
+
+Russland mit seinen 144,5 Millionen Einwohnern meldet einen Rekord an Neuinfektionen. Binnen der letzten 24 Stunden gibt es 14.231 weitere Coronavirus-Fälle. Die Gesamtzahl der Infektionen steigt damit auf 1,34 Millionen. Weitere 239 Menschen starben, wodurch sich die Zahl der Todesfälle auf 23.205 erhöht.
+
+In Brasilien mit seinen 209,5 Millionen Einwohnern sterben nach Angaben des Gesundheitsministeriums 749 Menschen nach einer Infektion mit dem Coronavirus. In den vergangenen 24 Stunden sei die Zahl der positiv Getesteten um 27.235 auf 5.140.863 gestiegen. Insgesamt sind 151.747 Menschen an den Folgen der Ansteckung gestorben.
+
+In Südkorea sind 110 neue Infektionen mit dem Coronavirus registriert worden. Die Hälfte der Fälle stehe in Verbindung mit einem Krankenhaus in der Stadt Busan, teilte die südkoreanische Behörde für Krankheitskontrolle und -prävention am Donnerstag mit. In dem Land mit gut 51 Millionen Einwohner liegt die offizielle Zahl der Fälle damit bei fast 25.000.
+
+Anzeige
+
+Mindestens 54 der Neuinfektionen stünden mit dem Krankenhaus für Ältere in Verbindung. Mehr als 40 seien in der dicht bevölkerten Metropolregion Seoul verzeichnet worden, mit Verbindungen zu Krankenhäusern, Kirchen, Schule und Büros.
+
+Alle aktuellen und weltweiten Entwicklungen zum Coronavirus können Sie in unserem Live-Ticker verfolgen.
+
+Haben Sie Fragen zum Coronavirus? Hier finden Sie die wichtigsten Fakten und Informationen.","'Elke Bodderas', 'Jean Mikhail'",1595615580,"Panorama,Daten, Karten, Grafiken",welt
+23-Jähriger tot in Kinderzimmer gefunden – Haftbefehl gegen Verdächtigen,"Am Donnerstagabend fanden Eltern ihren 23-jährigen Sohn leblos in seinem Zimmer der gemeinsamen Berliner Wohnung. Schnell deuten viele Hinweise auf ein Tötungsdelikt hin. Nun wurde gegen einen jungen Mann Haftbefehl wegen Totschlags erlassen.
+
+Ein Kriminaltechniker der Polizei geht in ein Wohnhaus in Berlin-Spandau. Dort war die Leiche eines jungen Mannes gefunden worden
+
+Anzeige
+
+Nach dem Fund eines leblosen 23-Jährigen in Berlin-Spandau ist ein 20 Jahre alter Tatverdächtiger in Untersuchungshaft. Er sei bereits am Freitagnachmittag wegen des Verdachts eines Tötungsdelikts festgenommen worden, teilte die Polizei am Samstag mit. Am Samstagabend wurde ein Haftbefehl wegen Totschlags erlassen, wie die Generalstaatsanwaltschaft mitteilte.
+
+Der 23-jährige Mann war am Donnerstagabend von seinen Eltern leblos im eigenen Zimmer der gemeinsamen Wohnung im Brunsbütteler Damm gefunden worden. „Aufgrund der Verletzungen und der Auffindesituation besteht der Verdacht eines Tötungsdeliktes“, teilten Polizei und Staatsanwaltschaft am Freitag gemeinsam mit, ohne weitere Einzelheiten zu nennen. In dem Fall ermittele eine Mordkommission.
+
+Um zu klären, wie der Mann zu Tode kam, sollte die Leiche noch am Freitagmittag obduziert werden. Am Samstagmittag war laut Polizeisprecherin noch kein Ergebnis bekannt. Es war offen, ob dieses noch am Wochenende bekanntgegeben wird.",'Diana Pieper',1595692860,"Panorama,Berlin",welt
+Panne mit Corona-App – Nun steht die Regierung in der Kritik,"Anzeige
+
+Nach den technischen Problemen bei der Corona-Warn-App auf Android- wie auf iOS-Smartphones wird die Kritik an der Bundesregierung lauter. Die Deutsche Stiftung Patientenschutz forderte am Samstag Aufklärung von Gesundheitsminister Jens Spahn (CDU). Die App sei ein wichtiger Baustein, um das Coronavirus in Schach zu halten, sagte Vorstand Eugen Brysch. „Jetzt soll auf immer mehr Smartphones die Kontaktüberprüfung nur lückenhaft funktionieren. Das beunruhigt die über 15 Millionen Nutzer.“
+
+Auch der stellvertretende Vorsitzende der FDP-Bundestagsfraktion, Michael Theurer, befürchtet, dass das nötige Vertrauen in die App Schaden nehmen könnte. Er forderte eine Kommunikationskampagne, um Vertrauen zurückzugewinnen und die Menschen vom Nutzen der App zur Bekämpfung des Virus neu zu überzeugen. „Die Bundesregierung muss nach dieser Pannenserie für Transparenz sorgen und gezielt App-Nutzer, Öffentlichkeit und das Parlament umgehend und umfassend informieren“, sagte Theurer.
+
+Lesen Sie auch Erschreckende Studie „Aerosole können in kürzester Zeit alle Personen in einem Raum treffen“
+
+Zudem müsse die Regierung dafür sorgen, dass die technischen Probleme schnellstens bei allen Geräten und Betriebssystemen behoben werden. Theurer forderte außerdem, Lösungen für ältere Smartphones und zur Anwendung der App in ganz Europa zu entwickeln.
+
+„Einschränkungen der Hintergrundaktualisierung“
+
+Anzeige
+
+Das Bundesgesundheitsministerium hat inzwischen bestätigt, dass es wie bei Android-Geräten auch bei iPhones mit dem iOS-System Probleme gebe. Die Apple-Geräte wiesen „offenbar betriebssystembedingte Einschränkungen der Hintergrundaktualisierung“ auf, hieß es in einer Erklärung des Ministeriums.
+
+Die Corona-Warn-App tausche zwar stets zuverlässig anonyme Codes aus. Sie gleiche die Codes auch mit dem Server ab – allerdings nicht immer, wenn sie nur im Hintergrund laufe. „Wird die App geöffnet, führt sie den Serverabgleich in jedem Fall durch. Auch auf iOS-Geräten hat die App also diese ganze Zeit über funktioniert.“
+
+Die Entwickler arbeiten demnach mit Hochdruck an einem Weg, die systembedingten Einschränkungen zu umgehen, bis Apple das Systemproblem selbst gelöst habe. Zuvor hatte das ARD-Portal tagesschau.de berichtet, Nutzerinnen und Nutzer von iPhones seien teilweise über Wochen nicht über die App informiert worden, ob sie Kontakt zu Infizierten hatten oder nicht. Ähnliche Probleme waren auch schon von Geräten mit dem Android-System bekannt geworden.
+
+Lesen Sie auch Corona-Tracking Der Bürger wird zum „Moving Target“
+
+Anzeige
+
+Die Corona-Warn-App soll auch dann im Hintergrund weiterlaufen und Daten aktualisieren, wenn sie nicht geöffnet ist. Wenn es eine Begegnung mit einer Person gab, die später positiv auf das Coronavirus getestet wurde, soll das Handy den Besitzer eigentlich aktiv mit einer Benachrichtigung auf das erhöhte Risiko hinweisen. „Das Problem, das wir haben, ist, dass die Hintergrundaktualisierung vom Betriebssystem offenbar nicht aufgerufen wird“, sagte der Software-Architekt der App beim Konzern SAP, Thomas Klingbeil, tagesschau.de, zu den Problemen beim Betriebssystem iOS.
+
+Die Corona-Warn-App soll dabei helfen, Infektionsketten nachzuverfolgen und zu unterbrechen. Außerdem kann sie dazu beitragen, dass Menschen nach einem Coronavirus-Test möglichst schnell ihr Testergebnis digital erhalten und über die App anonym mögliche Kontaktpersonen warnen können, wenn diese auch die App installiert haben. Mittlerweile wurde die App 16,2 Millionen Mal heruntergeladen.","'Kaja Klapsa', 'Florian Gehm', 'Markus Brandstetter', 'Sven-Hendrik Hahn', 'Philipp Schulte', 'Jörn Brien'",1595682506,"Deutschland,Probleme auf Android und iOS",welt
+Twitter und Facebook sperren Konten von Bolsonaro-Unterstützern,"Der Oberste Gerichtshof in Brasilien wirft Anhängern von Präsident Bolsonaro vor, eine Desinformationskampagne gegen das Gericht gestartet zu haben. Wegen der „andauernden Verbreitung von Fake News“ wurden ihre Konten auf Twitter und Facebook nun gesperrt.
+
+Anzeige
+
+Facebook und Twitter haben die Profile mehrerer hochrangiger Unterstützer des brasilianischen Präsidenten Jair Bolsonaro gesperrt. Ein Richter des Obersten Gerichtshof ordnete am Freitag die Sperrung von 16 Twitter- und zwölf Facebook-Konten an. Er erklärte, die Konten müssten wegen der „andauernden Verbreitung von Fake News“ sowie „verleumderischer Anschuldigungen und Drohungen“ gegen das Gericht gesperrt werden.
+
+Zu den Inhabern der gesperrten Konten gehören unter anderem Roberto Jefferson, ein ehemaliger Kongressabgeordneter und Präsident der konservativen PTB-Partei, die Aktivistin Sara Winter sowie mehrere Geschäftsleute.
+
+Bolsonaro und der Oberste Gerichtshof liefern sich einen Machtkampf, seitdem das Gericht die Ermittlungen zur Rolle von engen Vertrauten des Präsidenten bei einer gegen den Gerichtshof gerichteten Desinformationskampagne eingeleitet hat. Dabei wird untersucht, ob Falschinformationen und Drohungen gegen Mitarbeiter des Obersten Gerichtshofs unrechtmäßig finanziert worden sind.
+
+Lesen Sie auch Krisenherd Brasilien Ein Faktor wird Bolsonaros Schicksal entscheiden
+
+Anzeige
+
+Facebook- und Twitter-Nutzern in Brasilien werden nun Hinweise zur Sperrung der Konten angezeigt. „Dieser Inhalt ist derzeit nicht verfügbar“, lautet die Facebook-Mitteilung. Twitter versah die Konten mit dem Hinweis, dass sie aufgrund eines Gerichtsbeschlusses gesperrt werden mussten. Facebook erklärte, dass es „die Justiz respektiere und sich an gültige Rechtsordnungen halte“. Twitter äußerte sich ähnlich. Die PTB-Partei sprach dagegen von einer „willkürlichen Maßnahme“, die das Recht auf freie Meinungsäußerung in sozialen Medien behindere.","'Tobias Käufer', 'Ramona Samuel'",1595682071,"Ausland,Vorwurf der Desinformation",welt
+Die Kunstwelt als Wille und Wahnvorstellung,,Marcus Woeller,1595681686,"Kunst,Galerienfusion",welt
+Dreyer fordert zurückhaltende Polizeistrategie,"In Frankfurt am Main und Stuttgart kam es in den vergangenen Wochen zu schweren Ausschreitungen. Die Ministerpräsidentin von Rheinland-Pfalz, Malu Dreyer (SPD), fordert in diesem Zusammenhang eine zurückhaltende Strategie seitens der Polizei.",,1595681548,"Deutschland,Nach Krawallnächten",welt
+„Äußerst aggressiv“ – 100 Menschen liefern sich Schlägerei,"Zwei Tage in Folge hatte die Polizei in Rheinsberg (Ostprignitz-Ruppin) alle Hände voll zu tun. Am Donnerstag lieferten sich zunächst 20 Männer eine Schlägerei. Das löste einen Tag später eine Auseinandersetzung mit 100 Beteiligten aus.
+
+Anzeige
+
+Die Polizei in Rheinsberg (Ostprignitz-Ruppin) musste den zweiten Tag in Folge zu einem Großeinsatz in der Stadt ausrücken. Etwa 100 Menschen hatten sich am Freitagabend in einem Wohngebiet versammelt, wie die Polizei am Samstag mitteilte.
+
+Eine Sprecherin beschrieb die Stimmung als „äußerst aggressiv“. Zwei Männer wurden wegen Widerstands gegen Polizeibeamte in Gewahrsam genommen. Die Beamten sprachen 51 Platzverweise aus. Ein Polizist wurde leicht verletzt. Um Mitternacht beruhigte sich die Lage.
+
+Auslöser war nach ersten Erkenntnissen der Polizei eine Auseinandersetzung vom Donnerstag. 15 bis 20 Männer hatten sich am selben Ort eine Schlägerei geliefert. Zwei Gruppen waren zunächst verbal aneinandergeraten, bevor die Situation eskalierte. Bei der Schlägerei wurden mehrere Fahrzeuge von Beteiligten beschädigt.
+
+Lesen Sie auch Frankfurter Krawalle Die neuen Barbaren
+
+Anzeige
+
+Die Polizei beendete schließlich die Auseinandersetzung und nahm acht Tatverdächtige im Alter von 20 bis 46 Jahren fest. Sieben Menschen wurden verletzt. Der Auslöser für den Streit ist nach Angaben der Polizei bislang ungeklärt. Hinweise für fremdenfeindliche Motive gebe es bislang nicht. Die Ermittlungen dauerten an.","'Alexej Hock', 'Luisa Hofmeier'",1595681237,"Panorama,Rheinsberg/Brandenburg",welt
+Wie es mit der lustigsten deutschen Netflix-Serie weitergeht,"Das passiert in der 2. Staffel von „How To Sell Drugs Online (fast)“
+
+Anzeige
+
+Was vor der Serie geschah: Der 18-jährige Schüler Maximilian S. betrieb von seinem Kinderzimmer in Leipzig aus unter dem Markennamen „Shiny Flakes“ einen schwunghaften Drogenversandhandel. Bei seiner Verhaftung wurden 320 Kilogramm an Rauschware sichergestellt. Maximilian S. – europaweiter Umsatz: vier Millionen Euro – wurde zu sieben Jahren Haft verurteilt.
+
+Lesen Sie auch „Dark“ Die allerbeste Netflix-Serie überhaupt
+
+Was bisher in der Serie geschah: Rinseln irgendwo hinter Köln (egal, von welcher Himmelsrichtung aus betrachtet). Ein Reservat der alten Bundesrepublik. Nichts ist los. Bis Lisa vom Austauschjahr aus den Staaten zurückkehrt. Und zu erwachsen geworden ist für Moritz. Der ist ein Nerd, wie er im Buch steht, guckt sich tränentriefiger Miene eine Weile lang an, wie Lisa mit Dan, der Drogen in geringer Menge im Partyvolk von Rinseln vertickt, anbandelt. Dann widmet er – kurioses Balzverhalten – den schlecht gehenden Gaming-Versandhandel, den er bis dahin mit seinem Kumpel Lenny betrieb, in „MyDrugs“ um. Wird eine Art Limango für Pillen aller Art. Die Leute schreien vor Glück. Das Geschäft wächst. Das Start-up wird zum neuen Stern am Firmament des Darknet. Moritz und Lenny müssen mit. Ein Schuss fällt. Ein Mann stirbt. Klappe.
+
+Die Kinder von Rinseln: Lisa (Anna Lena Klinke), Moritz (Maximilian Mundt), Dan (Damian Hartung) und Lenny (Danilo Kamperidis) Quelle: Netflix
+
+Warum man das sehen musste: Weil es keinen besseren rezeptfreien Stimmungsaufheller für Zeiten nach „Dark“ (der angeblich besten aller Netflix-Serien) gibt. Weil sich – hat man sich durch hochphilosophische Dauergeraune-Serie um das bundesrepublikanische Reservat Winden im atomkraftbetriebenen nordhessischen Finsterwald und durch die ebenso stasi-nazifreie Drogenhandelsserie aus der rheinischen Schiefebene gekämpft – ein ziemlich präzises Bild der Befindlichkeit eines (west-)deutschen Pubertiers ergibt.
+
+Anzeige
+
+Weil „How to sell drugs online (fast)“ jedem darüber rätselnden Elternteil einen ebenso präzises Einblick in die Funktionsweise des Hirns seines hormonverwirrten, gerade frischverdrahteten Oberstuflers gibt. Weil noch in keiner Serie (selbst nicht in „Sherlock“) moderne Massenkommunikationsmittel und Social-Media-Kommunikation derart lustvoll als Bildelemente und filmische Erzählmittel eingesetzt wurden. Weil „How to sell…“ ein manchmal atemberaubendes, dramaturgisch gerade noch gebändigtes Feuerwerk der Meta-Geschichten, Anspielungen, Stilbrüche ist.
+
+Weil keine Stasi und keine Nazis auftauchen. Weil „How to sell…“ trotz des Themas (Drogenhandel!) niemals den Moralischen kriegt, ohne Drogen zu verharmlosen. Weil das hohle Start-up-Gefasel der Generation Christian Lindner selten so elegant zu Konfetti verarbeitet wurde wie hier. Weil es einfach wahnsinnig lustig ist (nicht nur für eine deutsche Serie).
+
+Lesen Sie auch Netflix So verstehen sie die zweite „Dark“-Staffel
+
+Was jetzt geschieht: Es wird dunkler in Rinseln. Keine Angst: so finster wie in „Dark“ wird es selbstredend nicht, Nietzsche und Schopenhauer bleiben in der Schulbibliothek. Moritz schaut aber immer tiefer in den Abgrund. Und der schaut ganz schön tief in ihn zurück. Er ist ein Genie am Scheideweg. Also da, wo eigentlich alle Pubertierende stehen. „Lügen“, sagt er, „sind nichts anderes als ein Investment in die Zukunft. Und wie bei jedem Investment kann eigentlich gar nichts schiefgehen, solange man nicht den Überblick verliert.“
+
+Anzeige
+
+Muss ich noch weitererzählen? Ich tu‘s mal. „MyDrugs“ hat seine erste Bitcoin-Million eingenommen. Lenny und Dan (der als Pillenumverpacker hilft) wollen aufhören. Moritz, eigentlich ein strukturkonservativer Unternehmer alten Typs, will expandieren. So landet er in einem Niemandsland voller Zwickmühlen. Zwischen Steve Jobs und Pablo Escobar als Rollenmodellen. Zwischen Liebe und Geschäft, Wahrheit und Lüge. Zwischen den Rotterdamer „MyDrugs“-Drogenversorgern (Tarngeschäft: Bio-Limo), die so fies sind, wie sie nett zu sein vorgeben, und einer albanischen Gang (ohne einen einzigen Albaner in ihren Reihen), die auch noch mobil macht. Einem Drogenschnüffelhund wird ein Bein abgenommen. Aber das ist nichts gegen das, was sonst noch so passiert…
+
+Lesen Sie auch „How To Sell Drugs Online (Fast)“ Die deutsche Provinz kann Weltklasse. In Serie
+
+Warum man das jetzt sehen muss: Weil es gerade nach der finalen „Dark“-Staffel erhöhten Bedarf für einen rezeptfreien deutschen Stimmungsaufheller gibt. Weil „How to sell…“ am Scheideweg nicht einfach den Pfad des geringsten Widerstands einschlägt. Weil im Kölner Writingroom fast keiner der klassischen Fehler zweiter Staffeln gemacht wurde. „How to sell…“ macht nicht einfach weiter, wiederholt sich nicht, die Serie ist parallel mit seinen Figuren erwachsener geworden. Nebenfiguren und Nebenplots wurden geschickt erweitert. Die Psychologie wird intensiver, das Mitfühlen mit den Figuren größer, die Filmsprache ruhiger. Die Erwachsenen bekommen so deutlich mehr Zeit, zwischendurch unverständliches Pubertierenden-„Wording“ nachzugoogeln. An Boshaftigkeit hat „How to sell…“ so wenig nachgelassen, wie an Tiefe gewonnen.
+
+Lesen Sie auch Neue Kultserie Zwei Männer am Ende der Welt
+
+Wie es weitergeht: Hoffentlich nicht. „Es ist allen klar“, heißt es zwar mal in einer dieser herrlichen Direktansprachen an den Netflix-Kunden aus dem Verhörzimmer heraus, in dem „How to sell online (fast)“ eigentlich erzählt wird, „dass es nicht vorbei ist, wenn wir aufhören.“ Wir wollen nicht wissen, wie es weitergeht, nachdem Moritz & Cie. für dieses Mal aufgehört haben. Rinseln ist auserzählt. Puberty isch over. Klappe.",Elmar Krekeler,1595681105,"Kultur,„How to Sell Drugs Online (Fast)“",welt
+NFL-Profi verzichtet wegen Corona auf Saison und Millionen,"Anzeige
+
+Als erster NFL-Profi wird der Kanadier Laurent Duvernay-Tardif wegen der Coronavirus-Pandemie nicht zur neuen Saison im American Football antreten. Der 29-Jährige von Super-Bowl-Sieger Kansas City Chiefs kündigte an, dass er von einer entsprechenden Option Gebrauch machen werde. Auf diese Möglichkeit hatten sich zuvor Liga und Spielergewerkschaft verständigt. Duvernay-Tardif verzichtet dadurch auf mehrere Millionen Dollar, weil er anstelle seines Gehalts lediglich eine Entschädigung von 150.000 Dollar erhalten soll.
+
+Duvernay-Tardif verfügt über ein abgeschlossenes Medizinstudium und will Arzt werden. In seiner Heimat hatte er in den vergangenen Monaten in einem Krankenhaus gearbeitet und sich um Corona-Patienten gekümmert. Bei Twitter schrieb er, die Entscheidung sei eine der schwersten seines Lebens gewesen, er müsse aber seinen Überzeugungen folgen.
+
+„Während der Pause an vorderster Front zu sein, hat mir eine andere Perspektive auf die Pandemie gegeben und den Stress, den sie für die einzelnen Menschen und unser Gesundheitssystem bedeutet“, schrieb Duvernay-Tardif. Wenn er ein Risiko für seine eigene Gesundheit eingehen wolle, dann tue er dies, um Patienten zu helfen. Er könne sich nicht erlauben, das Virus möglicherweise zu übertragen, indem er einfach den Sport ausübe, den er liebe, fügte der Offensive Lineman hinzu.
+
+Große Zweifel an regulärem Start der NFL
+
+Anzeige
+
+Bei allen Football-Spielen mit Zuschauern müssen sämtliche Fans in der kommenden NFL-Saison eine Mund-Nasen-Schutzmaske tragen. Das teilte der Sprecher der nordamerikanischen Profiliga NFL, Brian McCarthy, am Mittwoch via Twitter mit. Wie viele Zuschauer angesichts der Corona-Beschränkungen überhaupt in die NFL-Arenen dürfen, hängt in den USA vom Standort des jeweiligen Klubs ab.
+
+Die New York Jets, New York Giants und Philadelphia Eagles wollen alle ihre Heimspiele vor leeren Rängen austragen. Andere Klubs – beispielsweise die Green Bay Packers, Los Angeles Rams oder Pittsburgh Steelers – wollen die Zahl der Zuschauer begrenzen.
+
+Die NFL will ihre Saison am 10. September mit dem Spiel des Titelverteidigers Kansas City Chiefs gegen die Houston Texans eröffnen. In den USA sind die Infektionszahlen weiter hoch. Daher sind die Zweifel an einem regulären Start der NFL noch immer groß.
+
+Anzeige
+
+Hier finden Sie unseren Liveticker mit allen relevanten Updates zur Corona-Krise.",'Rouven Chlebna',1595680151,"Sport,Kansas City Chiefs",welt

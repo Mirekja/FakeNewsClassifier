@@ -1,0 +1,544 @@
+title,text,author,published,tags,source
+KI wird zum Werkzeug im Forschungslabor,"Anzeige
+
+Künstliche Intelligenz (KI) ist das Herzstück vieler innovativer Technologien. Das automatische Erkennen von Gesichtern („face recognition“), die Steuerung autonom fahrender Autos oder die Klassifikation von Krebszellen sind da nur wenige Beispiele. „KI verändert alle Bereiche unseres Lebens“, stellt Professor Frank Noé von der Freien Universität Berlin fest.
+
+Künstliche Intelligenz verändert aber zunehmend auch die Art und Weise, wie Wissenschaftler forschen. KI ist mittlerweile zu einem leistungsfähigen Instrument in der Forschung geworden, das zum Beispiel Physikern Erkenntnisse ermöglicht, die sie ohne KI nicht hätten gewinnen können.
+
+So berichtet Noé im Fachjournal „Science“, dass seinem Team durch den Einsatz von künstlicher Intelligenz ein Durchbruch in der statistischen Physik gelungen ist. Die statistische Physik ist eine Forschungsdisziplin, die ohnehin im Computer stattfindet.
+
+Anzeige
+
+Die vielen möglichen Interaktionen von Atomen und Molekülen werden dabei statistisch ausgewertet – mit dem Ziel, konkrete Aussagen über Materialeigenschaften zu machen. Ein einfaches Beispiel: Kennt man die physikalischen Wechselwirkungen der Atome in einem Metall, so lässt sich mit den Methoden der statistischen Physik berechnen, bei welcher Temperatur dieses Metall schmelzen wird.
+
+Lesen Sie auch Deep Fakes Was für Pornos erfunden wurde, könnte künftig Kriege auslösen
+
+Lesen Sie auch Brand Story Einzigartiger Planet Forschen für den Erhalt des Planeten Anzeige
+
+Für bekannte Materialien mag dies nicht besonders interessant klingen. Man kann sie ja einfach erwärmen und messen, wann sie schmelzen. In der Materialforschung geht es jedoch sehr häufig darum, neue Werkstoffe zu erfinden, die bestimmte Wunscheigenschaften besitzen. Bevor man diese Substanzen mit großem Aufwand im Labor herstellt, ist es natürlich sinnvoll, erst einmal im Computer zu berechnen, welche Materialzusammensetzung zu den angepeilten Eigenschaften führen könnte.
+
+Lesen Sie auch Lernende Maschinen Intelligente Computer schenken uns Zeit zum Denken
+
+In der Praxis gelangen aber selbst heutige Supercomputer bei solchen Berechnungen schnell an die Grenze ihrer Möglichkeiten. „Im Prinzip müssten wir jede mögliche Struktur, also die Anordnung aller Atome im Raum ausprobieren, die Wahrscheinlichkeit für deren Existenz ausrechnen und dann einen Mittelwert über all diese Strukturen bilden“, erklärt Simon Olsson, ein Co-Autor der Studie. Doch das geht nicht, weil die Anzahl der möglichen Strukturen viel zu groß ist. Üblicherweise werden also nur ganz wenige Strukturen simuliert. Die Qualität der Resultate ist dadurch limitiert.
+
+Anzeige
+
+Die KI-Methode von Professor Noé und seinem Team sprengt diese Grenzen. Ein sogenanntes neuronales Netzwerk ist in der Lage, wahrscheinlichere Strukturen mit der Zeit zu erkennen. Die viel größere Menge von unwahrscheinlichen Strukturen muss dann nicht weiter beachtet werden. „Dann ist der Rechenaufwand gering“, sagt Noé, „die KI-Methoden sind der Schlüssel dafür, dass dies gelingt.“
+
+Er dämpft allerdings die Erwartung, dass sich mit dieser Technik viele industrielle Fragestellungen sofort beantworten lassen. „Das ist bislang noch Grundlagenforschung“, sagt Noé, „aber eben doch ein völlig neuer Ansatz für ein altes Problem. Die Tür für viele weitere Entwicklungen ist jetzt offen.“
+
+Wissenschaftler der Universität Hamburg berichten ebenfalls von Forschungserfolgen durch den Einsatz von KI. Das Team um Klaus Sengstock und Christof Weitenberg konnte aus experimentellen Daten dank KI Quantenphasenübergänge vorhersagen, also jene Punkte, an denen sich Eigenschaften von Stoffen schlagartig verändern. Sie sind davon überzeugt, dass künstliche Intelligenz im Labor ganz neue Effekte der Quantenphysik in Echtzeit analysieren kann, die ansonsten nicht zugänglich wären.
+
+Lesen Sie auch Mathematik im Alltag Ist der Algorithmus eine finstere Macht?
+
+Anzeige
+
+Bereits seit vielen Jahren leistet künstliche Intelligenz indes Kärrnerarbeit in den Labors der Teilchenphysiker. Die Detektoren am weltgrößten Teilchenbeschleuniger LHC am europäischen Forschungszentrum Cern bei Genf registrieren in jedem Sekundenbruchteil so extrem viele Ereignisse, dass die so entstehenden gigantischen Datenmengen gar nicht weitergeleitet und verarbeitet werden können.
+
+Künstliche Intelligenz spielt hier den „Gate Keeper“ und sortiert in Echtzeit alle nicht relevanten Informationen aus. Nur die relevanten Datenbits gelangen zur Auswertung in den Serverpark. Relevante von nicht relevanten Informationen in jedem Augenblick zu unterscheiden ist hier eine wichtige, intelligente Leistung. In diesem Sinne war KI bereits an der Entdeckung des berühmten Higgs-Boson („Gottesteilchen“) beteiligt. Das Higgs-Boson offenbarte sich den Physikern aus den von KI vorsortierten Daten.
+
+Dieser Artikel wurde erstmals im September 2019 veröffentlicht.",Norbert Lossau,1600851420,"Wissenschaft,Künstliche Intelligenz",welt
+Millionen Billig-Teslas in drei Jahren – Das ist die neue technologische Revolution,"Tesla will den Preis für seine Elektroautos drastisch senken. Das kündigte Konzernchef Elon Musk beim sogenannten Battery Day an. Zukünftig soll es einen Tesla zum Schnäppchenpreis von rund 25.000 Dollar geben.
+
+Anzeige
+
+Drei Jahre klingen nach einer langen Zeit für eine Revolution. So lange werde es brauchen, bis seine neuen, innovativen Batterien in Serie produziert werden können, kündigte Elon Musk beim „Battery Day“ seines Automobilunternehmens Tesla an.
+
+Viele Aktionäre hat der Gründer mit seiner Präsentation enttäuscht, sie wollen die bahnbrechenden Produkte sofort, dafür haben sie den Aktienkurs in astronomische Höhen geschraubt. Nun kam keine „Millionen-Meilen-Batterie“, auch andere Gerüchte, die den Kurs zuvor getrieben hatten, hat Musk nicht eingelöst.
+
+Lesen Sie auch „Battery Day“ Ein Tesla für 21.000 Euro – Elon Musk verspricht dramatische Preissenkung
+
+Dennoch sollte die Automobilindustrie in Panik geraten. Denn drei Jahre sind für die Konzerne und ihre vielen Kooperationspartner tatsächlich eine Zeitspanne, für die der Begriff Revolution passt.
+
+Anzeige
+
+Die großen Konkurrenten Volkswagen, Toyota oder General Motors hat Musk mit seiner Batterieshow stark unter Druck gesetzt. Noch mehr als er das ohnehin schon getan hat. Schon mit seiner Software, die in modernen Autos entscheidend ist, ist Tesla ihnen einen großen Schritt voraus. Künftig will Musk auch beim Kern der Hardware – der Batterie – und in der Produktion besser werden als alle anderen.
+
+Lesen Sie auch Teslas „Battery Day“ Gelingt der Elektro-Durchbruch, sollten Sie diese Aktien besitzen
+
+Alle wesentlichen Hersteller bauen eigene Batteriefabriken, in der Regel gemeinsam mit Unternehmen, die das bereits tun. Volkswagen beispielsweise errichtet gemeinsam mit der norwegischen Northvolt eine Fabrik in Salzgitter.
+
+Für den künftigen Markterfolg der Autos werden günstige Batterien entscheidend sein. Denn sie machen den größten Kostenblock im Elektroauto aus. Dass Musk nun ankündigt, die Kosten um 53 Prozent zu senken, und das binnen drei Jahren, ist eine Kampfansage.
+
+Anzeige
+
+Und auch sein Weg dahin ist es. Denn Musk bricht mit einer Logik der Automobilindustrie, die sich über Jahrzehnte entwickelt hat: der Arbeitsteilung zwischen Zulieferern und Herstellern.
+
+Sie war bisher eine der großen Stärken der Branche: Wenn sich jedes Unternehmen auf seine speziellen Fähigkeiten konzentriert, werden die Produkte in Summe besser und günstiger. Sie brauchen aber auch sehr lang bis zur Marktreife.
+
+Nun, im Strukturwandel, könnte sich das als Schwäche erweisen – sollte Musk Erfolg haben. Was Tesla angekündigt hat, ist nicht weniger als die Rückintegration der gesamten Wertschöpfungskette des Autos in ein einziges Unternehmen.
+
+Anzeige
+
+Der Konzern greift in der Batteriefertigung in jeden einzelnen Schritt selbst ein – vom Abbau der Rohstoffe über die chemischen Grundprozesse und die Zellproduktion bis zur Integration der fertigen Batterien ins Auto. Für jeden einzelnen Schritt der Wertschöpfungskette arbeiten seine Ingenieure an Verbesserungen, die zusammen zu einer Halbierung der Kosten und einer extremen Leistungssteigerung führen sollen.
+
+Diese Art der Entwicklung ist sehr teuer. Aber alle Schritte laufen gleichzeitig und koordiniert innerhalb eines Konzerns ab – und damit um Jahre schneller als im bisherigen System.
+
+Lesen Sie auch Elektromobilität Volkswagens neues „Weltauto“ soll Tesla deklassieren
+
+Dass die Tesla-Experten in diesem Prozess jedes einzelne Teil der Kette so perfekt entwickeln werden, wie das spezialisierte Konzerne wie BASF oder Bosch können, darf man getrost bezweifeln. Doch in dem Umbruch, in dem die Branche steckt, zählt vor allem Schnelligkeit. Niemand braucht ein perfektes Elektroauto in zehn Jahren, wenn Musk in drei Jahren bereits mit seinen 25.000-Dollar-Teslas den Markt erobert hat.
+
+Und das ist sein erklärtes Ziel: 20 Millionen Fahrzeuge will er künftig pro Jahr verkaufen – das wäre doppelt so viel, wie der VW-Konzern im vergangenen Jahr abgesetzt hat. Diese Marke mag ambitioniert klingen. Womöglich zu ambitioniert. Doch für die etablierten Automobilkonzerne ist sie definitiv eine ernst zu nehmende Kampfansage.
+
+Und mehr noch: Denn im Subtext seiner technologischen Revolution des Batteriebaus schwingt noch eine andere mit. Die Neuerfindung von industrieller Innovation.",Daniel Zwick,1600851180,"Wirtschaft,„Battery Day“",welt
+Warum Ausdauertraining das Altern verlangsamt,,Birgit Herden,1600850820,"Gesundheit,Anti-Aging",welt
+Spiel des FC Bayern wird endgültig zum Politikum,"Sevilla-Sportdirektor Ramon Rodriguez, genannt Monchi, spricht vor dem Uefa-Supercup am Donnerstag nur in den höchsten Tönen vom FC Bayern München, der natürlich Favorit sei.
+
+Anzeige
+
+Das Finale des Supercups wird zum Politikum. Angesichts der angespannten Corona-Lage hat sich nun sogar Budapests Oberbürgermeister Gergely Karácsony gegen die Austragung der Partie zwischen dem FC Bayern und dem FC Sevilla vor Publikum ausgesprochen.
+
+„Hätte ich die rechtlichen Möglichkeiten, das zu entscheiden, würde ich das Match hinter geschlossenen Toren stattfinden lassen“, sagte der grün-liberale Politiker der oppositionellen Tageszeitung „Népszava“.
+
+„Die Verantwortung liegt bei denen, die die Entscheidungsgewalt haben“, fügte er mit Blick auf die rechtsnationale Regierung von Ministerpräsident Viktor Orbán hinzu. Karácsony ist seit vergangenem Oktober Oberbürgermeister von Budapest. Bei der Direktwahl hatte er sich deutlicher als erwartet gegen den Amtsinhaber aus Orbáns Fidesz-Partei durchgesetzt.
+
+Die Puskás-Arena in Budapest soll mit bis zu 20.000 Zuschauern gefüllt werden Quelle: dpa/Tibor Illyes
+
+Anzeige
+
+Das Spiel soll am Donnerstagabend in der Budapester Puskás-Arena über die Bühne gehen. In dem rund 67.000 Zuschauer fassenden Stadion stehen rund 30 Prozent der Plätze den Fans zur Verfügung. Das Vorhaben, an dem der europäische Fußballverband Uefa und die Orbán-Regierung festhalten, gilt als umstritten.
+
+Sky und DAZN nicht vor Ort
+
+Das deutsche Robert-Koch-Institut stuft Budapest wegen der steigenden Corona-Zahlen als Risikogebiet ein. Bayern hatte am Dienstag die Quarantäneregeln für zurückkehrende Fans verschärft. Anhänger aus dem Freistaat müssen nun nach der Rückkehr zum Corona-Test oder in Quarantäne.
+
+Lesen Sie auch Kicker, Comunio, Kickbase 26 Schnäppchen für Ihr Managerspiel
+
+Mittlerweile haben auch die übertragenden Sender reagiert. Sky und DAZN schicken aus Sicherheitsgründen keine Journalisten zum Finale. Der Pay-TV-Sender und der kostenpflichtige Internetanbieter übertragen das Spiel am Donnerstagabend live, die Kommentatoren sitzen aber in Deutschland.
+
+Anzeige
+
+„Sky trägt der veränderten Situation in Budapest Rechnung und wird anders als ursprünglich geplant nicht mit Personal vor Ort sein“, sagte ein Sprecher. „Im Hinblick auf die Sicherheit und Gesundheit unserer Mitarbeiter haben wir uns dazu entschieden, mit Wolff Fuss und Sebastian Hellmann komplett aus unserem Studio in Unterföhring zu berichten.“
+
+Viele Ticket-Stornierungen
+
+Ähnlich äußerten sich auch die Verantwortlichen bei DAZN: „Wir hatten die Reise geplant, haben sie aber aufgrund der Corona-Situation storniert und berichten nun aus Ismaning.“ Kommentator des Internetanbieters ist Jan Platte, Moderator Alexander Schlüter.
+
+„Mehr Maske, weniger Alkohol, weniger Personenzahl“ Vor allem Partygänger und Urlauber sind nach Ansicht der Bundesregierung für die steigenden Corona-Infektionen verantwortlich. Deshalb soll es jetzt weitere Einschränkungen geben. Allen voran in Bayern und Berlin. Quelle: WELT
+
+Schon vor den neuen Corona-Bestimmungen in Bayern hatten mindestens 800 Münchner Fans ihre Tickets storniert. Es werden also weitaus weniger als die von FC-Bayern-Vorstandschef Karl-Heinz Rummenigge noch am Sonntag auf 2100 bezifferte Zahl von Anhängern den Triplesieger anfeuern. Aus Sevilla lagen der Uefa ohnehin nur etwas weniger als 350 Ticket-Anfragen vor.",'Jean Mikhail',1600849928,"Fußball,Supercup in Budapest",welt
+Kremlkritiker Nawalny aus Berliner Charité entlassen,,,1600849800,"Videos,Nach Vergiftung",welt
+Tausende dürfen wieder in die Stadien des HSV und FC St. Pauli kommen,"Schon beim Auftakt gegen Düsseldorf durften am Freitag einige Fans in das Stadion. Nun aber könnten es bis zu 11.000 werden
+
+Anzeige
+
+Der Senat der Hansestadt Hamburg hat am Dienstag eine Änderung der Corona-Eindämmungsverordnung beschlossen. Zu den Fußball-Spielen des Hamburger SV und des FC St. Pauli sowie zu anderen Sportgroßveranstaltungen sind von sofort an wieder mehr als 1000 Zuschauer zugelassen. Voraussetzung ist, dass die sogenannte Sieben-Tages-Inzidenz pro 100.000 Einwohner am Austragungsort kleiner als 35 und das Infektionsgeschehen klar eingrenzbar ist. Die Platzkapazität kann zu 20 Prozent ausgelastet werden, beim HSV wären das im Volksparkstadion also rund 11.000 Fans, beim FC St. Pauli rund 6000 im Millerntor-Stadion.
+
+Lesen Sie auch Sport in Corona-Zeiten Becker: „Hatte Sorgen um den Tennissport“
+
+Wie die Innenbehörde mitteilte, ist in jedem Fall eine Genehmigung des zuständigen bezirklichen Gesundheitsamts erforderlich, das die Genehmigung mit erforderlichen Auflagen verknüpfen kann.
+
+„Vereine und Veranstalter haben es jetzt in der Hand, mit tragfähigen und gründlich ausgearbeiteten Hygienekonzepten die entsprechenden Voraussetzungen für eine Genehmigung zu schaffen“, sagte der Hamburger Sportsenator Andy Grote (SPD). „Allen muss jedoch klar sein, dass wir diese Schritte nur gehen können, wenn wir uns weiterhin an die erforderlichen Schutzmaßnahmen halten und damit einen Anstieg der Infektionszahlen wie andernorts verhindern.“
+
+Lesen Sie auch Coronavirus Erboste Senatorin sendet „schöne Grüße an Darth Vader und Bibi Blocksberg“
+
+Anzeige
+
+Für die Vereine ergeben sich allerdings erhebliche organisatorische Hürden. Eintrittskarten dürfen zum Beispiel nur personengebunden vertrieben werden, um eine erforderliche Kontaktdatenerhebung zu gewährleisten. Ebenso müssen den Besucherinnen und Besuchern feste Sitz- oder Stehplätze zugewiesen werden. Der Ausschank und Konsum alkoholischer Getränke am Veranstaltungsort ist untersagt. Der Ein- und Auslass ist zudem so zu organisieren, dass Besucherströme entzerrt werden und es nicht zu Menschenansammlungen kommt. Gleiches gilt für sanitäre Einrichtungen. Alle hygienischen Vorkehrungen sind in einem tragfähigen Schutzkonzept darzulegen, das mit dem jeweils zuständigen bezirklichen Gesundheitsamt und unter Beteiligung der Gesundheitsbehörde sowie der Behörde für Inneres und Sport abzustimmen ist. Auch die Hygienekonzepte der zugehörigen Ligen bzw. der zuständigen Sportfachverbände sind dabei zu berücksichtigen.",'Martin Sonnleitner',1600792126,"Hamburg,Fußball in Hamburg",welt
+AfD-Fraktion in Niedersächsischem Landtag zerbrochen,,"'Thilo Komma-Pöllath', 'Matthias Kamann'",1600788992,"Deutschland,Richtungsstreit",welt
+Wolverhampton Wanderers ein großartiges Team,,,1600772267,"Sport,Pep Guardiola",welt
+Söder äußert sich zum weiteren Corona-Vorgehen in Bayern,,,1600772126,"Deutschland,Steigende Infektionszahlen",welt
+Warnstreiks im öffentlichen Dienst haben begonnen,"Anzeige
+
+In mehreren Bundesländern haben am Dienstag die angekündigten Warnstreiks im öffentlichen Dienst von Bund und Kommunen begonnen. In Nordrhein-Westfalen und Bayern gab es in einzelnen Städten Aktionen vor städtischen Betrieben. Geplant waren auch punktuelle Warnstreiks in Baden-Württemberg, Rheinland-Pfalz, Niedersachsen und Schleswig-Holstein. In anderen Ländern starten die Aktionen in den kommenden Tagen.
+
+In Gütersloh versammelten sich am Morgen etwa 40 Beschäftigte vor dem Klinikum. Mit Bezug auf den Corona-Einsatz von Krankenhauskräften sagte der Ver.di-Funktionär Volker Hoppmann: „Klatschen reicht nicht – wir wollen anständig bezahlt werden.“
+
+Lesen Sie auch Alltag einer Krankenschwester „Manche Auszubildende fragen mich, auf welcher Station man Patienten nicht waschen muss“
+
+In Augsburg beteiligten sich nach Angaben der Gewerkschaft Ver.di 60 Mitarbeiter der Stadtentwässerung – rund die Hälfte der Belegschaft. Da diese im Schichtdienst arbeitet, erwartete Ver.di im Laufe des Tages noch mehr Warnstreikende.
+
+Anzeige
+
+Die Gewerkschaft will mit den Warnstreiks ihren Lohnforderungen im laufenden Tarifstreit mit Bund und Kommunen Nachdruck verleihen. Verhandelt wird über die Einkommen von mehr als zwei Millionen Beschäftigten. Ver.di und der Beamtenbund dbb fordern 4,8 Prozent mehr Lohn. Den Beschäftigten sollen mindestens 150 Euro mehr pro Monat zugesichert werden. Sie fordern eine Laufzeit von zwölf Monaten, die kommunalen Arbeitgeber wollen eine längere Laufzeit.
+
+Die zweite Verhandlungsrunde ging am Wochenende in Potsdam ohne Annäherung zu Ende. Bund und Kommunen hatten dort kein Angebot vorgelegt – Ver.di und der Beamtenbund dbb, der mit verhandelt, hatten sich empört gezeigt. Die dritte Verhandlungsrunde ist für den 22. und 23. Oktober angesetzt.","'Marcel Leubecher', 'Daniel Eckert', 'Kaja Klapsa', 'Ulrich Exner'",1600771721,"Nordrhein-Westfalen,Tarifstreit",welt
+Draußen wartet das Abenteuer – mit diesen Büchern,"Schon als Kind träumte Josef Reichholf vom Amazonas. Vielleicht, weil der Inn in seiner Heimat so ähnlich fließt. Mit welchen Büchern er Evolutionsbiologe, Zoologe und Naturschützer wurde, verrät er hier.
+
+Anzeige
+
+Josef H. Reichholf gehört zu den interessantesten Evolutionsbiologen unserer Zeit. Er wurde 1945 in Aigen am Inn in Niederbayern geboren und studierte Biologie, Chemie, Geografie und Tropenmedizin an der Universität München. 1969 promovierte er in Zoologie über das Leben von Wasserschmetterlingen. 1970 verbrachte er ein Forschungsjahr in Brasilien. Von 1974 bis 2010 war er Wissenschaftler an der Zoologischen Staatssammlung in München, lehrte an Universitäten und engagierte sich im nationalen und internationalen Naturschutz.
+
+Lesen Sie auch Lehren des Corona-Frühlings Städter sind die Rettung für das Land
+
+Das Spektrum seiner populären Sachbücher reicht von der Evolution des Menschen über die Intelligenz der Krähen bis zum Eichhörnchen. Zuletzt erschien „Der Hund und sein Mensch“ (Hanser). Reichholf ist bis heute intensiv in der Natur unterwegs, sein häusliches Habitat bilden Tausende Bücher. Welche er am liebsten gelesen hat, verrät er hier:
+
+M.Z. Thomas: Draußen wartet das Abenteuer
+
+Im Alter von zwölf Jahren verschlang ich dieses Buch über Alexander von Humboldts Reise nach Südamerika, mehrmals, und wollte selbst dorthin reisen, um in dieser Wunderwelt der Tropen zu forschen. Dass sich dieses Vorhaben ein Dutzend Jahre später verwirklichen sollte, ahnte ich natürlich nicht. Unruhig war nur meine Mutter geworden, weil ich fortan immer wieder davon sprach, „an den Amazonas“ zu wollen.
+
+Der Amazonas von Niederbayern: Inn-Auen Quelle: picture alliance / imageBROKER
+
+Anzeige
+
+Anders als Humboldt, dem Brasilien die Einreise verwehrt hatte, kam ich an den Fluss der Flüsse, den ich so gern mit dem Inn verglich, an dem ich aufgewachsen war: Die Studienstiftung des Deutschen Volkes ermöglichte mir direkt im Anschluss an mein Biologiestudium und meine Promotion in Zoologie an der Universität München die große, fast ein Jahr dauernde Südamerikareise. Sie bestimmte meinen weiteren Werdegang nachhaltig.
+
+Die Welt, in der wir leben
+
+LW Biografie in Büchern Joseph Reichholf, Biologe Quelle: Joseph Reichholf
+
+Dieses Buch faszinierte mich mit seinen unglaublichen Bildern. Ich erstand es in der Buchhandlung neben dem Gymnasium. 19,80 DM war für mich als Schüler ein sehr hoher, kaum bezahlbarer Preis – ich sparte lange, bis das Geld für die verbilligte, nicht in Hochglanz gedruckte ‚Volksausgabe‘ reichte. Für mein jugendliches Alter waren die Texte viel zu schwierig. Dennoch schuf die intensive Beschäftigung mit diesem Werk über die Evolution des Lebendigen die Grundlagen für das Verständnis großer Zeithorizonte und der Dynamik des Werdens in meinem Denken.
+
+Dass die Evolution des Menschen darin völlig fehlte, fiel mir erst auf, als ich dreißig Jahre später selbst ein Buch darüber schrieb. Was mich im Rückblick wundert: Dinosaurierfan war ich nicht geworden, wohl aber gewonnen für die Evolution als späteren Forschungsschwerpunkt.
+
+Konrad Lorenz: Er redete mit dem Vieh, den Vögeln und den Fischen
+
+Anzeige
+
+Während meines Studiums konnte ich einige Vorlesungen des später mit dem Nobelpreis ausgezeichneten Begründers der Vergleichenden Verhaltensforschung erleben. Wenige nur, weil der Meister im Erzählen meistens keine Zeit dafür hatte. Umso meisterhafter empfanden wir damals seine Bücher. Besonders beeindruckte mich „So kam der Mensch auf den Hund“.
+
+Ich war hingerissen vom Stil, der so ganz anders war als das, was die Lehrbücher boten. Von einem Ökologie-Lehrbuch, aus dem ich für die Doktorprüfung lernte, ist mir dieser exemplarischer Satz bis heute in Erinnerung: „Die situativ variable Realisierung der Potenz Vagilität ergibt die Mobilität.“ Lorenz’ Bücher zeigten mir, dass man ganz anders schreiben und dennoch wissenschaftlichen Ruhm erlangen konnte. Vielfach bestätigt fand ich dies später bei der Lektüre angloamerikanischer Bücher über Naturthemen. Sicherlich beeinflussten sie die Art, wie ich selbst zu schreiben anfing.
+
+Nikolaas Tinbergen: Wo die Bienenwölfe jagen
+
+Vor dem Schreiben liegt für einen Biologen die Forschung. Und die ist meistens alles andere als eine Direktvorlage für attraktive Prosatexte. Dass es dennoch Forschungsansätze gab, die sich in bestem Sinne dafür eignen, lernte ich bei der Lektüre der Freilandstudien von Tinbergen (der 1973 gemeinsam mit Konrad Lorenz und Karl von Frisch den Nobelpreis erhielt).
+
+Anzeige
+
+Was Tinbergen da in Holland mit seinen Studenten und Assistenten machte, schien geradezu umwerfend einfach, fast wie Ferienbeschäftigung, und war doch so ungeheuer ergiebig. Weil er es verstanden hatte, die richtigen Fragen an die Tiere zu richten, die er untersuchte. Hinzu kam, dass es eine ganze Reihe der behandelten Arten auch bei mir am heimatlichen Inn gab, sodass ich mich an den Forschungen Tinbergens direkt orientieren konnte, insbesondere nachdem ich von meinem Jahr in Südamerika zurückgekehrt war.
+
+Hans Krieg: Zwischen Anden und Atlantik
+
+Für mein Forschungsjahr 1970 in Südamerika hatte ich ein ganz besonderes Buch entdeckt, nämlich die Reiseschilderungen des früheren Ersten Direktors der Zoologischen Staatssammlung in München. Mitunter bewegte ich mich buchstäblich auf den Spuren von Hans Krieg, wie ich mehrfach feststellen konnte. Etwa daran, dass man sich da und dort im Gran Chaco von Paraguay noch an ihn und an das Grammophon erinnerte, das er mit seinen Begleitern mitgeschleppt hatte.
+
+Damit hatte er die Indios ungemein beeindruckt. Sein Buch wurde zur wissenschaftlichen Leitlinie für meine eigenen Reisen kreuz und quer durch Südamerika und damit zur Konkretisierung dessen, was die Schilderungen von Alexander von Humboldts Reisen an Erwartungen gelegt hatten. Während ich im Gran Chaco war, verstarb Hans Krieg. In der Grabrede wurde meine Reise angesprochen. Sie endete denkbar unerwartet: Ich, der von Hans Krieg stark vorgeprägte Zoologe, kam selbst in die Zoologische Staatssammlung und erhielt eine Traumstellung, die mir viele weitere Forschungsreisen ermöglichte.
+
+Ernst Mayr: Artbegriff und Evolution
+
+In diesem Werk präzisierte der aus Bayern stammende und in Amerika weltberühmt gewordene Biologe das Kernstück dessen, was Charles Darwin über ein Jahrhundert vorher mit seinem „Ursprung der Arten“ zur Grundlage der biologischen Wissenschaften gemacht und womit er eine Revolution des Denkens auslöste hatte. Mayr konkretisierte den „Ursprung der Arten“, und mit Arten hatte ich höchst umfänglich zu tun.
+
+War ich von „Der Welt, in der wir leben“ in das Denken in großen Zeiträumen eingeführt worden, so eröffnete Ernst Mayr den Horizont für das sogenannte Populationsdenken. Es sollte und musste die viel zu starre typologische Betrachtungsweisen ablösen und klarmachen, dass alles Leben ein Fluss ist und sich nichts in feste Kategorien unterteilen lässt. Viele Biologen tun sich bis heute schwer damit und „schaffen“ jede Menge neuer Arten durch Aufspaltung von bekannten.
+
+Rupert Riedl: Die Ordnung des Lebendigen
+
+Riedl ordnete mein Denken über die Evolution neu, insbesondere in Bezug auf die Bedeutung des Zufalls. Als theoretischer Biologe ist Riedl immer noch nicht so recht bekannt, obwohl oder gerade weil er so meisterhaft auf Deutsch darlegte, wie die Evolutionsprozesse ablaufen und wie jenes Phänomen in der Natur entsteht, das wir als Ordnung empfinden, wo eigentlich Chaos herrschen sollte. Anders als viele Theoretiker kannte Riedl als Meeresbiologe die schier unfassbare Fülle des Lebendigen.
+
+Lesen Sie auch Peter Wohlleben „Unvergesslich ist mir die Aufbruchsstimmung“
+
+Er kategorisierte nicht, wo das Leben voller Übergänge steckt, wie das vielfach, gegenwärtig sogar wieder stärker geschieht. Denn in unserer Zeit nimmt die Arten- und Formenkenntnis dramatisch ab. Geforscht wird an „Modellorganismen“, um „Modelle“ zu erstellen, die dann doch allzu schnell scheitern, wenn sie sich in der Lebenswirklichkeit bewähren sollen. Die auch unter vielen Biologen verbreitete Vorstellung, dass Evolution einfach „per Zufall“ geschieht, hatte Riedl schon als unzutreffend entlarvt, bevor die internationale Forschung allmählich dahinterkam und den Zufall aus seiner zentralen Rolle verdrängte.
+
+Adolf Portmann: Die Tiergestalt
+
+Anzeige
+
+Als ich dieses und weitere Bücher von Portmann in den 1970ern und 1980ern las, war der Basler Zoologe längst zum wissenschaftlichen Außenseiter erklärt worden, über den man tunlichst nicht sprach, um nicht in den Geruch zu geraten, selbst so obskure Vorstellungen wie die „Selbstdarstellung des Lebendigen“ zu vertreten. Es herrschte die streng monokausale, mechanistische Sicht, die dem Leben eigentlich kein Eigenleben zubilligt. Leben hatte zweckmäßig, das heißt angepasst zu sein. Basta. Schönheit, das sei etwas für Schwärmer außerhalb der Biologie, die sich nunmehr anschickte, mit Molekulargenetik zur echten, weil physikalischen und streng experimentellen Wissenschaft zu werden.
+
+Lesen Sie auch Ernst Haeckel Der Künstler, der die Natur neu erfand
+
+Längst ist diese Phase überwunden. Das Pendel schwingt zurück. Portmanns Vorstellungen tauchen, neu benannt, wieder auf. Seine Bücher hatten mich zutiefst beeindruckt. Im Gehalt wie auch im Stil. Wie richtig meine Eindrücke waren, erfuhr ich, als ich im Jahr 2007 den Sigmund-Freud-Preis für wissenschaftliche Prosa von der Deutschen Akademie für Sprache und Dichtung erhielt. Portmann war vor mir der erste und Werner Heisenberg der zweite Preisträger unter den Naturwissenschaftlern. Nun wagte ich mich auch daran, über den biologischen Ursprung der Schönheit zu schreiben.
+
+Wilhelm Fucks: Formeln zur Macht
+
+Dieses Buch stufe ich rückblickend als besonders einflussreich für mich ein. Es war schon Jahre vor dem berühmt gewordenen Bericht des Club of Rome (sprich: Dennis Meadows „Die Grenzen des Wachstums“) erschienen und kaum zur Kenntnis genommen worden. Sein Untertitel lautete: „Prognosen über Völker, Wirtschaft, Potentiale“. Wilhelm Fucks bot keine komplizierten und schwer zu durchschauenden Computermodelle für seine Prognosen. In vergleichsweise einfachen Grafiken stellte er die Entwicklung der Weltbevölkerung ebenso richtig dar, wie er schon 1966 den Aufstieg Chinas zur global führenden Macht vorhersagte. Wer aber kennt heute den Autor und dieses Buch? Mir als jungem Wissenschaftler brachte es bei, auch nicht linear zu denken.
+
+Richard Hesse und Franz Doflein: Tierbau und Tierleben
+
+LW Biografie in Büchern Joseph Reichholf, Biologe Quelle: Joseph Reichholf
+
+Evolutionsbiologen pflegen ihren „Darwin“ griffbereit zu halten. Auch bei mir lag die Reclam-Ausgabe vom „Ursprung der Arten“ stets auf dem Schreibtisch. ‚Bibel der Biologen‘ wird Darwins Hauptwerk manchmal genannt. Aber diese Charakterisierung ist unpassend, denn das Buch enthält keine unumstößlichen Wahrheiten oder Glaubenssätze. Viel häufiger zum Nachschlagen nutze ich ein großes zweibändiges Handbuch, „den Hesse-Doflein“ von 1910 bzw. 1914.
+
+Bis heute nehme ich es gern zur Hand, so großartig anregend sind die Texte und auch die Illustrationen, wenngleich das Wissen in der Biologie inzwischen so viel weiter fortgeschritten ist. Manchmal denke ich, dass es gut wäre, wenn man erst dieses Werk studiert haben müsste, bevor man zum modernen Zoologiestudium zugelassen wird. Eine solide Basis wäre dann vorhanden. Ich verdanke diesem Jahrhundertwerk sehr viel; mehr als jedem anderen Buch.
+
+Lesen Sie auch Volker Schlöndorff Ein Meisterregisseur erklärt seine Lieblingsbücher
+
+Lesen Sie auch Berlins Kultursenator Lederer „Jetzt krankmelden und nicht aufhören!“","'Andrea Seibel', 'Michael Miersch', 'Thomas Straubhaar', 'Kira Hanser', 'Valentin Frimmer'",1600771350,"Literatur,Josef H. Reichholf",welt
+Das sind die Corona-Hotspots in Deutschland,"In München steigen die Infektionszahlen weiter, in Hamburg ist es erneut zu einem Corona-Ausbruch gekommen. Ein Trend, der auch in anderen Regionen erkennbar ist. Sehen Sie hier, welche deutschen Städte besonders betroffen sind.",,1600770672,"Videos,Steigende Infektionszahlen",welt
+Sie war eine Ikone. Und genau das ist das Problem,,Hannes Stein,1600770533,"Kommentare,Ruth Bader Ginsburg",welt
+Drosten erhält Bundesverdienstorden,"Sieben Frauen und acht Männer erhalten am 1. Oktober den Bundesverdienstorden. Das Motto der Verleihung im Schloss Bellevue lautet in diesem Jahr „Vereint und füreinander da“. Auch der Virologe Christian Drosten wird geehrt.
+
+Anzeige
+
+Unter dem Motto „Vereint und füreinander da“ zeichnet Bundespräsident Frank-Walter Steinmeier am 1. Oktober 15 Bürgerinnen und Bürger mit dem Verdienstorden der Bundesrepublik Deutschland aus.
+
+Zwei Tage vor dem Einheitsfeiertag werden unter anderem der Virologe Christian Drosten, der frühere Fußballprofi Thomas Hitzlsperger und der Heinsberger Landrat Stephan Pusch die Auszeichnung im Berliner Schloss Bellevue entgegennehmen, wie das Präsidialamt am Dienstag mitteilte.
+
+„Die sieben Frauen und acht Männer haben sich durch außerordentliche Leistungen verdient gemacht: Sie helfen, die Corona-Pandemie zu bewältigen, fördern das Zusammenwachsen von Ost und West und tragen dazu bei, Vorurteile in unserer Gesellschaft abzubauen“, teilte das Bundespräsidialamt am Dienstag mit.
+
+Anzeige
+
+Bei Drosten hieß es zur Begründung unter anderem, der Berliner Virologe habe wichtige und weltweit anerkannte Erkenntnisse zum Corona-Infektionsgeschehen geliefert und diese auch mit innovativen Formaten der Öffentlichkeit vermittelt.
+
+Lesen Sie auch Pandemie Wie kritisch 2000 Neuinfektionen wirklich sind
+
+Hitzlsperger erhält den Verdienstorden für sein ehrenamtliches Engagement beispielsweise im Verein „Gesicht Zeigen! – für ein weltoffenes Deutschland“ und im Projekt „Fußball für Vielfalt – Fußball gegen Homophobie und Sexismus“ sowie seinen Einsatz für Townshipkinder in Südafrika. Der Heinsberger Landrat Pusch habe beim Corona-Ausbruch in seinem Landkreis „mit seinen so schwierigen wie souveränen Entscheidungen Pionierarbeit bei der Eindämmung der Pandemie geleistet“, hob das Präsidialamt hervor.
+
+Zu den Geehrten gehören auch die für ihren YouTube-Kanal bekannte Wissenschaftlerin Mai Thi Nguyen-Kim, der Schriftsteller Ingo Schulze sowie der Pianist Igor Levit. Das Motto der Verleihung zum Tag der Deutschen Einheit lautet „Vereint und füreinander da“.
+
+Hier können Sie unsere WELT-Podcasts hören Wir nutzen den Player des Anbieters Podigee für unsere WELT-Podcasts. Damit Sie den Podcast-Player sehen können und um mit Inhalten aus Podigee und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Anzeige
+
+Abonnieren Sie „Welt - der Kommentar“ zum Beispiel bei Spotify, Deezer oder Google.
+
+Der Verdienstorden als einzige allgemeine Verdienstauszeichnung in Deutschland ist die höchste Anerkennung, die die Bundesrepublik für Verdienste um das Gemeinwohl ausspricht. Im Volksmund wird er oft auch als Bundesverdienstkreuz bezeichnet.
+
+Er wird an in- und ausländische Bürgerinnen und Bürger für politische, wirtschaftlich-soziale und geistige Leistungen verliehen sowie für alle besonderen Verdienste um die Bundesrepublik Deutschland, zum Beispiel im sozialen und karitativen Bereich. Eine finanzielle Zuwendung ist mit der Verleihung nicht verbunden.","'Tanja Koch', 'Axel Bojanowski', 'Thore Barfuss'",1600773480,"Deutschland,Corona-Experte",welt
+Gerhard Richter malt nicht mehr. „Irgendwann ist eben Ende“,"Anzeige
+
+Gerhard Richter schmunzelt, als er gefragt wird, ob er wirklich aufhören will. „Irgendwann ist eben Ende“, sagt er der Deutschen Presse-Agentur. „Das ist nicht so schlimm. Und alt genug bin ich jetzt.“ 88 Jahre, um genau zu sein.
+
+Der gebürtige Dresdner gilt als höchstdotierter lebender Maler überhaupt und führt weltweit Künstler-Rankings an. Doch der Mensch Gerhard Richter bildet den größtmöglichen Kontrast zu all diesen Superlativen. Er ist denkbar bescheiden. Jedes Aufsehen um seine Person ist ihm unangenehm. Schon seit vielen Jahren tritt er in der Öffentlichkeit kaum noch in Erscheinung. Seit es ihm gesundheitlich nicht mehr so gut geht und zudem noch Corona herrscht, bleibt er lieber ganz daheim in seinem ruhigen Haus mit vorgelagertem Atelier im Kölner Villenviertel Hahnwald.
+
+Gerade sind seine drei großen Kirchenfenster für das Kloster Tholey im Saarland enthüllt worden. „Das ist sicher meine letzte Werknummer“, sagt er dazu. In seinem Werkverzeichnis komme ein „Tisch“ als Nummer 1. Dieses Bild entstand im Jahr 1962. „Die Fenster haben Nummer 957. Aus.“
+
+Lesen Sie auch Von Dresden nach Düsseldorf Wie Gerd Richter zu Gerhard wurde
+
+Anzeige
+
+1962 – das ist jetzt 58 Jahre her. Und auch da war er schon 30 Jahre alt. Richter ist Jahrgang 1932. Er kann sich noch an das unzerstörte Dresden erinnern. „Die Großmutter besuchen, die Tante besuchen. Wohnungen, Straßenbilder sehe ich da vor mir.“ Ab 1951 studierte er an der Kunstakademie Dresden. Dort durfte man aus der Bibliothek keine Bücher ab dem Impressionismus ausleihen. 1961 ging er in den Westen.
+
+„Ich hatte 1959 die documenta gesehen, damals konnte man noch reisen.“ Er trampte mit einem Freund nach Kassel und bestaunte dort Jackson Pollock, Lucio Fontana … Wirtschaftlich ging es ihm im Westen zunächst schlechter als im Osten. Um sich sein Studium an der Kunstakademie Düsseldorf zu finanzieren, baute er sogar Figuren für Karnevalswagen: einen Eber und sechs kleine Schweinchen aus Pappmaché. Lang, lang ist’s her. 2015 wurde ein „Abstraktes Bild“ von ihm bei Sotheby’s in London für umgerechnet 41 Millionen Euro versteigert. „Das ist gruselig“, sagt er dazu.
+
+In seinem Werkverzeichnis sind seine großen Gemälde und seine Skulpturen aufgenommen. „Es gibt ein paar Arbeiten auf Papier, die eine Nummer haben, aber das sind Ausnahmen“, erläutert Dietmar Elger, Leiter des Gerhard-Richter-Archivs in Dresden und Biograf des Künstlers.
+
+Anzeige
+
+Und jetzt also „aus“. Das wäre das Ende einer Ära. Oder kommt da doch noch was? Fakt ist, dass sich Richter vor zehn Jahren schon einmal ähnlich geäußert hat – und dann folgten noch viele, viele Gemälde, manche davon groß wie eine halbe Wohnzimmerwand.
+
+Lesen Sie auch Geschichtsklitterung Die Mär von der unterdrückten DDR-Kunst
+
+Allerdings hatte man als Außenstehender schon länger ein etwas mulmiges Gefühl, wenn man dabei zusah, wie der schmale alte Herr in seinem Atelier auf eine Leiter stieg, um die riesigen Leinwände zu bearbeiten – und dies im wahrsten Sinne des Wortes. Er pinselte, spachtelte, kratzte und rakelte. Zog also einen großen Schieber über das Bild und verwischte dadurch die Farbe. Das war eine enorme Kraftanstrengung. Inzwischen sagt er selbst, dass er das nicht mehr kann: „Bilder kommen, glaub ich, nicht mehr.“ Und das sei ja auch „kein Wunder mit 88“. Heißt also: Mit dem Malen ist Schluss.
+
+Aber was macht er dann jetzt den lieben langen Tag? Einer wie er kann nicht einfach relaxen, er muss sich immer mit irgendetwas beschäftigen. „Ach, ich mache das und das“, sagt er. „Grabe rum, bringe in Ordnung, muss Briefe beantworten. Ich habe immer was zu tun.“
+
+Anzeige
+
+Die wichtige Nachricht für die Kunstwelt ist jedoch: Gerhard Richter ist durchaus noch schöpferisch tätig. Er zeichnet. Sogar fleißig. Seine kleinformatigen abstrakten Bleistiftarbeiten greifen das Formenrepertoire der Gemälde auf und sind farbig, was es vorher kaum gab. Er nutzt dafür Farbstifte und Fettkreide. Damit erzielt er in den Worten von Dietmar Elger eine „spezifische malerische Anmutung“. Rund 70 dieser neu entstandenen Zeichnungen waren in diesem Jahr in einer Ausstellung im Albertinum in Dresden zu sehen.
+
+Richter selbst kündigt an: „Da wird wahrscheinlich noch was kommen, was im Februar gezeigt wird in München und eventuell New York. Skizzen. Farbig-abstrakt. Nicht so doll.“ Diese letzte Bemerkung – „nicht so doll“ – ist typisch Richter. Sie spiegelt seine selbstkritische Haltung, die so weit geht, dass er in der Vergangenheit immer wieder auch fertige Gemälde verworfen und zerstört hat. Stets vermeidet er es, auf das Attraktive oder gar Dekorative hinzuarbeiten und einem bestimmten Stil oder Geschmack zu folgen. Dazu ist es unerlässlich, dass er sich eine kritische Distanz zum eigenen Werk bewahrt. Er spricht deshalb auch nicht gern über den Erfolg seiner Kunst, schon gar nicht über den kommerziellen. Er schiebt das weg – ganz bewusst.
+
+Lesen Sie auch Neues Museum in Wien Die Dämonen des Austro-Faschismus
+
+Die Zeichnungen will er nicht in das bestehende Werkverzeichnis aufnehmen, sondern bereitet dafür ein eigenes Verzeichnis vor. Dietmar Elger kann sich außerdem vorstellen, dass Richter auch weiterhin Projekte anleitet. „Wo er eben Entwürfe macht, die bearbeitet werden. Dann bekommt er das zurück und korrigiert es wieder.“ Solche Projekte, die körperlich nicht so anstrengend sind, sondern bei denen sein Arbeitsanteil eher konzeptionell ist, könnte er weiter gut bewältigen. Auf diese Weise entstanden auch die Kirchenfenster von Tholey.
+
+Elger glaubt, dass man Richters Äußerungen deshalb etwas relativieren muss: „Ich bin zuversichtlich, dass er jetzt nicht in Rente geht. Man kann sich das schlecht vorstellen.“
+
+Es tut sich also noch so einiges in dem abgeschiedenen Atelier in Köln-Hahnwald. Gerhard Richter hält das alles allerdings für keine große Sache. Er bleibt die Bescheidenheit in Person. „Viel kann ich Ihnen nicht sagen“, bemerkt er geradezu entschuldigend. „Wie’s eben so bei alten Leuten geht …“",Von Christoph Driessen,1600770442,"Nordrhein-Westfalen,Kunst in NRW",welt
+Archäologen entdecken 27 antike Sarkophage,,,1600769744,"Geschichte,Ägypten",welt
+"„Racial Profiling kenne ich, seit ich in der Stadt unterwegs bin“","Shisha-Bars werden in der Öffentlichkeit bevorzugt mit Clankriminalität in Verbindung gebracht. Doch wer sich mit Nabard Faiz in ein solches Lokal setzt, hört eine andere Geschichte.
+
+Anzeige
+
+Nabard Faiz bestellt seine Shisha beim Kellner wie andere ihr Bier in der Kneipe – ohne zu überlegen. Auf der Karte stehen neumodische Geschmacksrichtungen wie Kaugummi und Wassermelone, Lemondrop und Wildberry Chill. Faiz aber wählt Doppelapfel, einen Tabakklassiker für Wasserpfeifen, der trotz des Namens stark nach Anis schmeckt. Dazu einen schwarzen Tee mit Minze.
+
+Der 33-jährige Faiz sieht aus wie einer, der gut in eine Bar in irgendeinem Kölner In-Viertel passen würde. Doch er verkehrt meist im Bonner Norden, er ist Stammgast in der Shisha-Bar „Karizma“. Er trägt ein T-Shirt mit dem Aufdruck „Polaroid“, hochgekrempelte Jeans, weiße Turnschuhe, Brille und Bart. Wacher, freundlicher Blick. Faiz geht vor allem ins „Karizma“, um runterzukommen nach der stressigen Arbeit im Krankenhaus. Im Dezember wird er voraussichtlich sein Medizinstudium abschließen. Im „Karizma“ stehen Ledersessel um weiß gestrichene Paletten, die zu Tischen gestapelt wurden. Im Hintergrund läuft deutscher Hip-Hop. Es ist Samstagnachmittag, 17 Uhr. Der Laden ist noch leer.
+
+Nabard Faiz weiß, welche Assoziationen Shisha-Bars in der Öffentlichkeit wecken. Shisha-Bars, das sind doch diese Orte, an denen sich kriminelle Clans treffen und illegales Geld waschen. Diese Assoziationen kommen nicht von ungefähr: Shisha-Bars stehen im Fokus der Polizei. Im Lagebericht NRW 2018 heißt es: „Der Betrieb von Shisha-Bars hat sich als ein zentraler Faktor im Kontext krimineller Aktivitäten durch Angehörige türkisch-arabischstämmiger Familienclans entwickelt.“ Steuerfahnder lassen regelmäßig Razzien durchführen.
+
+Lesen Sie auch Anschlag in Hanau „Ich bin deutscher Staatsbürger. Wann behandelt man mich endlich so?“
+
+Er hat einen anderen Blick
+
+Anzeige
+
+Obwohl er mit solchen Machenschaften nichts zu tun haben will, geht Nabard Faiz in Shisha-Bars. Und er ist bereit zu erzählen, warum er das tut. Seine Geschichte, sagt er, solle kein Widerspruch sein, sondern nur eine Ergänzung zu dem, was man sonst über Shisha-Bars zu lesen bekomme.
+
+Der Kellner bringt nun die Wasserpfeife. Ganz oben liegen drei glühende Kohlestücke auf einem Kaminkopf, in dem der feuchte Tabak steckt. Faiz saugt am Mundstück, Dampf strömt blubbernd in die mit Wasser gefüllte Kugel. Das Wasser kühle den Rauch, sagt Faiz. Deswegen kratzt er weniger im Hals als eine Zigarette. Gesünder ist Shisha-Rauchen allerdings nicht.
+
+Faiz sagt, er habe einen anderen Blick auf Shisha-Bars als die meisten Deutschen, weil er anders aufgewachsen sei. Faiz war vier, als er mit seinen Eltern vor dem Krieg in Afghanistan flüchtete, Anfang der 90er-Jahre landete die Familie in Bonn. Er wuchs in Tannenbusch auf, einem Stadtteil, der mit Salafismus und Kriminalität in Verbindung gebracht wird. Faiz sagt, er kenne Leute, die dem einen oder dem anderen oder auch beidem zugeneigt waren. Auch ihn hätte es erwischen können, doch seine Eltern sorgten für ein stabiles Umfeld und achteten darauf, dass er eine gute Schulbildung bekam. Nach dem Abi studierte er Medizin in Marburg. Erst in diesem Jahr zog er nach Bonn zurück.
+
+Anzeige
+
+Diskriminierung kennt er von klein auf. Als der Lehrer sagte: „Kanaken raus aus dem Schwimmbad“, hätten er und seine Klassenkameraden das noch zum Anlass genommen, das Verbot zu einem Ehrentitel umzumünzen. Hier die „coolen Kanaken“, dort die „uncoolen Deutschen“. Als Faiz und seine Freunde alt genug waren, um in Clubs zu gehen, scheiterten sie regelmäßig am Türsteher, die sie wegen ihrer Herkunft nicht hineinlassen wollen. „Wir haben es geplant wie den Ausbruch aus einem Gefängnis“, sagt er. Manchmal bildeten sie Zweier-Gruppen mit Freunden ohne Migrationshintergrund, um hineinzukommen. Doch auch das half nur manchmal. Häufiger endeten ihre Abend damit, dass sie sich mit einer Pizza ins Auto setzten. Und irgendwann gaben sie ihre Versuche, in Clubs zu kommen, ganz auf.
+
+„Wir haben nach Orten gesucht, an denen wir uns treffen konnten, wollten aber nicht neben Manfred in der Kneipe sitzen und auch nicht in den Cafés, in denen unsere älteren Verwandten saßen.“ So wurden die Shisha-Bars zu ihrem Ort. Faiz war Anfang 20, als die ersten Lokale in Bonn aufmachten. Türsteher gab es dort nicht. „Ohne die Leute, die nicht in die Klubs kamen, wären die nicht so aus dem Boden geschossen“, sagt Nabard Faiz.
+
+Lesen Sie auch Begegnung in Hanau Was der Shisha-Bar-Besitzer dem AfD-Politiker zu sagen hat
+
+Für ihn ist eine Shisha-Bar ein Ort, der ohne Zuschreibungen funktioniert, an dem er nicht diskriminiert wird. Ein „Safe Space“, sagt Faiz, ein sicherer Platz für Migranten. Dieser „Safe Space“ ist laut Faiz mittlerweile sogar zu einem Symbol der Integration geworden. Seien zu Beginn vor allem junge Migranten gekommen, so rauchten längst auch Nicht-Migranten dort die Wasserpfeife. Faiz kennt Shisha-Bars, die von Deutschen betrieben werden. Anfangs sei kaum Alkohol ausgeschenkt worden sei, doch mittlerweile hätten sich die Shisha-Bars angepasst. Cocktails stehen auf der Karte, Frauen mit und ohne Kopftuch haben die männliche Dominanz aufgebrochen. Für ihn sind Shisha-Bars die neuen Clubs. „Wir Schwarzköpfe sind jetzt hier, und nur noch die uncoolen Leute sind im Club.“
+
+Anzeige
+
+Doch so unbeschwert wie früher geht Faiz nicht mehr in die Shisha-Bar. Am 19. Februar erschoss ein Attentäter in Hanau neun Menschen mit Migrationshintergrund – zu den Tatorten gehörten zwei Shisha-Bars. Seitdem ist Faiz vorsichtig. Kürzlich brannte in Magdeburg eine Shisha-Bar. Auf einer angekokelten Holztür war „Ausländer raus“ zu lesen.
+
+Faiz sagt, Hanau sei „in der migrantischen Community ein Weckruf“ gewesen. „Da war klar – egal, wie integriert du bist, es gibt Leute, die wollen dich töten.“ Faiz hat Abitur, Ausbildung, Studium absolviert, „aber Rassismus macht keinen Halt“. Er hat den Eindruck, dass Hanau zwar unter Migranten noch eine große Rolle spielt, in der gesellschaftlichen Debatte aber nicht mehr. „Das hat Migranten gezeigt, dass sie nicht richtig zur Gesellschaft gehören.“
+
+Lesen Sie auch Azzi Memo „Man wird misstrauisch gegenüber seinen Mitmenschen“
+
+Der Tag seiner Führerscheinprüfung
+
+„Racial Profiling kenne ich, seit ich in der Stadt unterwegs bin“, sagt Faiz. Er erinnert sich etwa an den Tag seiner Führerscheinprüfung. Kaum hatte er bestanden, da setzte er sich in den alten Mercedes seines Vaters – und wurde nach wenigen Minuten von der Polizei angehalten. Leute, die Philipp oder Jonas hießen, würden nicht kontrolliert, sagt er. Faiz sagt, der gewaltsame Tod von George Floyd durch einen Polizisten habe auch in Deutschland eine neue Aufmerksamkeit für die Situation von Migranten geschaffen. Und auch wenn er das Verhalten der Polizisten, die ihn, den Führerscheinneuling kontrollierten, keinesfalls mit den Verhältnissen in Amerika vergleichen will – Sorgen macht er sich eben doch. Wurden nicht erst in dieser Woche die rechtsextremistischen Chats von NRW-Polizisten bekannt? Faiz zitiert den US-Comedian Chris Rock, der sagt, bei bestimmten Berufsgruppen dürfe es keine schwarzen Schafe geben. „Bei Piloten akzeptiert man auch keine schwarzen Schafe, warum bei unserer Polizei?“, fragt Faiz.
+
+Eigentlich seien Shisha-Bars Orte, die dabei helfen könnten, Vorurteile abzubauen, sagt Faiz. Umso unglücklicher ist er, dass sie in letzter Zeit negative Schlagzeilen machen. Mehr als zwei Stunden sitzt er nun schon in der Shisha-Bar. Es ist voller geworden. Männer sitzen zusammen, aber auch Paare. Und Frauen, die eher Mareike als Fatima heißen. Die Stimmung ist gut, aber die Luft ist dicker geworden. Faiz bezahlt seinen Tee und den Doppelapfel und verlässt das Lokal. Erst mal durchatmen.
+
+Der vollständige Text ist aus der WELT AM SONNTAG. Wir liefern sie Ihnen gerne regelmäßig nach Hause.",Sebastian Dalkowski,1600769492,"Nordrhein-Westfalen,Shishabars als Zuflucht",welt
+Dunja Hayali erhält Walter-Lübcke-Demokratie-Preis,"Anzeige
+
+Der nach dem ermordeten Kasseler Regierungspräsidenten Walter Lübcke benannte neue Demokratie-Preis ist erstmals vergeben worden – an drei Preisträger. Ihn erhalten die Journalistin Dunya Hayali, das „Mobile Beratungsteam gegen Rechtsextremismus und Rassismus – für demokratische Kultur in Hessen“ sowie ein Mann, der Angehörige der Opfer des Anschlags von Hanau betreut, wie die Staatskanzlei in Wiesbaden am Dienstag mitteilte.
+
+Dunja Hayali gehe gesellschaftliche Konfliktthemen offensiv an und setze sich für das gesellschaftliche Miteinander ein, teilte die Staatskanzlei mit Quelle: pa/Bernd Kammere/Bernd Kammerer
+
+„Alle Preisträgerinnen und Preisträger eint ihr Einsatz für Freiheit, Respekt und Toleranz“, erklärte Hessens Ministerpräsident Volker Bouffier (CDU). „Sie machen sich für ein funktionierendes Miteinander in der Gesellschaft und die Bewahrung unserer demokratischen Werte stark.“ Wann der Preis überreicht wird, steht noch nicht fest.
+
+Die ZDF-Journalistin Hayali gehe gesellschaftliche Konfliktthemen offensiv an und setze sich für das gesellschaftliche Miteinander ein, teilte die Staatskanzlei mit. Das „Mobile Beratungsteam gegen Rechtsextremismus und Rassismus – für demokratische Kultur in Hessen“ unterstützt und begleitet demnach runde Tische in Gemeinden, Schulen und anderen öffentlichen Einrichtungen sowie Angehörige von Rechtsextremen.
+
+Lesen Sie auch Geständnis im Lübcke-Prozess Für Schießübungen eine Zielscheibe mit Merkels Konterfei
+
+Anzeige
+
+Der dritte Preisträger, Robert Erkan, ist in Hessen geboren, seine Eltern haben einen kroatischen und türkischen Migrationshintergrund und gehören unterschiedlichen Konfessionen an. Erkan sei katholischer Messdiener gewesen und besuche regelmäßig eine Moschee – er sei Mittler zwischen den Religionen.
+
+Walter Lübcke war am 2. Juni 2019 auf der Terrasse seines Wohnhauses erschossen worden, die Ermittler gehen von einem rechtsextremistischen Motiv aus.","'Hannelore Crolly', 'Uwe Müller', 'Deniz Yücel', 'Per Hinrichs Aus Frankfurt Am Main', 'Tina Kaiser'",1600769440,"Deutschland,Einsatz für „Toleranz“",welt
+180 Wale kämpfen vor Australien gegen den Tod - Nur eins macht den Rettern Mut,"Anzeige
+
+Australische Tierschützer kämpfen für die Rettung von rund 180 vor der Küste Tasmaniens gestrandeten Grindwalen, doch ihnen läuft die Zeit davon: Eine „kleine Zahl“ der Tiere sei bereits befreit worden, doch viele andere hingen noch fest, so die Experten vor Ort.
+
+Die Rettungsbemühungen würden nun verstärkt, teilte der zuständige Behördenvertreter Nic Deka mit. Für Dutzende der Meeressäuger aber kam jede Rettung zu spät. Was zu der Massenstrandung geführt hat, blieb zunächst unklar.
+
+Insgesamt waren am Montag rund 270 Grindwale in der Bucht von Macquarie Harbour an Tasmaniens abgelegener Westküste an zwei Sandbänken gestrandet. Bis Dienstag war nach Schätzung des Meeresbiologen Kris Carlyon bereits rund ein Drittel von ihnen verendet, also etwa 90 Tiere. Laut Carlyon wird die schwierige Rettungs-Operation noch mehrere Tage dauern.
+
+Nur einige der Tiere können gerettet werden
+
+Anzeige
+
+Bilder zeigten, wie die Meeressäuger dicht gedrängt in flachen Gewässern nach Raum suchten. Die meisten Wale seien mit Booten nicht zu erreichen, sagte der Carlyon vor Journalisten weiter. Rund 60 Retter - darunter Freiwillige und Mitarbeiter örtlicher Fischfarmen - konzentrierten sich nun auf die Wale, die die besten Überlebenschancen hätten.
+
+Lesen Sie auch Heldengeschichten Die Reparatur der Ozeane. Eine Recherchereise um die Welt
+
+„Einige Tiere sind vielleicht einfach zu groß oder an einem ungeeigneten Ort“, sagte Carlyon. Es sei eine der schwierigsten Rettungsaktionen verglichen mit frühere Massenstrandungen in Tasmanien.
+
+Kälte und Regen sowie ungleichmäßige Gezeitenfolgen in der Bucht erschwerten zusätzlich ihre Arbeit. Auf der anderen Seite aber sicherte das schlechte Wetter das Überleben der Tiere, wie Carlyon erklärte: „Für die Wale ist es ideal – es hält sie nass und kühl.“ Dennoch kämen die Retter nicht umhin, eine Auswahl der Tiere zu treffen, die sie noch für fit genug für eine Bergung hielten.
+
+Grindwale vor einer Sandbank im Hafen von Macquarie an der Westküste Tasmaniens Quelle: dpa
+
+Anzeige
+
+Massenstrandungen von Walen an der tasmanischen Küste sind keine Seltenheit. Doch ist eine derart große Gruppe gestrandeter Wale ist an der Insel bereits seit mehr als einem Jahrzehnt nicht mehr gesichtet worden. Carlyon vermutete, die Tiere könnten bei der Suche nach Futter zu nah an die Küste geraten sein – oder ein, zwei verirrten Mitgliedern ihrer Gruppe gefolgt sein.
+
+Grindwale sind sehr soziale Tiere, mehrere Hundert Wale können gemeinsam auf Wanderschaft sein. Dabei folgen die Gruppen – Schulen genannt – einzelnen Leittieren. Diesen schwimmen sie auch in flaches Wasser nach, wo sie sich nicht mehr orientieren können.
+
+Bei solchen Massenstrandungen, deren Ursachen noch weitgehend unklar sind, stirbt meist ein Großteil der Tiere.","'Viola Ulrich', 'Florian Sanktjohanser', 'Kevin Knauer'",1600769400,"Panorama,Tasmanische See",welt
+Die Niederlage in der Toskana ist für Salvini schmerzhaft,,,1600768865,"Ausland,Regionalwahlen in Italien",welt
+Von Grabräubern verschont – 27 intakte Sarkophage entdeckt,"Archäologen haben in der bekannten Grabstätte Sakkara in Ägypten mindestens 27 antike Sarkophage entdeckt. Sie seien rund 2500 Jahre unter der Erde begraben gewesen. Es könnten noch weitere Geheimnisse enthüllt werden.
+
+Anzeige
+
+Mehr als zweieinhalb Jahrtausende lang blieb das Geheimnis gewahrt; kein Grabräuber fand die beiden Verstecke. So können Forscher jetzt hoffen, wichtige Erkenntnisse über die Spätzeit des alten Ägyptens zu gewinnen. In Sakkara, einer Nekropole (Totenstadt) südlich von Kairo, sind ägyptische Archäologen jetzt in einem Schacht auf mindestens 27 versiegelte und intakte, niemals aufgebrochene Sarkophage gestoßen. Ihr Zustand ist nach archäologischen Maßstäben sehr gut.
+
+Mostafa al-Waziri, der Generalsekretär des ägyptischen Rates für Archäologie, vor dem prächtigsten jetzt gefunden Sarkophag Quelle: via REUTERS
+
+Zunächst hatten die Forscher vergangene Woche 13 Sarkophage entdeckt. Bei der Fortsetzung der Suche fanden sie dann vor einigen Tagen weitere 14 Exemplare. Außer den Särgen wurden kleinere Artefakte aus dem Schacht geholt, darunter Figuren, wie sie oft ägyptischen Gräbern beigegeben wurden, um den Verstorbenen im Jenseits zu helfen. Im Grab befand sich auch ein kleiner Holzobelisk von etwa 40 Zentimetern Höhe, der mit Darstellungen der ägyptischen Göttinnen Isis und Nephthys sowie des Gottes Horus, einer der bekanntesten alten ägyptischen Gottheiten, bemalt war.
+
+Ob es sich um einen eigens ausgehobenen Grabschacht handelt oder um einen wieder benutzten Brunnen, sei noch nicht klar. Ägyptens Antikenminister Khaled El-Enany, der die Ausgrabung besuchte und den Fund öffentlich machte, sagte: „Eine sehr aufregende Entdeckung. Und ich denke, es ist nur der Anfang.“ Neveine el-Arif, eine Sprecherin seines Ministeriums, kündigte an, weitere Details und „Geheimnisse“ würden voraussichtlich im Oktober bekannt gegeben.
+
+Ein Kalksteinsarkophag in der Grabnische im Schacht Quelle: via REUTERS
+
+Anzeige
+
+Alle 27 Sarkophage scheinen seit ihrer Beerdigung nicht mehr geöffnet worden zu sein. Die Behörde erwartet, dass wahrscheinlich noch mehr Artefakte an derselben Stelle gefunden werden können. Das teilte Mostafa al-Waziri mit, der Generalsekretär des Obersten Rates für Altertümer in Ägypten.
+
+Sakkara, ein Plateau, diente (mit Unterbrechungen) mehr als zwei Jahrtausende lang als Nekropole für Memphis, die Hauptstadt des alten Pharaonenreiches. Hier befanden sich mindestens elf Pyramiden, darunter die berühmte Stufenpyramide, sowie Hunderte von Gräbern hoher Beamter. Die Funde reichen von der 1. Dynastie (datiert auf 2920 v. Chr. bis 2770 v. Chr.) bis zur christlich-koptischen Zeit der Spätantike (395 bis 642).
+
+Archäologen präsentieren Mumien von Tierbabys Sensationeller Fund in Ägypten: In einer Grabkammer wurden Hunderte Statuen und zahlreiche Tiermumien aus dem 7. Jahrhundert vor Christus entdeckt. Darunter ist ein riesiger Skarabäus und möglicherweise auch mumifizierte Löwenbabys. Quelle: Reuters
+
+In den vergangenen Jahren hatten Archäologen in Sakkara schon andere bedeutende Funde gemacht. So entdeckten sie eine Grabkammer mit mehr als 75 Katzenstatuen und zahlreichen mumifizierten Tieren, darunter vermutlich auch Löwenbabys. Es wären, wenn sich das bewahrheitet, die ersten mumifizierten Löwen, die archäologisch bestätigt werden könnten. In der Nekropole wurden neueren Erkenntnissen der Ägyptologie zufolge Hunderttausende Tiere geopfert und in Gräbern deponiert.
+
+Lesen Sie auch Totenstadt Sakkara Ägypten präsentiert neu entdeckte, 4500 Jahre alte Grabkammer
+
+Anzeige
+
+2018 wurde ein vollständig erhaltenes Familiengrab ausgegraben, das einem Hohepriester namens Wahtye gehörte. Es ist mehr als 4400 Jahre alt. Erhaltene Ausschmückungen zeigen den königlichen Priester mit seiner Mutter, seiner Frau und anderen Familienmitgliedern. Wahtye war während der fünften Dynastie (2500 bis 2300 v. Chr.) Hohepriester unter Pharao Neferirkare.
+
+Dutzende Mumien entdeckt - Öffnung von Sarkophag live im TV In Ägypten sind Dutzende Mumien von Männern, Frauen und Kindern entdeckt worden. Die Überreste liegen südlich von Kairo in der Region Sohag. Die Öffnung eines Sarkophags wurde jetzt live im TV übertragen. Quelle: WELT/ Kevin Knauer
+
+Ferner entdeckten Mitarbeiter des Ministeriums in der weiter südlich am Nil gelegenen Stadt Luxor, die auf dem Areal der zeitweiligen pharaonischen Hauptstadt Theben liegt, ebenfalls 2019 schon 30 alte Holzsärge mit Inschriften und Hieroglyphen. Sie werden künftig im neuen Museum in der Nähe der Pyramiden von Gizeh gezeigt werden.
+
+In den vergangenen Jahren hat Ägypten die Förderung archäologischer Forschung verstärkt, um seine wichtige, aber schwächelnde Tourismusindustrie wiederzubeleben. Seit dem „arabischen Frühling“ 2011, durch den der diktatorisch regierende Präsident Hosni Mubarak gestürzt wurde, und den folgenden politischen Unruhen schwächelt der wichtige Wirtschaftsfaktor. Der weltweite Einbruch des Reiseverkehrs durch die Corona-Pandemie hat das 2020 weiter verstärkt.
+
+Sie finden „Weltgeschichte“ auch auf Facebook. Wir freuen uns über ein Like.",Antonia Kleikamp,1600768728,"Geschichte,Ägyptologie",welt
+Großrazzia wegen Geldwäsche und Steuerhinterziehung,"Am Dienstagmorgen rückte die Polizei zu einer Großrazzia in 18 Häusern, Wohnungen und Büroräumen in Berlin und Brandenburg aus. Ziel soll auch die Villa eines Clanchefs gewesen sein.
+
+In Berlin haben Beamte mehrere Anwesen durchsucht. Im Mittelpunkt der Ermittlungen steht Clan-Chef Arafat Abou-Chaker. Es soll um Steuerhinterziehung und Geldwäsche gehen, sagt Polizeisprecherin Anja Dierschke im Gespräch mit WELT-Reporterin Marie Przibylla.
+
+Anzeige
+
+Die Berliner Polizei ist mit einer großen Razzia gegen mehrere Verdächtige wegen des Verdachts des Betrugs, der Steuerhinterziehung und der Geldwäsche vorgegangen. Dabei gehe es auch um einen Zusammenhang mit der organisierten Kriminalität, sagte eine Polizeisprecherin am Dienstagmorgen. Die Polizei nannte die Namen der Verdächtigen nicht. Dazu soll auch Clanchef Arafat Abou-Chaker gehören, der gerade vor dem Landgericht Berlin steht. Es gab keine Festnahmen. Zuvor hatten „Bild“ und „B.Z.“ berichtet.
+
+Durchsucht wurden seit sechs Uhr 18 Wohnungen, Häuser und Büroräume in Berlin, Brandenburg und der Schweiz, darunter eine Villa in Kleinmachnow südlich von Berlin. Kriminalpolizei und Steuerfahndung beschlagnahmten schriftliche Unterlagen und Datenträger. Ziel sei es, Beweise zu finden und Vermögenswerte einzuziehen, sagte die Sprecherin.
+
+An dieser Stelle finden Sie Inhalte aus Twitter Um mit Inhalten aus Twitter und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Mehr als 300 Polizisten waren im Einsatz, darunter auch ein Spezialeinsatzkommando (SEK) sowie mehrere Abteilungen des Landeskriminalamtes (LKA). Zwischenfälle gab es nach Angaben der Polizei nicht: „Das verlief bislang alles unproblematisch.“
+
+Lesen Sie auch Prozess gegen Abou-Chaker „Ich kann auch anders“, sagt der Anwalt. Bushido kontert
+
+Anzeige
+
+Bei einer Razzia ging es um Managerhonorare in der Rapper-Szene. Das teilte die Staatsanwaltschaft am Dienstag mit. Ermittelt und durchsucht werde wegen des „Verdachts von Steuerstraftaten in erheblichem Umfang im Zusammenhang mit Managementleistungen“ für Rapper.
+
+Unter Verdacht stehen demnach vier Beschuldigte, die „teilweise dem Bereich der OK zuzurechnen sind“. OK steht hier für organisierte Kriminalität. Vermögen in Höhe von mehreren Millionen Euro wurde vorläufig sichergestellt, wie die Staatsanwaltschaft schrieb.
+
+An dieser Stelle finden Sie Inhalte aus Twitter Um mit Inhalten aus Twitter und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Die Berliner Gewerkschaft der Polizei (GdP) hat die Razzia begrüßt. „Die heutigen Maßnahmen sind wichtig, denn der Rechtsstaat muss immer weiter dranbleiben, um den Sumpf trockenzulegen“, teilte die GdP mit. Clans hätten in den letzten Jahren viel illegales Geld in den legalen Kreislauf gespeist und „mit Drogengeschäften, Schutzgelderpressung und anderen kriminellen Einnahmequellen Immobilien und andere Luxusgüter finanziert“. Jährlich würden im Geldwäscheparadies Deutschland mehr als 100 Milliarden Euro reingewaschen. Polizei und Staatsanwaltschaft bräuchten mehr Personal und gesetzliche Möglichkeiten zur Vermögensabschöpfung.
+
+Hier können Sie unsere WELT-Podcasts hören Wir nutzen den Player des Anbieters Podigee für unsere WELT-Podcasts. Damit Sie den Podcast-Player sehen können und um mit Inhalten aus Podigee und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+„Dicht dran – Der Reportage-Podcast“ jetzt abonnieren bei Spotify, Apple Podcast, Deezer oder direkt den RSS-Feed.","'Denis Fengler', 'Karsten Seibel'",1600765486,"Panorama,Berlin und Brandenburg",welt
+"„Wir sorgen dafür, dass das Bild des Polizisten positiv geprägt ist“","Seit 2015 ist der Verkehrskasper Patrick Ittrichs Alter Ego – und das stürzte ihn durchaus in innere Konflikte. „In der Anfangszeit wollte ich nicht, dass meine Rolle als Verkehrskasper an die Öffentlichkeit kommt, weil ich nicht wusste, wie sie damit umgeht, wenn ich auf der einen Seite in der Bundesliga pfeife und es auf der anderen heißt: ‚Da kommt der Kasper‘“, sagt Ittrich, der als Schiedsrichter bereits über 100 Bundesligaspiele geleitet hat.
+
+Längst aber hat er umgedacht und ist stolz auf das Kasperletheater, das er da mit seinen Puppen veranstaltet. Allein im vergangenen Jahr gab Ittrich 400 Vorstellungen.",Berries Boßmann,1600767428,"Sport,Bundesliga-Schiedsrichter Ittrich",welt
+Der explosive Frieden,"Ist der Nahe Osten wirklich ein anderer, nur weil Israel mit den Vereinigten Arabischen Emiraten und Bahrain Frieden geschlossen hat? Schließlich arbeiten die Golfaraber schon seit Jahren mit Israel zusammen gegen den gemeinsamen Feind Iran.
+
+Dieser Großkonflikt ist so unberechenbar, weil er so viele Gegensätze gleichzeitig enthält: zwischen Sunniten und Schiiten, Juden und Muslimen, Säkularen und Islamisten, Monarchie und Gottesstaat. Am Ende geht es um Macht, Geld und oft genug das nackte Überleben der Akteure. Und genau hier hat der Friedensschluss etwas verändert. Er hat den Mittelpunkt des Konflikts verschoben.","Daniel-Dylan Böhmer, Alfred Hackensberger, Christine Kensche",1600767184,"Ausland,Großkonflikt",welt
+Und dann wagt die „Ehrenpflaume“ einen tiefen Blick in den Abgrund,"Anzeige
+
+An dem Tiefpunkt dieses an Tiefpunkten dann doch ungewöhnlich reichen Tages, da steht Kai Pflaume in einer Studioküche und jongliert ziemlich routiniert mit drei, na ja klar, mit drei Pflaumen, die er ein paar Minuten später zu einem Kuchen verarbeiten wird. Kai Pflaume lacht dabei traurig in eine auf ihn gerichtete Kamera.
+
+Eigentlich lacht er bloß in die Kamera, so wie Kai Pflaume immer in die Kamera hineinlacht, wenn eine Kamera auf Kai Pflaume gerichtet ist. Dass er dabei traurig wäre, das ist eine Zuschreibung. Eine Vermutung. Vielleicht auch nur eine Hoffnung. Denn an dem Tiefpunkt dieses an Tiefpunkten dann doch ungewöhnlich reichen Tages, fragt man sich ganz unwillkürlich, ob dieses recht einmalige, zumindest aber ziemlich ungewöhnliche Experiment dann nicht vielleicht doch ganz grandios gescheitert ist?
+
+Das Experiment. Kai Pflaume hat jetzt einen YouTube-Kanal, und auf diesem YouTube-Kanal filmt er sich, wie er Menschen trifft, die YouTube machen. Den Kanal nennt er „Ehrenpflaume“. Das ausgerechnet er, ausgerechnet Kai Pflaume, 53, das Gesicht, ja, die Personifikation des deutschen Privatfernsehens, 2020 den Sprung in das neue Medium macht, das ist nicht nur erstaunlich, das ist auch mutig, bleibt Pflaume doch für immer verbunden mit der televisionären Anarchie des bunten 90er-Jahre Quatsch-TV. Einer Zeit, in der es noch um die große multimediale Grenzüberschreitung ging, um das Ausprobieren, das Aufbrechen öffentlich-rechtlicher Sehgewohnheiten. Um „Jux & Dallerei“, „Anpfiff“ und „Tutti Frutti“. Auch wenn Kai Pflaume natürlich selber nie eine Grenze überschritten hat.
+
+1993: Kai Pflaume moderierte die Sendung ""Nur die Liebe zählt"" Quelle: United Archives via Getty Images
+
+Anzeige
+
+Pflaume war in der Punk-Ära des Privatfernsehens der angeheiratete Schwiegersohn, bieder, brav, angepasst, viel zu nett eigentlich, Versicherungsvertretercharme, wenn er jovial in die Kamera zwinkerte. Trotz allem, man mochte den Kerl irgendwie. Auf Pflaume konnten sich jeder einigen. Mit 14 Jahren noch Leipziger Vizestadtmeister im Tischtennis, zehn Jahre später erster Auftritt bei Rudi Carrells „Herzblatt“, dann bei einem Casting entdeckt und Fernsehgeschichte mit „Nur die Liebe zählt“ und ein bisschen „Glücksspirale“ geschrieben. Kaufe ein V wie Verdacht auf Midlife-Crisis, denn heute ist Kai Pflaume Mitte 50 und definiert sich nach ein paar Jahren „Goldene Henne“ und mittlerweile auch „ARD“-Moderation noch einmal komplett neu, aber nein, moment, das war ja das „Glücksrad“, da gerät schnell mal was durcheinander. Egal, bleiben wir im Bild, denn vielleicht ist Pflaume auch A wie Avantgarde, denn als Erster aus der alten TV-Riege versteht der Moderator YouTube als das, was das Privatfernsehen einmal gewesen ist: als eine große multimediale Grenzüberschreitung, als das Aufbrechen etablierter Sehgewohnheiten. Und er jetzt wieder mittendrin.
+
+The kids aren’t alright. Immer noch nicht.
+
+An dieser Stelle finden Sie Inhalte aus YouTube Um mit Inhalten aus YouTube und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Und so steht er dann halt in einer Fernsehstudioküche und backt einen Pflaumenkuchen, nachdem er mit dem Gaming-YouTuber Rewinside zuvor im Fitnessstudio war. Ein Blick in den Abgrund. Rewinside hat 3,19 Millionen Abonnenten und seinen Erfolg hauptsächlich Let’s-Play-Videos über „Minecraft“ zu verdanken. Das bedeutet, er, ein erwachsener Mann, spielt ein digitales Bauklötzchenspiel für Kinder. Und Kinder, oder eben Erwachsene, die auf dem geistigen Niveau von Kindern hängengeblieben sind, schauen ihm dabei zu. Alles sehr erfolgreich.
+
+Und jetzt zeigt er Pflaume seine Welt, die genauso aussieht, wie man sich die Welt von einem „Minecraft“-YouTuber vorstellt, und der Vorschlag mit Kai Pflaume einen Pflaumenkuchen zu backen, der kam natürlich nicht von Kai Pflaume, sondern von ihm, von Rewi, wie seine Kinderfans den Rewinside in ihrer imaginierten Verbundenheit nennen.
+
+Lesen Sie auch Ava Max im Interview „Es ist ein seltsamer Haarschnitt, ich bin auch seltsam“
+
+Anzeige
+
+Lustig soll das sein, und man gewinnt schon die erste Erkenntnis aus diesem Format, nämlich, dass der trockene bundesrepublikanische Schenkelklopferhumor im 21. Jahrhundert auch staubtrockener bundesrepublikanischer Schenkelklopferhumor bleibt, wenn man ihn in schnellen Schnitten und auf einem neuen Medium präsentiert. The kids aren’t alright. Immer noch nicht. Als der Kuchen fertig ist, fragt Rewi, ob es für den Kai cool wäre, wenn er noch einmal schnell bei LFDY reinjumpt, um sich eine Hose zu kaufen. Ist cool für den Kai, und Rewi kauft sich dann eine Hose. Danach fahren sie in sein Studio. Ende.
+
+Das Konzept auf dem Kanal ist klar definiert. Pflaume besucht YouTuber und begleitet sie einen Tag lang durch ihr Leben. Jetzt sind die YouTuber, die Pflaume sich ausgesucht hat, aber nicht irgendwelche YouTuber, die YouTuber, die Kai Pflaume ausgesucht hat, sind genau die YouTuber, die auch wirklich YouTube sind. Die in ihrer Vielfältigkeit das Gesicht dieser Plattform prägen. MontanaBlack, noch immer erfolgreichster Streamer Deutschlands, Pamela Reif, Deutschlands bekannteste Fitness-Influencerin, Gewitter im Kopf, der gehypteste Kanal des Jahres, der das Leben eines Jungen mit Tourette dokumentiert – man könnte es am Reißbrett nicht besser zusammenstellen, Pflaume hat die gesamte Champions League bekommen. Das Experiment, das ist natürlich nicht gescheitert, sondern geglückt, denn all diese Menschen erzählen ja ganz viel, gerade, wenn sie gar nichts erzählen.
+
+Knossi ist ADHS, das man versucht, mit Speed zu kurieren
+
+Aber the show must go on und der Kai natürlich auch, weiter, immer weiter, dahin, wo das Publikum heute nun einmal ist, und das Publikum, das ist heute bei Knossi. Knossi, bürgerlich Jens Knossalla, ist der selbsternannte König des Internets. Den Titel hat er sich gegeben, weil er gerade sämtliche Zuschauerrekorde knackt. Knossi ist so etwas wie eine menschgewordene ADHS-Erkrankung, die man fälschlicherweise versucht hat, mit einer Überdosis Speed zu kurieren. Ein Knossi-Stream ist das interaktive RTL2-Abendprogramm der Internetgeneration. Lauter. Schneller. Bunter.
+
+Anzeige
+
+Knossi schreit und brüllt, er spielt Online-Casino-Spiele, springt auf seinen Stuhl, wenn er gewinnt, fällt von seinem Stuhl, wenn er verliert, packt Pakete von seinen Zuschauern aus und manchmal, da sind in den Paketen die Fäkalien der Zuschauer drin, was Knossi dann zum Würgen bringen, was die Knossi-Fans wiederum feiern, weil es irgendwie lustig aussieht, wenn Knossi würgen muss. „Knossis Würgereiz“ ist mittlerweile eine gar nicht mehr so kleine Meme-Seite auf Instagram, die bereits über 10.000 Follower verzeichnen kann.
+
+Lesen Sie auch Streit der Verschwörungstheoretiker Als es um die Hitler-Theorie geht, da widerspricht Attila Hildmann vehement
+
+Knossi hat zwar keinerlei Schamgrenze, aber das Herz dann doch am rechten Fleck. Außerdem ist er der geborene Entertainer. Knossi ist Knossi und mit seiner Knossi-Show 24 Stunden auf Sendung, auch wenn keine Kamera läuft, was eigentlich nie der Fall ist. Er schafft es sogar, unterhaltsam zu sein, während er mit Kai Pflaume zusammen den Pferdemist von seiner Pferdekoppel wegschaufelt.
+
+An dieser Stelle finden Sie Inhalte aus YouTube Um mit Inhalten aus YouTube und anderen sozialen Netzwerken zu interagieren oder diese darzustellen, brauchen wir Ihre Zustimmung. Soziale Netzwerke aktivieren
+
+Anschließend zeigt er Kai das Haus, in dem er wohnt und in dem bemerkenswert viele Knossi-Gemälde hängen, und sein Livestreamstudio, das unerwartet klein ausfällt. Dann erzählt er, dass er sich damals, mit 19, auch einmal bei „Nur die Liebe zählt“ beworben hat. Wurde aber nicht genommen. Und dann gelingt ein Moment, der sehr selten ist, denn man sieht für einen kurzen Moment einen sehr ernsten Knossi. Einen Knossi, der für ein paar Sekunden erkennen lässt, wie ernst ihm die Sache mit dem Spaß doch ist, der genau beschreibt, wie er sich mit seinen Livestreams an professionellen Fernsehsendungen orientiert hat, und zum ersten Mal so wirkt, als wäre das alles nicht bloß eine große Show, sondern auch ein durchdachtes Konzept.
+
+Unausgesprochene Kriegserklärung
+
+Ein Moment, der auch zeigt, wie diese Menschen, die auf YouTube sehr erfolgreich ihr eigenes Ding machen, angetrieben sind vom Privatfernsehen, das ihnen nicht ermöglicht hat, ihr eigenes Ding zu machen. Aus Kränkungen können große Dinge entstehen. Knossi hat das Fernsehen in den letzten Monaten vorgeführt. Mit seinem Angel-Camp organisierte er ein mehrtägiges Outdoor-Camp mit prominenter Besetzung, so was wie ein „Promi Big Brother“ für die nächste Generation. Er erreichte in seiner Spitze bis zu 300.000 Livezuschauer. Und zeigte, dass er technisch in der Lage war, alles zu realisieren, was die alten Fernsehsender auch so realisieren können. Es war eine unausgesprochene Kriegserklärung. Und auch der Beginn einer Zeitenwende.
+
+Lesen Sie auch Matze Hielscher Er durchschaut die Millennials wie kaum ein anderer
+
+Aber davon soll hier gar nicht die Rede sein, denn schon ein paar Minuten später trägt Kai Pflaume die Knossi-Krone, sitzt vor einem Greenscreen, hält ein wieder und wieder aufjaulendes Megafon in der Hand, während Knossi hinter ihm auf und ab springt und Zehntausende Zuschauer in der Webcam begrüßt, die sich nach und nach zum Livestream dazuschalten, und man wundert sich erneut, warum Kai Pflaume sich scheinbar überhaupt nicht wundert über das, was er da alles so beobachtet.
+
+Und dann fällt einem wieder ein, dass er wohl auch einfach schon sehr viel Schlimmeres gesehen haben muss, damals in den 90ern, als Karl Dall mal eine große Nummer war, Mike Krüger als Superstar galt, und was Sendekollege Hugo Egon Balder so alles im Backstage getrieben haben wird, das möchte man sich gar nicht vorstellen. Es war die Zeit, in der niemand, wirklich niemand glaubte, dass RTL und Sat.1 eine Zukunft haben würden. Es war derselbe Elfenbeinturmkulturpessimismus, der YouTube und seinen Gesichtern heute entgegenschlägt.
+
+Eine schrecklich-schöne Fundgrube
+
+Es ginge ihm nicht darum zu dokumentieren und zu bewerten, sagt Pflaume über seinen Kanal, wobei das natürlich Quatsch ist, denn klar dokumentiert er, alleine schon, indem er das, was da passiert, aufzeichnet und ins Internet stellt. Er dokumentiert YouTube als das, was es ist, als eine Chimäre aus bester Unterhaltung und fürchterlicher Langeweile, als einem Moloch aus fürchterlichen Selbstdarstellern und begabten Entertainern, aus interessanten, vielschichtigen Charakteren und zurückgebliebenen Abzockern. YouTube, das ist Teenage-Wasteland und kreatives Kraftzentrum in einem, vor allem ist es die längst gegenwärtige Zukunft der Entertainmentbranche. Kai Pflaume zeigt genau das in seinem ganzen Facettenreichtum, seine Videos sind Mosaiksteine des contemporary entertainments, eine Fundgrube, schrecklich und schön zugleich.
+
+Und Pflaume selbst? Der kommt an. Nach gerade einmal einer Woche hat er über 266.000 Abonnenten gewinnen können und das geschafft, was außer einem Dieter Bohlen kaum jemand schafft: als Zugpferd der alten Zeit eine neue Generation für sich zu überzeugen. Und von ihr geliebt zu werden. Seinen Kanalnamen, sagt Kai Pflaume, bescheiden wie er ist, habe er zumindest von seiner Community bekommen. Für die ist er halt einfach eine Ehrenpflaume.",Dennis Sand,1600766799,"Panorama,Kai Pflaume auf YouTube",welt
